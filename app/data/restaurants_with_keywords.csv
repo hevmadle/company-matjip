@@ -1,0 +1,1344 @@
+﻿restaurant_id,name,menu_category,walk_min,place_url,data_type,google_place_id,google_rating,google_rating_count,price_level,price_min_won,serves_lunch,serves_dinner,good_for_groups,reservable,review_keywords
+K1821024145,샐러디 여의도역점,샐러드,1,http://place.map.kakao.com/1821024145,실제,ChIJNYNVdFGffDURePQjPpAnZ_E,4.7,10.0,저렴,,True,True,True,,"맛있음(3), 만족(1), 붐빔(1)"
+K10881976,파리바게뜨 여의도점,간식,1,http://place.map.kakao.com/10881976,실제,,,,,,,,,,모름
+K9431997,차이홍,중식,1,http://place.map.kakao.com/9431997,실제,ChIJl9E1hD2ffDURraGQpbkEorw,3.9,322.0,보통,10000.0,True,True,True,True,"맛있음(4), 맛없음(1)"
+K11078494,레벤호프 여의도점,술집,1,http://place.map.kakao.com/11078494,실제,ChIJl9E1hD2ffDURhPlammWymvs,3.2,138.0,보통,10000.0,,,True,,"분위기(2), 붐빔(1), 불만(1), 만족(1)"
+K8435069,신동양대반점,중식,1,http://place.map.kakao.com/8435069,실제,ChIJQ5e0hT2ffDURWGd4DOsLljs,3.7,540.0,보통,10000.0,True,True,True,True,"맛있음(2), 맛없음(2), 보통(1)"
+K10874157,프렌즈,술집,1,http://place.map.kakao.com/10874157,실제,ChIJQ5e0hT2ffDURihjEuPVviUE,3.0,3.0,,,,,,,"비쌈(1), 불만(1)"
+K396419545,본죽&비빔밥cafe 여의도역점,퓨전요리,1,http://place.map.kakao.com/396419545,실제,ChIJJRiJhj2ffDURUWYVWOF89nE,3.6,65.0,보통,10000.0,True,True,,True,"빠름(1), 분위기(1), 양많음(1), 웨이팅(1), 불만(1)"
+K1298202970,동방양고기램,한식,1,http://place.map.kakao.com/1298202970,실제,ChIJq5wghD2ffDURA0IH1taO_xc,3.8,39.0,보통,30000.0,,True,True,True,"단체·회식(2), 맛있음(1), 붐빔(1), 보통(1)"
+K1684195721,아루히모모,일식,1,http://place.map.kakao.com/1684195721,실제,ChIJi-BCYCuffDURWmXyROcwyGk,4.7,273.0,아주 비쌈,100000.0,True,True,,True,"비쌈(1), 친절(1), 가성비(1), 맛있음(1), 분위기(1)"
+K621917918,프레퍼스 여의도역직영점,샐러드,1,http://place.map.kakao.com/621917918,실제,ChIJjW7ZyQaffDURKJox6XvLyKY,4.8,208.0,보통,10000.0,,,,,"만족(3), 맛있음(2)"
+K919616380,파랑닭,치킨,1,http://place.map.kakao.com/919616380,실제,,,,,,,,,,모름
+K2138625187,정식당,한식,1,http://place.map.kakao.com/2138625187,실제,ChIJQ5e0hT2ffDURPtD0KwRsemo,4.2,9.0,,,True,True,True,True,"맛있음(2), 만족(1), 단체·회식(1), 분위기(1)"
+K8222991,남촌,한식,1,http://place.map.kakao.com/8222991,실제,ChIJQ5e0hT2ffDUROsCe7bCtidw,4.1,54.0,,,True,True,True,True,"맛있음(3), 보통(1), 가성비(1)"
+K660305148,더아루히,일식,1,http://place.map.kakao.com/660305148,실제,ChIJi-BCYCuffDURWmXyROcwyGk,4.7,273.0,아주 비쌈,100000.0,True,True,,True,"비쌈(1), 친절(1), 가성비(1), 맛있음(1), 분위기(1)"
+K7966149,수미산정,소고기,1,http://place.map.kakao.com/7966149,실제,ChIJl9E1hD2ffDURy8yFLdsJLfY,3.5,47.0,보통,10000.0,True,True,True,True,"단체·회식(2), 만족(1), 웨이팅(1), 맛있음(1)"
+K1604444219,유일양꼬치,중식,1,http://place.map.kakao.com/1604444219,실제,ChIJUeVthD2ffDURBOy6VUX0Pck,4.2,99.0,,,,True,True,True,"맛있음(2), 빠름(1), 비쌈(1), 맛없음(1)"
+K854333533,자연한우,소고기,1,http://place.map.kakao.com/854333533,실제,,,,,,,,,,모름
+K1222694695,황소갈비,소고기,1,http://place.map.kakao.com/1222694695,실제,ChIJ-T1LWhGffDUR6Fm151WahnU,4.3,4.0,,,True,True,True,True,"만족(1), 양많음(1)"
+K671502424,푸드카페 여의도역점,분식,1,http://place.map.kakao.com/671502424,실제,ChIJq5wghD2ffDURMvcNbYhbcYc,3.8,39.0,저렴,,True,True,True,,"만족(2), 혼밥(1), 친절(1), 빠름(1)"
+K1339421382,컬투치킨 여의도역점,치킨,1,http://place.map.kakao.com/1339421382,실제,ChIJyxB8VQCffDURhhorRmOghBU,4.0,1.0,,,,,True,,웨이팅(1)
+K12341507,삼보청국장,한식,1,http://place.map.kakao.com/12341507,실제,,,,,,,,,,모름
+K974302007,비이지,술집,1,http://place.map.kakao.com/974302007,실제,ChIJn-8KDueffDURTOgzRaT9svY,4.5,2.0,,,,,,True,"붐빔(1), 만족(1)"
+K1976062178,화염산마라탕,중식,1,http://place.map.kakao.com/1976062178,실제,ChIJuXxdUQCffDURCh4IArYU83M,5.0,1.0,,,True,True,True,,맛있음(1)
+K322732189,여의도불맛쭈꾸미,횟집·해산물,1,http://place.map.kakao.com/322732189,실제,ChIJbQmUHjOdfDUR6009nliHn-w,4.1,11.0,보통,10000.0,,,True,True,"맛있음(2), 양많음(1), 보통(1), 맛없음(1)"
+K2028849116,르뵈프,양식,1,http://place.map.kakao.com/2028849116,실제,ChIJN_K3XACffDURxDXsfpgYAKQ,4.6,19.0,보통,20000.0,True,True,True,True,"맛있음(3), 가성비(1), 양많음(1)"
+K358379614,이자와 여의도점,일식,1,http://place.map.kakao.com/358379614,실제,ChIJp5GaPpSffDURvA_c-wBmDqA,4.7,220.0,보통,10000.0,True,True,,,"분위기(4), 빠름(1)"
+K142887224,담온곰탕,한식,1,http://place.map.kakao.com/142887224,실제,ChIJDwDmdQCffDUReVEyndkLC9s,5.0,1.0,,,,True,True,,모름
+K1247032398,아루히 니와,일식,1,http://place.map.kakao.com/1247032398,실제,ChIJi-BCYCuffDURWmXyROcwyGk,4.7,273.0,아주 비쌈,100000.0,True,True,,True,"비쌈(1), 친절(1), 가성비(1), 맛있음(1), 분위기(1)"
+K1133478502,백년도담솥밥,한식,1,http://place.map.kakao.com/1133478502,실제,ChIJ-VakQwCffDURK-1197gZsKo,4.3,15.0,보통,10000.0,True,True,True,True,"맛있음(2), 웨이팅(2), 만족(1)"
+K506114597,킹스더킹 여의도점,술집,1,http://place.map.kakao.com/506114597,실제,ChIJq5wghD2ffDURLrefTh3BOaA,,0.0,,,,,,,모름
+K187379262,대삼,고기(구분 모름),1,http://place.map.kakao.com/187379262,실제,ChIJEYRHDQCffDURvGaQ4U9LHww,4.0,3.0,,,,True,True,,"분위기(1), 맛있음(1), 친절(1)"
+K17245905,와바 여의도종합상가점,술집,1,http://place.map.kakao.com/17245905,실제,ChIJxXmXUgCffDURCXA9n5rouU8,3.5,2.0,,,,,True,,"맛있음(1), 불만(1)"
+K26230613,로비스불닭바베큐,치킨,1,http://place.map.kakao.com/26230613,실제,ChIJl9E1hD2ffDUR3NxHVPKKMpA,3.2,6.0,,,,True,True,True,"친절(1), 맛있음(1), 비쌈(1), 혼밥(1)"
+K730275365,기호카츠 여의도역점,일식,1,http://place.map.kakao.com/730275365,실제,,,,,,,,,,모름
+K105420235,보글보글부대찌개&볶음 본점,한식,1,http://place.map.kakao.com/105420235,실제,ChIJATaI-z2ffDURJK0xRtoP-CI,4.2,17.0,보통,10000.0,True,True,True,True,"맛있음(2), 분위기(1), 친절(1), 보통(1)"
+K76798371,도깨비굴,양식,1,http://place.map.kakao.com/76798371,실제,ChIJaz2FTu6ffDURmFN85m0UKOc,4.3,86.0,보통,20000.0,True,True,True,True,"분위기(3), 맛없음(1), 만족(1)"
+K2084012311,우아 여의도점,술집,1,http://place.map.kakao.com/2084012311,실제,ChIJs5wghD2ffDURd4H3QkJtdz4,4.0,234.0,보통,20000.0,,True,True,True,"분위기(3), 비쌈(1), 웨이팅(1)"
+K2113557020,엘비코리아,양식,1,http://place.map.kakao.com/2113557020,실제,,,,,,,,,,모름
+K857970676,이와타,일식,1,http://place.map.kakao.com/857970676,실제,ChIJWWEwhBWffDUR-6PS2rS_4Qc,4.3,180.0,보통,10000.0,True,True,,,"혼밥(1), 맛있음(1), 웨이팅(1), 만족(1), 분위기(1)"
+K1841224034,황생가칼국수 여의도The-K타워점,한식,1,http://place.map.kakao.com/1841224034,실제,ChIJpStBlT2ffDURJEtsWTkWV3E,3.9,13.0,보통,10000.0,True,True,True,True,"보통(2), 맛있음(1), 양많음(1), 분위기(1)"
+K104844448,서울로인 여의도점,한식,1,http://place.map.kakao.com/104844448,실제,ChIJn3yY2lyffDURx5gQZUtEwq0,4.3,816.0,아주 비쌈,90000.0,True,True,True,True,"친절(2), 맛없음(1), 맛있음(1), 단체·회식(1)"
+K41865875,아티제 여의도역점,간식,1,http://place.map.kakao.com/41865875,실제,,,,,,,,,,모름
+K1601062118,하동관 여의도역점,한식,1,http://place.map.kakao.com/1601062118,실제,ChIJTWQje7SffDURpuKN5I_Y1cs,4.1,313.0,보통,10000.0,True,True,True,,"맛있음(1), 분위기(1), 붐빔(1), 보통(1), 양많음(1)"
+K1874252635,차이797 여의도점,중식,1,http://place.map.kakao.com/1874252635,실제,ChIJpStBlT2ffDURgUvtqTqi24s,3.7,267.0,보통,20000.0,True,True,True,True,"가성비(2), 맛있음(2), 비쌈(1)"
+K1931398691,아티제 KB증권깨비라운지점,간식,1,http://place.map.kakao.com/1931398691,실제,,,,,,,,,,모름
+K1863813515,을지다락 여의도,양식,1,http://place.map.kakao.com/1863813515,실제,ChIJJ6UulQyffDURP3hIFs2Wxo8,4.4,158.0,보통,10000.0,True,True,True,True,"웨이팅(2), 빠름(1), 보통(1), 분위기(1)"
+K1776917675,프로티너 여의도역점,샐러드,1,http://place.map.kakao.com/1776917675,실제,ChIJx5t8OuGffDURXU_daLWIAJk,4.6,10.0,보통,10000.0,True,True,True,,"맛있음(4), 비쌈(1)"
+K16988922,카이저호프,술집,2,http://place.map.kakao.com/16988922,실제,ChIJq5wghD2ffDURTXhHGv0YD0Y,3.5,63.0,,,,,True,,"보통(2), 분위기(1), 맛있음(1), 만족(1)"
+K11077111,리나스 여의도역점,패스트푸드,2,http://place.map.kakao.com/11077111,실제,,,,,,,,,,모름
+K27593981,일호면옥,한식,2,http://place.map.kakao.com/27593981,실제,ChIJ_9TMHxaffDURLFRrG4FJgnE,4.3,308.0,보통,10000.0,True,True,True,,"맛있음(2), 보통(1), 분위기(1), 만족(1)"
+K500850275,운봉에덴식당 여의도점,한식,2,http://place.map.kakao.com/500850275,실제,ChIJZUkHGxaffDUR8m2gd0iCXBQ,4.3,458.0,보통,20000.0,True,True,True,True,"맛있음(4), 만족(1)"
+K748881194,스시젠,일식,2,http://place.map.kakao.com/748881194,실제,ChIJZUkHGxaffDURzdCA_CfbsDE,4.6,54.0,보통,50000.0,True,True,,True,"맛있음(2), 가성비(1), 붐빔(1), 만족(1)"
+K26623076,아티제 여의도롯데캐슬점,간식,2,http://place.map.kakao.com/26623076,실제,,,,,,,,,,모름
+K27339192,가림가든,양식,2,http://place.map.kakao.com/27339192,실제,ChIJZUkHGxaffDURqTjIuZ3WZCU,,0.0,,,,,,,모름
+K1080897141,브로트아트 여의도역2호점,간식,2,http://place.map.kakao.com/1080897141,실제,,,,,,,,,,모름
+K14997862,라벤더박스 케이크,간식,2,http://place.map.kakao.com/14997862,실제,,,,,,,,,,모름
+K763614807,마더락 여의도점,도시락,2,http://place.map.kakao.com/763614807,실제,ChIJURwHdACffDURO5SIOACBPEU,5.0,2.0,,,True,True,,,"맛있음(1), 단체·회식(1)"
+K694375095,본가김치찜,한식,2,http://place.map.kakao.com/694375095,실제,ChIJoXun3aCffDURBKxfhTqHJ1Y,4.3,12.0,보통,10000.0,True,True,True,True,"맛있음(4), 혼밥(1)"
+K643527079,포아시아,아시아음식,2,http://place.map.kakao.com/643527079,실제,ChIJA2c7bReffDURcT3eDKEn8pE,,0.0,,,True,True,,True,모름
+K1310992699,육랩 여의도점,소고기,2,http://place.map.kakao.com/1310992699,실제,ChIJH2r3ZQCffDURPSLPG4y6Yno,4.9,88.0,보통,30000.0,True,True,True,True,"맛있음(3), 단체·회식(2)"
+K1138488253,오토김밥 여의도점,분식,2,http://place.map.kakao.com/1138488253,실제,ChIJs097G_SffDURuOjvf8uI8oA,3.9,11.0,저렴,,True,True,,,"맛있음(2), 분위기(1), 혼밥(1), 만족(1)"
+K690691760,만유,일식,2,http://place.map.kakao.com/690691760,실제,ChIJZUkHGxaffDURs8g0uoBwxmo,3.8,12.0,비쌈,40000.0,True,True,True,True,"단체·회식(3), 친절(1), 접대·미팅(1)"
+K1504238939,멘츠루 여의도점,일식,2,http://place.map.kakao.com/1504238939,실제,ChIJfRRfliiffDURMbwsa9c7ZvA,4.8,70.0,보통,10000.0,True,True,True,,"맛있음(2), 분위기(1), 가성비(1), 친절(1)"
+K475518964,바이트샌드위치&샐러드,패스트푸드,2,http://place.map.kakao.com/475518964,실제,,,,,,,,,,모름
+K1755941947,팔당반점 동여의도 직영점,중식,2,http://place.map.kakao.com/1755941947,실제,ChIJB7hs5oqffDURaE_6zerQ5BQ,4.2,206.0,보통,10000.0,True,True,True,True,"맛있음(4), 단체·회식(1)"
+K1442436003,그누가든,기타,2,http://place.map.kakao.com/1442436003,실제,,,,,,,,,,모름
+K11318971,포메인 여의도점,아시아음식,2,http://place.map.kakao.com/11318971,실제,ChIJH4GiGxaffDURUKuvj-niwL4,3.7,99.0,보통,10000.0,True,True,True,True,"만족(2), 맛있음(1), 보통(1), 분위기(1)"
+K1280094557,능동미나리 여의도점,한식,2,http://place.map.kakao.com/1280094557,실제,ChIJE-W0OgCffDURJGPbD6Ioy5o,4.6,66.0,보통,10000.0,True,True,True,False,"웨이팅(2), 붐빔(1), 만족(1), 분위기(1)"
+K973374339,기장 국보미역 여의도점,한식,2,http://place.map.kakao.com/973374339,실제,ChIJt0JJ9PKffDURrQXYVODgAFo,4.0,1.0,,,True,True,True,True,분위기(1)
+K443317400,여의도양꼬치,중식,2,http://place.map.kakao.com/443317400,실제,ChIJSeVO3T2ffDURuNx8jD8oVjI,4.2,49.0,보통,40000.0,,True,True,True,"맛있음(3), 친절(1), 만족(1)"
+K2106521009,여의도초장집,횟집·해산물,2,http://place.map.kakao.com/2106521009,실제,ChIJZdGRPWqffDURSrOZqjAB_j4,4.2,12.0,보통,10000.0,True,True,True,True,"맛있음(1), 웨이팅(1), 양많음(1), 가성비(1), 불만(1)"
+K24041529,삼미설렁탕,한식,2,http://place.map.kakao.com/24041529,실제,ChIJH0ir-z2ffDURiH1lN7j4gKg,4.2,64.0,보통,10000.0,True,True,True,True,"맛있음(3), 친절(1), 만족(1)"
+K278325762,얌샘김밥 여백점,분식,2,http://place.map.kakao.com/278325762,실제,,,,,,,,,,모름
+K1922257327,정동돼지국밥 여의도직영점,한식,2,http://place.map.kakao.com/1922257327,실제,,,,,,,,,,모름
+K519848093,모퉁이네,분식,2,http://place.map.kakao.com/519848093,실제,ChIJHwEnN3mffDURFhCiLqmoT-A,4.5,57.0,보통,10000.0,True,True,True,,"웨이팅(2), 맛있음(2), 양많음(1)"
+K846411031,너섬칼국수,한식,2,http://place.map.kakao.com/846411031,실제,ChIJ61KWxz-ffDURc7vpnPjskJc,4.4,56.0,보통,10000.0,,,,,"맛있음(3), 웨이팅(1), 양많음(1)"
+K374265582,인덕원비빔국수,한식,2,http://place.map.kakao.com/374265582,실제,ChIJM20VGwCffDURylCLVa00cxo,4.0,3.0,,,True,True,True,,"만족(1), 보통(1), 맛있음(1)"
+K1050374984,하루샐러드,샐러드,2,http://place.map.kakao.com/1050374984,실제,,,,,,,,,,모름
+K656458583,여의주,한식,2,http://place.map.kakao.com/656458583,실제,ChIJAf4LQwCffDURRLfSoyDlXNc,5.0,1.0,,,,,,,만족(1)
+K501354422,별미버섯집,한식,2,http://place.map.kakao.com/501354422,실제,,,,,,,,,,모름
+K338376486,양푼집,한식,2,http://place.map.kakao.com/338376486,실제,ChIJC70BwmSffDURd6pZSY8MlBI,4.3,69.0,보통,,True,True,True,,"양많음(2), 맛없음(1), 맛있음(1), 빠름(1)"
+K1335942243,여백복고호프,술집,2,http://place.map.kakao.com/1335942243,실제,ChIJQVRXnz-ffDUR0ZD2-Dv8b60,3.8,9.0,저렴,,,,True,,"만족(2), 가성비(2), 맛있음(1)"
+K217458238,여의도카레주먹밥,한식,2,http://place.map.kakao.com/217458238,실제,,,,,,,,,,모름
+K789635101,동궁찜닭 여의도점,닭·오리,2,http://place.map.kakao.com/789635101,실제,,,,,,,,,,모름
+K924414636,부자되세요,고기(구분 모름),2,http://place.map.kakao.com/924414636,실제,,,,,,,,,,모름
+K1408501445,육당당,한식,2,http://place.map.kakao.com/1408501445,실제,ChIJR4lB7i2ffDURhL85kwUHc4c,3.9,12.0,보통,10000.0,True,True,True,True,"만족(2), 분위기(1), 맛있음(1), 가성비(1)"
+K495502895,우동명가 다카마쓰 여의도직영점,일식,2,http://place.map.kakao.com/495502895,실제,ChIJc1bKh7iffDURvIMp_JsKkPk,5.0,2.0,,,True,True,True,,"가성비(1), 만족(1)"
+K823603732,장수메밀제면&매운순대가,한식,2,http://place.map.kakao.com/823603732,실제,ChIJO4iAqvmffDUR3wlxBF00Vwk,3.8,55.0,보통,10000.0,True,True,True,,"맛있음(2), 단체·회식(1), 친절(1), 가성비(1)"
+K8086602,창고43 본점,소고기,2,http://place.map.kakao.com/8086602,실제,ChIJ08F1_D2ffDURri-3iCjXJAM,4.1,667.0,아주 비쌈,100000.0,True,True,True,True,"맛있음(4), 맛없음(1)"
+K1449592626,꼬모네,일식,2,http://place.map.kakao.com/1449592626,실제,ChIJK_yCSQCffDUR2W-qWybfhcc,5.0,4.0,,,True,True,,True,"맛있음(2), 웨이팅(1)"
+K1901022123,장수장어대전 동여의도점,횟집·해산물,2,http://place.map.kakao.com/1901022123,실제,ChIJfTwdBwCffDURXws7J0FjaY0,4.5,2.0,,,True,True,True,,단체·회식(2)
+K1785968312,도스마스 여의도점,양식,2,http://place.map.kakao.com/1785968312,실제,,,,,,,,,,모름
+K20606536,단디만,한식,2,http://place.map.kakao.com/20606536,실제,ChIJATaI-z2ffDURI06qpmkidx8,4.1,193.0,보통,10000.0,True,True,True,,"분위기(4), 맛있음(1)"
+K13927980,제주항구,횟집·해산물,2,http://place.map.kakao.com/13927980,실제,ChIJl8mK-z2ffDURt7uREH6Jzzo,3.9,114.0,보통,30000.0,True,True,True,True,"단체·회식(2), 비쌈(1), 보통(1), 맛있음(1)"
+K17910138,청정밀,한식,2,http://place.map.kakao.com/17910138,실제,ChIJATaI-z2ffDUR3y2zgUYKUso,4.5,17.0,저렴,,True,True,True,,"맛있음(2), 양많음(1), 빠름(1), 맛없음(1)"
+K9107612,서울깍뚜기,한식,2,http://place.map.kakao.com/9107612,실제,ChIJ08F1_D2ffDURByu5jj1jQ54,4.0,102.0,보통,10000.0,True,True,True,True,"맛있음(3), 만족(1), 분위기(1)"
+K1796881055,깡장양곱창,소고기,2,http://place.map.kakao.com/1796881055,실제,ChIJnxyZ-j2ffDUR_dFYHl2FnlE,3.9,59.0,보통,10000.0,True,True,True,True,"만족(2), 비쌈(1), 가성비(1), 맛없음(1)"
+K1941009037,라티에 여의도점,샐러드,2,http://place.map.kakao.com/1941009037,실제,,,,,,,,,,모름
+K27453976,혜비수참치,일식,2,http://place.map.kakao.com/27453976,실제,ChIJaZ7Jwj2ffDUR6HmWXGugDy0,3.9,227.0,,,,,True,,"단체·회식(2), 보통(1), 만족(1), 맛있음(1)"
+K765432020,가이아호두파이,간식,2,http://place.map.kakao.com/765432020,실제,,,,,,,,,,모름
+K8157558,홍콩,중식,2,http://place.map.kakao.com/8157558,실제,,,,,,,,,,모름
+K21332962,별미볶음점 본점,횟집·해산물,2,http://place.map.kakao.com/21332962,실제,ChIJmUYS_D2ffDURgGpKnSTWWMY,4.5,563.0,보통,10000.0,True,True,True,False,"웨이팅(3), 맛있음(1), 붐빔(1)"
+K20746237,장수한방삼계탕,닭·오리,2,http://place.map.kakao.com/20746237,실제,ChIJX9Sva9WffDURgN3yeD7rik0,4.6,24.0,보통,10000.0,True,True,True,True,"맛있음(3), 친절(2)"
+K1048248948,서울콩나물해장국,한식,2,http://place.map.kakao.com/1048248948,실제,ChIJ08F1_D2ffDURDigveQAbNYo,4.3,41.0,저렴,,True,True,True,,"맛있음(3), 분위기(2)"
+K11269612,해물풍경,횟집·해산물,2,http://place.map.kakao.com/11269612,실제,ChIJ08F1_D2ffDURwEc-rJqFK2U,3.6,34.0,,,True,True,True,True,"맛있음(2), 만족(1), 불만(1), 붐빔(1)"
+K10970108,홍보석,중식,2,http://place.map.kakao.com/10970108,실제,ChIJcfaU0BeffDUR-DneH4_dieY,3.8,430.0,보통,10000.0,True,True,True,True,"맛있음(2), 단체·회식(2), 분위기(1)"
+K8286761,대동문,한식,2,http://place.map.kakao.com/8286761,실제,,,,,,,,,,모름
+K9119163,산삼골 본점,닭·오리,2,http://place.map.kakao.com/9119163,실제,ChIJ08F1_D2ffDURWkcj0aXVG5o,4.2,229.0,비쌈,30000.0,True,True,True,True,"단체·회식(2), 맛있음(2), 친절(1)"
+K947547994,마라라,중식,2,http://place.map.kakao.com/947547994,실제,ChIJSeVO3T2ffDURHRsS5uHD5oc,,0.0,,,True,True,,,모름
+K1179300424,오봉집 여의도점,한식,2,http://place.map.kakao.com/1179300424,실제,ChIJ1US_lDOffDUR4lTeKYJZzwI,4.8,6.0,보통,20000.0,True,True,True,,"맛있음(3), 친절(1), 단체·회식(1)"
+K11207265,해바라기,돼지고기,2,http://place.map.kakao.com/11207265,실제,ChIJ08F1_D2ffDURx0YFsip0zLY,4.2,147.0,보통,30000.0,True,True,True,,"맛있음(3), 만족(1), 불만(1)"
+K8194537,고려정,소고기,2,http://place.map.kakao.com/8194537,실제,ChIJLRyxwj2ffDURL-hItc809AA,4.1,101.0,보통,30000.0,True,True,True,True,"만족(2), 가성비(1), 친절(1), 맛있음(1)"
+K9472322,퀴진알,양식,2,http://place.map.kakao.com/9472322,실제,ChIJH4GiGxaffDURR-aoYtGKNmM,4.8,333.0,보통,20000.0,True,True,True,True,"분위기(3), 맛있음(2)"
+K11299530,뜨는우리집,고기(구분 모름),2,http://place.map.kakao.com/11299530,실제,ChIJo670yBeffDUR-xjnq62Sg7o,4.0,41.0,보통,20000.0,True,True,True,True,"맛있음(2), 양많음(1), 친절(1), 맛없음(1)"
+K1932303958,샐러디아 여의도점,샐러드,2,http://place.map.kakao.com/1932303958,실제,,,,,,,,,,모름
+K16416909,고려식당,한식,2,http://place.map.kakao.com/16416909,실제,,,,,,,,,,모름
+K1043224945,킹콩부대찌개 동여의도점,한식,2,http://place.map.kakao.com/1043224945,실제,ChIJSeVO3T2ffDURBaBjUf6NBfQ,3.9,57.0,보통,10000.0,True,True,True,True,"가성비(2), 빠름(1), 맛있음(1), 불만(1)"
+K10338390,명보정,돼지고기,2,http://place.map.kakao.com/10338390,실제,ChIJaZ7Jwj2ffDURsk64FSpj-gs,4.1,65.0,보통,10000.0,True,True,True,True,"웨이팅(1), 양많음(1), 가성비(1), 만족(1), 맛있음(1)"
+K365942111,아카이코,일식,2,http://place.map.kakao.com/365942111,실제,,,,,,,,,,모름
+K1432220174,펀비어킹 여의도백상빌딩점,술집,2,http://place.map.kakao.com/1432220174,실제,ChIJZ9LTI82ffDURS5f1oxZK1Gs,2.3,3.0,,,,,True,True,"단체·회식(1), 불만(1)"
+K1444688938,숙성부심 여의도점,소고기,2,http://place.map.kakao.com/1444688938,실제,ChIJ0_PhQQCffDUR7Wpz0f6U08I,,0.0,,,True,True,True,True,모름
+K316059304,도도돗,한식,2,http://place.map.kakao.com/316059304,실제,ChIJF0DgZD-ffDURbMKH3xSJIco,5.0,5.0,,,True,True,True,True,"맛있음(4), 단체·회식(1)"
+K2055794284,싱싱샐러드 여의도점,샐러드,2,http://place.map.kakao.com/2055794284,실제,ChIJmQFStdGffDURgdhdxOSemWM,5.0,1.0,,,,True,True,,맛있음(1)
+K1097038321,팔팔아구 여의도점,횟집·해산물,2,http://place.map.kakao.com/1097038321,실제,ChIJybvrNACffDUR7teILN-kTPE,5.0,6.0,보통,20000.0,True,True,True,,"단체·회식(1), 분위기(1), 친절(1), 맛있음(1)"
+K1746949960,온화정,소고기,2,http://place.map.kakao.com/1746949960,실제,ChIJ778s4RyffDURWbMET910PHs,4.8,11.0,보통,20000.0,True,True,True,True,"분위기(1), 단체·회식(1), 맛있음(1), 가성비(1), 친절(1)"
+K8659923,고려호프,술집,2,http://place.map.kakao.com/8659923,실제,ChIJLRyxwj2ffDURpYbB1-Se8Ec,3.9,136.0,저렴,,,,True,,"맛없음(1), 붐빔(1), 친절(1), 맛있음(1), 만족(1)"
+K8372308,본토박이,한식,2,http://place.map.kakao.com/8372308,실제,ChIJLRyxwj2ffDURWeXIgurj_Vo,4.1,81.0,보통,10000.0,True,True,True,True,"맛있음(2), 웨이팅(2), 가성비(1)"
+K394163918,씨,분식,2,http://place.map.kakao.com/394163918,실제,,,,,,,,,,모름
+K17515320,별미볶음점 2호점,횟집·해산물,2,http://place.map.kakao.com/17515320,실제,ChIJzXUtJ_qffDURvZ0Mqp_IlmI,4.5,31.0,보통,10000.0,True,True,True,,"웨이팅(2), 맛있음(2), 분위기(1)"
+K16825893,거창왕돈가스전문점,일식,2,http://place.map.kakao.com/16825893,실제,ChIJs8xF3T2ffDUR5lipDaNmmAI,3.8,110.0,보통,10000.0,True,True,,,"맛있음(3), 불만(1), 웨이팅(1)"
+K778931553,여의돈,돼지고기,2,http://place.map.kakao.com/778931553,실제,ChIJV0-EKQCffDURpopwf2FKZwI,3.5,2.0,,,,,,,"불만(1), 맛없음(1)"
+K1086779132,진가,술집,2,http://place.map.kakao.com/1086779132,실제,ChIJLyIj3T2ffDURT2Eop_K6DX8,4.5,74.0,보통,10000.0,True,True,True,True,"맛있음(2), 친절(2), 만족(1)"
+K255734895,마포식당,한식,2,http://place.map.kakao.com/255734895,실제,,,,,,,,,,모름
+K1434869649,이자카야 곤파치야,술집,2,http://place.map.kakao.com/1434869649,실제,,,,,,,,,,모름
+K8130972,하겐다즈 여의도점,간식,2,http://place.map.kakao.com/8130972,실제,,,,,,,,,,모름
+K2139014675,여의도호프클럽,술집,2,http://place.map.kakao.com/2139014675,실제,,,,,,,,,,모름
+K9021891,맛뜸,한식,2,http://place.map.kakao.com/9021891,실제,ChIJSeVO3T2ffDURIQh-N4faafc,4.1,107.0,보통,10000.0,True,True,True,True,"맛있음(3), 웨이팅(1), 보통(1)"
+K8437035,성하,한식,2,http://place.map.kakao.com/8437035,실제,ChIJN17fUgCffDURI7uygdMvdNQ,4.0,1.0,,,True,True,True,,웨이팅(1)
+K27468607,숙자네대구탕북어국,횟집·해산물,2,http://place.map.kakao.com/27468607,실제,ChIJexlz-z2ffDURRWr27WpFTVM,4.3,14.0,보통,10000.0,True,True,True,,"맛있음(2), 보통(1), 가성비(1), 맛없음(1)"
+K8094563,진주집,한식,2,http://place.map.kakao.com/8094563,실제,ChIJg3mO-z2ffDURxBvzNdq99p4,4.2,3791.0,보통,10000.0,,,,,"맛있음(2), 웨이팅(1), 붐빔(1), 혼밥(1)"
+K1874254629,더뭉티기 여의도점,소고기,2,http://place.map.kakao.com/1874254629,실제,ChIJP3GcKgCffDURg6iwZdoObDs,,0.0,,,True,True,True,,모름
+K13556637,쌍대포,고기(구분 모름),2,http://place.map.kakao.com/13556637,실제,,,,,,,,,,모름
+K14580530,향토식당,한식,2,http://place.map.kakao.com/14580530,실제,ChIJLRyxwj2ffDURzGcUmgE8dYQ,3.9,172.0,보통,30000.0,True,True,True,True,"붐빔(2), 맛있음(1), 만족(1), 양많음(1)"
+K18898412,BBQ 여의도역점,치킨,2,http://place.map.kakao.com/18898412,실제,ChIJtTTw5z2ffDURGZD1JNRIUOw,3.7,144.0,보통,10000.0,True,,True,True,"맛있음(2), 맛없음(1), 친절(1), 보통(1)"
+K1957774470,남도고깃간,돼지고기,2,http://place.map.kakao.com/1957774470,실제,ChIJ014IioCffDUR48nmcSG7h10,4.2,49.0,보통,20000.0,True,True,True,True,"맛있음(3), 빠름(1), 분위기(1)"
+K1525846250,디트로이트1달러피자,양식,2,http://place.map.kakao.com/1525846250,실제,ChIJDYItDwCffDURlfZe04-Hlfw,4.3,15.0,저렴,,True,True,,,"맛있음(2), 가성비(1), 빠름(1), 만족(1)"
+K17079438,폴앤폴리나 여의도점,간식,2,http://place.map.kakao.com/17079438,실제,,,,,,,,,,모름
+K1847100830,여의도소곱창,소고기,2,http://place.map.kakao.com/1847100830,실제,ChIJFREMo5yffDURFW8y5HG53VI,4.2,9.0,보통,10000.0,True,True,True,True,"친절(2), 불만(1), 만족(1), 맛있음(1)"
+K9957787,진미철판구이,소고기,2,http://place.map.kakao.com/9957787,실제,ChIJgW5mK-effDURkZJvEqJIg44,4.3,19.0,,,True,True,True,True,"맛있음(3), 접대·미팅(1), 가성비(1)"
+K9092918,삼태기삼겹살,돼지고기,2,http://place.map.kakao.com/9092918,실제,ChIJo670yBeffDURQrkXo9KoUOE,4.3,164.0,보통,10000.0,True,True,True,True,"맛있음(4), 양많음(1)"
+K9305898,우미관,샤브샤브,2,http://place.map.kakao.com/9305898,실제,ChIJm7gPRxaffDURWiwAWJikNLk,4.1,80.0,,,True,True,True,True,"맛있음(2), 보통(1), 맛없음(1), 만족(1)"
+K8943228,라메르,한식,2,http://place.map.kakao.com/8943228,실제,ChIJo670yBeffDURtBUO0IXzlhk,3.0,1.0,,,,True,,,모름
+K397540880,최강어묵,분식,2,http://place.map.kakao.com/397540880,실제,ChIJi2sYeD2ffDURiq-0VNArjTk,3.8,4.0,,,True,True,,,"맛있음(1), 빠름(1), 웨이팅(1), 만족(1)"
+K9522571,토방,한식,2,http://place.map.kakao.com/9522571,실제,ChIJn8de0BeffDURLLljhuMRURE,4.0,89.0,,,True,True,True,True,"맛있음(3), 만족(1), 비쌈(1)"
+K15538124,이타마에,일식,2,http://place.map.kakao.com/15538124,실제,ChIJo670yBeffDURGPEtUwQkAf8,3.9,281.0,보통,30000.0,True,True,True,True,"분위기(2), 단체·회식(2), 맛있음(1)"
+K1114358774,퀴즈노스 여의도역점,패스트푸드,2,http://place.map.kakao.com/1114358774,실제,ChIJpz70ZwCffDURwkC0zGlTfY8,5.0,1.0,,,True,True,,,맛있음(1)
+K933837008,더타코부스 여의도역점,양식,2,http://place.map.kakao.com/933837008,실제,ChIJTZ5929yffDURkd-jXqMum3k,4.7,23.0,보통,20000.0,True,True,True,True,"맛있음(3), 친절(2)"
+K1280783133,동남집,한식,2,http://place.map.kakao.com/1280783133,실제,ChIJp2TTtBeffDURV5YZ7qF-bN0,4.5,81.0,보통,10000.0,True,True,True,True,"맛있음(4), 양많음(1)"
+K576943129,제육의법칙 여의도점,한식,2,http://place.map.kakao.com/576943129,실제,ChIJ6U1SdwCffDUR00WJ_DNGiLA,4.0,1.0,,,True,True,True,,웨이팅(1)
+K1249417716,방이편백 육분삼십 여의도본점,샤브샤브,2,http://place.map.kakao.com/1249417716,실제,ChIJ0Qj0lY2ffDURmbEmO5xQdik,4.1,16.0,보통,20000.0,True,True,True,,"맛없음(2), 친절(1), 만족(1), 맛있음(1)"
+K27272854,킴스라이스,분식,2,http://place.map.kakao.com/27272854,실제,ChIJ1-Xh0BeffDURRpkALvsFMiA,4.5,35.0,저렴,,True,True,,,"맛있음(3), 분위기(2)"
+K254652353,청도미나리식당 여의도점,한식,2,http://place.map.kakao.com/254652353,실제,ChIJ4T12LACffDUR-KIhFULnUCw,3.8,4.0,보통,10000.0,True,True,True,True,"보통(1), 맛없음(1), 만족(1), 맛있음(1)"
+K27509579,큰맘할매순대국 여의도역점,한식,2,http://place.map.kakao.com/27509579,실제,ChIJp2TTtBeffDURkc23fKsiaVk,4.3,35.0,저렴,,True,True,True,,"친절(2), 맛없음(1), 가성비(1), 만족(1)"
+K17770661,네네치킨 여의도점,치킨,2,http://place.map.kakao.com/17770661,실제,ChIJo670yBeffDUR8K2xnI0LlPM,3.5,27.0,,,,,,,"보통(2), 맛있음(1), 비쌈(1), 친절(1)"
+K27217611,만복집 여의도역점,한식,2,http://place.map.kakao.com/27217611,실제,ChIJSaU0SxaffDUR3WN8jFqtq0A,4.2,33.0,보통,20000.0,,,,,"맛있음(2), 친절(2), 맛없음(1)"
+K999100298,59,양식,2,http://place.map.kakao.com/999100298,실제,ChIJ_XNui82ffDUR8Xsnv2JdkMw,4.7,9.0,비쌈,40000.0,True,True,True,True,"맛있음(2), 양많음(1), 분위기(1), 비쌈(1)"
+K1017508781,아루히 나나,일식,2,http://place.map.kakao.com/1017508781,실제,ChIJFXagOACffDURnfWSL1Pg6cg,4.2,12.0,비쌈,50000.0,,True,,True,"맛없음(1), 분위기(1), 단체·회식(1), 가성비(1), 친절(1)"
+K1006021380,종로계림닭도리탕 여의도점,닭·오리,2,http://place.map.kakao.com/1006021380,실제,ChIJr1h3Ap6ffDURIOImbwcIXVY,4.1,57.0,보통,10000.0,True,True,True,,"웨이팅(3), 맛있음(2)"
+K1920059152,여의도오뎅&육회,한식,2,http://place.map.kakao.com/1920059152,실제,ChIJkXWNbgCffDURcyy5IhcCZEs,5.0,1.0,,,,,,,맛있음(1)
+K833241913,스시유타카,일식,2,http://place.map.kakao.com/833241913,실제,ChIJBd3KgPCffDURDWFT4cHChqc,4.5,11.0,아주 비쌈,100000.0,True,True,,True,"가성비(3), 맛있음(1), 분위기(1)"
+K1052206675,노랑통닭 여의도역점,치킨,2,http://place.map.kakao.com/1052206675,실제,ChIJp2TTtBeffDURtMYFLNVLPjw,3.8,23.0,보통,10000.0,,True,True,,"붐빔(1), 맛있음(1), 불만(1), 보통(1), 만족(1)"
+K1317087932,해일월,소고기,2,http://place.map.kakao.com/1317087932,실제,ChIJSx7gQQCffDURsvL8CubuT2g,3.7,3.0,,,,True,True,,"맛있음(1), 분위기(1)"
+K1806892470,여의도우삼겹집 여의도본점,소고기,2,http://place.map.kakao.com/1806892470,실제,ChIJt6HaVACffDURgMhP_-vNaFw,4.8,8.0,보통,10000.0,True,True,True,True,"친절(3), 단체·회식(1), 맛있음(1)"
+K693763923,여의도스마일삼겹 여의도역점,돼지고기,2,http://place.map.kakao.com/693763923,실제,ChIJSdo0JACffDURvH0eEuLKT9M,,0.0,,,True,True,True,True,모름
+K12428926,바다만찬,횟집·해산물,2,http://place.map.kakao.com/12428926,실제,ChIJ7SxgyBeffDURiPkHiL_EjUw,3.8,30.0,보통,10000.0,True,True,True,True,"친절(1), 양많음(1), 맛있음(1), 웨이팅(1), 만족(1)"
+K1110423459,옥된장 여의도점,한식,2,http://place.map.kakao.com/1110423459,실제,ChIJ01mLbLWffDURecOng62v9yc,4.5,83.0,보통,10000.0,True,True,True,True,"빠름(1), 맛있음(1), 분위기(1), 친절(1), 웨이팅(1)"
+K236340745,프레쉬엔지니어드 여의도점,샐러드,2,http://place.map.kakao.com/236340745,실제,ChIJY3MyX66ffDURZ94ZWDlYEHY,,0.0,,,,,,,모름
+K1153243655,갯벌의조개 여의도역점,횟집·해산물,2,http://place.map.kakao.com/1153243655,실제,ChIJkwKaLwCffDUR-A_ikRkGRB0,4.5,12.0,보통,20000.0,,True,True,,"양많음(2), 맛있음(2), 웨이팅(1)"
+K805750740,메종엠에스케이,양식,2,http://place.map.kakao.com/805750740,실제,,,,,,,,,,모름
+K10871086,포틀라치,술집,2,http://place.map.kakao.com/10871086,실제,ChIJo670yBeffDURwQZYFVyeSyc,4.0,10.0,,,,,,,"만족(2), 맛있음(1)"
+K876957595,삼동소바 여의도점,일식,2,http://place.map.kakao.com/876957595,실제,ChIJlxrzHgCffDUR_Q83Qmnw1uk,4.3,16.0,보통,10000.0,True,True,True,,"맛있음(2), 만족(1), 맛없음(1), 친절(1)"
+K444439103,테이네이,술집,2,http://place.map.kakao.com/444439103,실제,,,,,,,,,,모름
+K1402203084,개성손만두 여의도점,한식,2,http://place.map.kakao.com/1402203084,실제,ChIJ61XZ0AKffDURYWniuBuOpJM,4.2,46.0,보통,10000.0,True,True,True,True,"가성비(2), 불친절(1), 웨이팅(1), 맛있음(1)"
+K206093263,함평집 여의도점,기타,2,http://place.map.kakao.com/206093263,실제,ChIJfc4-cgCffDUR8RskwyfLyJY,4.8,12.0,보통,10000.0,True,True,True,True,"분위기(4), 맛있음(1)"
+K1216267516,가마솥오국밥 여의도점,한식,2,http://place.map.kakao.com/1216267516,실제,ChIJc-T9RwCffDURxKQtfTFkx3s,5.0,1.0,,,True,True,True,,맛있음(1)
+K1870998646,육전국밥 여의도역점,한식,2,http://place.map.kakao.com/1870998646,실제,ChIJkXmqilWffDUR9cpTnqghH4k,4.7,17.0,보통,10000.0,True,True,True,True,"맛있음(2), 분위기(1), 단체·회식(1), 만족(1)"
+K29067357,육가온 여의도점,소고기,2,http://place.map.kakao.com/29067357,실제,ChIJ71aiPwCffDURbtsey3IyhOk,4.0,5.0,,,True,True,True,True,"맛없음(1), 보통(1), 만족(1), 맛있음(1)"
+K1777456464,제주은희네해장국 여의도역점,한식,2,http://place.map.kakao.com/1777456464,실제,ChIJiZeuCLGffDURB6m_6LSoxfQ,4.4,147.0,보통,10000.0,True,True,True,,"맛있음(3), 웨이팅(2)"
+K1140969401,민소한우 금융로점,소고기,2,http://place.map.kakao.com/1140969401,실제,ChIJhcZw2T2ffDURdwWa8qyvH7g,4.1,28.0,,,True,True,True,True,"단체·회식(1), 만족(1), 맛있음(1), 불만(1), 보통(1)"
+K875393995,아야무야,일식,2,http://place.map.kakao.com/875393995,실제,ChIJEeYahH-ffDUREdzkFGuHXrc,4.6,10.0,보통,20000.0,True,True,True,True,"맛있음(3), 분위기(2)"
+K21534557,진진만두 여의도점,한식,2,http://place.map.kakao.com/21534557,실제,ChIJtRPe_xWffDURFh7ZnGiH4aw,4.3,434.0,보통,20000.0,True,True,True,True,"맛있음(2), 웨이팅(2), 혼밥(1)"
+K17180659,대원앤대원 로바다야끼 여의도본점,술집,2,http://place.map.kakao.com/17180659,실제,ChIJtRPe_xWffDURLEVHYdu2hBs,4.0,296.0,보통,20000.0,True,True,True,True,"맛있음(2), 분위기(1), 가성비(1), 만족(1)"
+K900669628,오륜포차,술집,2,http://place.map.kakao.com/900669628,실제,ChIJmfemsHaffDURCgAzlCNShZ8,5.0,12.0,보통,30000.0,,,,True,"맛있음(3), 만족(1), 분위기(1)"
+K335895950,범이네서울육회,소고기,2,http://place.map.kakao.com/335895950,실제,ChIJZ-vJEwCffDURmZmLUKY7tcA,4.3,3.0,,,True,True,True,,"분위기(1), 만족(1)"
+K801107638,개화집 여의도역점,고기(구분 모름),2,http://place.map.kakao.com/801107638,실제,ChIJUSFOOwCffDURdZ1_-Z2Xvzk,5.0,2.0,,,True,True,True,,"맛있음(1), 양많음(1)"
+K9901053,용설왕족발,돼지고기,2,http://place.map.kakao.com/9901053,실제,ChIJpa13ABaffDURSpWShEbt6aE,4.2,102.0,보통,20000.0,True,True,True,True,"맛있음(2), 가성비(1), 웨이팅(1), 불만(1)"
+K852284774,러이포,아시아음식,2,http://place.map.kakao.com/852284774,실제,,,,,,,,,,모름
+K48947833,송림,중식,2,http://place.map.kakao.com/48947833,실제,ChIJRxTHXhuffDURe7pDsQsQ1pU,4.3,50.0,보통,10000.0,True,True,True,True,"단체·회식(2), 보통(1), 혼밥(1), 분위기(1)"
+K1965177359,여의도스마일삼겹 본점,돼지고기,2,http://place.map.kakao.com/1965177359,실제,ChIJMZRl4MuffDURKc5hvpeOT0Y,4.8,72.0,보통,20000.0,True,True,True,True,"맛있음(2), 양많음(2), 단체·회식(1)"
+K1492859679,여의도미나리네,돼지고기,2,http://place.map.kakao.com/1492859679,실제,ChIJSzmUi0KffDUR7Zp2fVhiMGQ,4.8,5.0,보통,10000.0,True,True,True,True,"맛있음(2), 친절(1), 맛없음(1), 붐빔(1)"
+K1341644911,명진집밥생삼겹,돼지고기,2,http://place.map.kakao.com/1341644911,실제,,,,,,,,,,모름
+K16090581,옹기항아리수제비,한식,3,http://place.map.kakao.com/16090581,실제,ChIJWygKABaffDUR9S839ziwA8Q,4.4,8.0,보통,10000.0,True,True,True,,"친절(2), 맛있음(2), 웨이팅(1)"
+K1112871312,미스터향,중식,3,http://place.map.kakao.com/1112871312,실제,ChIJGYqQxGeffDURrltrmhUf1Zw,4.3,52.0,보통,10000.0,True,True,True,True,"만족(2), 단체·회식(1), 빠름(1), 맛있음(1)"
+K10466017,부흥동태탕,횟집·해산물,3,http://place.map.kakao.com/10466017,실제,ChIJv4MUABaffDURTYRd6dwFDIY,3.7,140.0,보통,10000.0,True,True,True,,"맛있음(2), 양많음(1), 분위기(1), 웨이팅(1)"
+K925394046,청기와도시락,도시락,3,http://place.map.kakao.com/925394046,실제,,,,,,,,,,모름
+K761392402,기호,일식,3,http://place.map.kakao.com/761392402,실제,ChIJGWOdrr2ffDUR5Xh0TGyaah0,4.2,5.0,보통,10000.0,True,True,,,"맛있음(2), 가성비(1), 분위기(1)"
+K8217961,다미,횟집·해산물,3,http://place.map.kakao.com/8217961,실제,ChIJY15yABaffDUR3LEA3L5JYqc,3.9,681.0,보통,20000.0,True,True,True,True,"맛있음(4), 맛없음(1)"
+K20125157,대송참숯 여의도점,소고기,3,http://place.map.kakao.com/20125157,실제,ChIJ5e9q7T2ffDURw9Zg3QCVG_E,3.7,134.0,,,True,True,True,True,"가성비(1), 맛있음(1), 단체·회식(1), 보통(1), 만족(1)"
+K341043440,니즈버거 여의도점,양식,3,http://place.map.kakao.com/341043440,실제,ChIJLaQ0fACffDURg9p02PDkjTk,4.4,5.0,보통,10000.0,True,True,True,,"만족(2), 웨이팅(1), 맛있음(1)"
+K2145092895,삼미당 여의도점,일식,3,http://place.map.kakao.com/2145092895,실제,ChIJ39bSXQCffDURGmi84KYLHp8,4.8,5.0,,,True,True,,,"맛있음(3), 웨이팅(1)"
+K50422341,최우영스시야 여의도점,일식,3,http://place.map.kakao.com/50422341,실제,ChIJhffdy5CffDURnlhX-D2u3QE,4.8,1299.0,보통,10000.0,True,True,,True,"맛있음(2), 웨이팅(1), 분위기(1), 양많음(1)"
+K1200700394,백암순대국,한식,3,http://place.map.kakao.com/1200700394,실제,ChIJJeqHxTGffDURrarlzqpKNHE,4.4,10.0,보통,10000.0,True,True,True,,"웨이팅(1), 혼밥(1), 만족(1), 맛있음(1), 분위기(1)"
+K12040226,대문집,한식,3,http://place.map.kakao.com/12040226,실제,ChIJzT9OpD2ffDURNSUpfWszsEI,4.3,148.0,보통,10000.0,True,True,True,True,"맛있음(2), 웨이팅(1), 양많음(1), 가성비(1)"
+K20480160,맛나,한식,3,http://place.map.kakao.com/20480160,실제,,,,,,,,,,모름
+K1722596728,오근내8닭갈비 여의도TP타워점,닭·오리,3,http://place.map.kakao.com/1722596728,실제,ChIJDRSqXQCffDURyuP__rMOAgk,4.2,27.0,보통,10000.0,True,True,True,True,"웨이팅(2), 분위기(1), 만족(1), 붐빔(1)"
+K228613367,심퍼티쿠시 여의도점,양식,3,http://place.map.kakao.com/228613367,실제,,,,,,,,,,모름
+K837124841,도라보울 여의도SK증권빌딩점,퓨전요리,3,http://place.map.kakao.com/837124841,실제,ChIJu_riTQCffDURTSLs6eqbRLg,4.0,1.0,,,True,True,True,,만족(1)
+K848555209,브라운돈까스 여의도SK증권빌딩점,일식,3,http://place.map.kakao.com/848555209,실제,ChIJy-zEewCffDURcKeQa2SVlIE,5.0,1.0,,,True,True,True,,양많음(1)
+K1528191739,여의도왕돈까스,일식,3,http://place.map.kakao.com/1528191739,실제,ChIJY0tmi1iffDUR9nUT4oQ5ZZg,3.8,14.0,저렴,,True,True,True,,"맛있음(2), 웨이팅(2), 맛없음(1)"
+K2147213712,렐란디 신송센터빌딩점,패스트푸드,3,http://place.map.kakao.com/2147213712,실제,ChIJD8f8OD6ffDURw5YVTvHWxhY,4.1,44.0,보통,10000.0,True,True,,,"맛있음(2), 친절(2), 단체·회식(1)"
+K21904115,김명자굴국밥,횟집·해산물,4,http://place.map.kakao.com/21904115,실제,ChIJiWw5_DyffDURpv6xnfP7SsM,3.9,143.0,보통,10000.0,True,True,True,,"맛있음(2), 친절(1), 맛없음(1), 불친절(1)"
+K728098806,푸에르코 여의도웨스트 주식회사,기타,4,http://place.map.kakao.com/728098806,실제,ChIJec8AIACffDURCDd4fXYyppI,3.9,9.0,보통,20000.0,True,True,True,True,"맛있음(2), 단체·회식(1), 불만(1), 만족(1)"
+K734520863,호시우보 여의도TP타워점,소고기,4,http://place.map.kakao.com/734520863,실제,ChIJRXadawCffDURXmxE0pH_skE,4.5,20.0,아주 비쌈,100000.0,True,True,True,True,"단체·회식(2), 맛있음(2), 양많음(1)"
+K1165539466,푸에르코 여의도 TP타워 웨스트,돼지고기,4,http://place.map.kakao.com/1165539466,실제,ChIJec8AIACffDURCDd4fXYyppI,3.9,9.0,보통,20000.0,True,True,True,True,"맛있음(2), 단체·회식(1), 불만(1), 만족(1)"
+K1378330709,츠키젠 여의도점,일식,4,http://place.map.kakao.com/1378330709,실제,ChIJU74SOgCffDURW2qhzfqP0Aw,3.8,5.0,보통,10000.0,True,True,True,,"맛없음(2), 가성비(1), 비쌈(1), 만족(1)"
+K1741663439,르베지왕 여의도공간,한식,4,http://place.map.kakao.com/1741663439,실제,ChIJBb40egCffDURh6z0JNU8bJU,4.7,6.0,보통,10000.0,True,True,True,True,"만족(2), 양많음(1), 맛있음(1), 가성비(1)"
+K552413917,폴트버거 여의도TP타워점,양식,4,http://place.map.kakao.com/552413917,실제,ChIJx6n8_6SffDURKRiHAt0CxpI,4.9,61.0,보통,10000.0,True,True,True,,"맛있음(3), 분위기(2)"
+K1388203617,우나기욘다이메 키쿠카와 여의도점,일식,4,http://place.map.kakao.com/1388203617,실제,ChIJR-iRYKCffDURyymqgCUjlx4,4.4,7.0,보통,30000.0,True,True,True,True,"분위기(1), 접대·미팅(1), 단체·회식(1), 맛있음(1), 비쌈(1)"
+K1996870865,남보 여의도TP타워점,한식,4,http://place.map.kakao.com/1996870865,실제,,,,,,,,,,모름
+K1080059014,무탄 여의도점,중식,4,http://place.map.kakao.com/1080059014,실제,ChIJKa7YYgCffDURfG6hzHtax9s,4.9,3048.0,,,True,True,True,True,"맛있음(2), 양많음(1), 분위기(1), 맛없음(1)"
+K1747938424,유림면 여의도TP타워점,한식,4,http://place.map.kakao.com/1747938424,실제,ChIJkRhmcACffDURuHKaRb0rzEw,3.1,9.0,보통,10000.0,True,True,True,,"맛없음(1), 만족(1), 맛있음(1), 비쌈(1), 불만(1)"
+K834268987,청담동순도리,한식,4,http://place.map.kakao.com/834268987,실제,,,,,,,,,,모름
+K907111468,능라도 여의도점,소고기,4,http://place.map.kakao.com/907111468,실제,ChIJfda7CwCffDURc4R1-8g7moE,4.6,51.0,보통,10000.0,True,True,True,True,"만족(2), 맛있음(1), 친절(1), 분위기(1)"
+K20486617,이태원천상 동여의도점,술집,4,http://place.map.kakao.com/20486617,실제,ChIJz1dLZD6ffDURflTk6nXA2mQ,3.7,145.0,보통,30000.0,True,True,True,True,"단체·회식(3), 맛없음(1), 분위기(1)"
+K8583061,청해진대복집,횟집·해산물,4,http://place.map.kakao.com/8583061,실제,ChIJByEGZT6ffDURnwwGdzsMmsg,4.3,29.0,,,True,True,True,True,"만족(2), 분위기(1), 붐빔(1), 가성비(1)"
+K12433770,마포만두,분식,4,http://place.map.kakao.com/12433770,실제,ChIJ80CbBz2ffDURU-YNjGA52_o,3.7,530.0,저렴,,True,True,,False,"맛있음(3), 웨이팅(1), 만족(1)"
+K10722746,전주본가콩나물국밥,한식,4,http://place.map.kakao.com/10722746,실제,ChIJ8agAZT6ffDUR_6LsS6vFzBI,3.9,46.0,,,,,,,"보통(1), 맛없음(1), 맛있음(1), 불만(1), 분위기(1)"
+K909215691,리프레싱주스&샌드위치,패스트푸드,4,http://place.map.kakao.com/909215691,실제,,,,,,,,,,모름
+K1827628132,마라공방 여의도점,중식,4,http://place.map.kakao.com/1827628132,실제,ChIJkZAbRgCffDURH9QUxGok2Ok,,0.0,,,True,True,True,,모름
+K2140928810,은민홍,한식,4,http://place.map.kakao.com/2140928810,실제,ChIJpddwX96ffDURGyPGEqHNo7A,4.2,73.0,보통,30000.0,True,True,True,True,"맛있음(1), 분위기(1), 단체·회식(1), 만족(1), 양많음(1)"
+K1048672020,선주후면어만두,한식,4,http://place.map.kakao.com/1048672020,실제,ChIJZUkHGxaffDURVhYLP2AKqSc,4.1,170.0,보통,20000.0,True,True,True,True,"맛있음(1), 비쌈(1), 맛없음(1), 분위기(1), 만족(1)"
+K1772780346,이도곰탕 여의도직영점,한식,4,http://place.map.kakao.com/1772780346,실제,ChIJz20fQACffDURqgae3m3-Pv4,3.9,12.0,보통,10000.0,True,True,True,True,"보통(2), 만족(2), 맛있음(1)"
+K1119649940,경천애인2237 여의도점,소고기,4,http://place.map.kakao.com/1119649940,실제,ChIJg_e39xWffDURf-TWDZlxdTU,4.2,180.0,아주 비쌈,100000.0,True,True,True,True,"맛있음(4), 단체·회식(1)"
+K1848180500,BHC치킨 여의도역점,치킨,4,http://place.map.kakao.com/1848180500,실제,ChIJdcPeCD2ffDURmDHNDt5fIRg,3.7,103.0,보통,10000.0,,True,True,True,"붐빔(2), 맛있음(2), 가성비(1)"
+K250606601,스시도손,일식,4,http://place.map.kakao.com/250606601,실제,ChIJC6UY9nOffDUR75gF1Qr0Chg,4.5,30.0,아주 비쌈,100000.0,True,True,,True,"가성비(1), 맛있음(1), 맛없음(1), 보통(1), 양많음(1)"
+K1652486992,이치만,술집,4,http://place.map.kakao.com/1652486992,실제,ChIJC5QzdxyffDURmBuP5LwQowY,4.4,11.0,보통,30000.0,,True,True,True,"맛있음(2), 웨이팅(1), 분위기(1), 가성비(1)"
+K2064322434,설농장 여의도점,돼지고기,4,http://place.map.kakao.com/2064322434,실제,ChIJw4ijYgCffDURZgGLLGdzLAQ,3.7,3.0,,,True,True,True,True,"맛있음(2), 가성비(1)"
+K288234622,신희초밥,일식,4,http://place.map.kakao.com/288234622,실제,ChIJm753ABaffDURkkMTlLadOhY,4.1,78.0,보통,10000.0,True,True,True,True,"맛있음(3), 웨이팅(2)"
+K19975163,나니,술집,4,http://place.map.kakao.com/19975163,실제,ChIJoz9jCD2ffDUR3rTViObKLIg,4.5,367.0,보통,30000.0,,True,True,True,"맛있음(3), 분위기(1), 단체·회식(1)"
+K17644452,에비스,일식,4,http://place.map.kakao.com/17644452,실제,,,,,,,,,,모름
+K284205449,서호김밥 여의도점,한식,4,http://place.map.kakao.com/284205449,실제,ChIJrxS3VACffDURRhJgIU24kzw,4.3,12.0,보통,10000.0,True,True,,,"맛있음(3), 맛없음(1), 불만(1)"
+K21332840,황태본가,횟집·해산물,4,http://place.map.kakao.com/21332840,실제,ChIJZUM1_DyffDURyJGbVn4raR8,3.9,294.0,저렴,,True,True,True,,"가성비(2), 분위기(1), 만족(1), 맛있음(1)"
+K7932458,루아베이커리 여의도TP타워점,간식,4,http://place.map.kakao.com/7932458,실제,,,,,,,,,,모름
+K15252003,교동전선생 여의도에스트레뉴점,술집,4,http://place.map.kakao.com/15252003,실제,ChIJAzUnCT2ffDURCQ07vGDJHZE,4.0,159.0,보통,10000.0,True,True,True,True,"맛있음(1), 단체·회식(1), 웨이팅(1), 맛없음(1), 분위기(1)"
+K1838037991,와인주막차차 여의도점,한식,4,http://place.map.kakao.com/1838037991,실제,ChIJAzUnCT2ffDUR2KUiZtJU4o4,4.8,234.0,비쌈,20000.0,,,True,True,"맛있음(2), 단체·회식(2), 분위기(1)"
+K12539001,민소한우 중앙여의도점,소고기,4,http://place.map.kakao.com/12539001,실제,ChIJ80CbBz2ffDURZTAe2-dGNZU,4.0,178.0,,,True,True,True,True,"만족(2), 가성비(2), 맛있음(1)"
+K1307094527,미미쌀국수,아시아음식,4,http://place.map.kakao.com/1307094527,실제,ChIJlyw9Um6ffDURz_0HYSENwuI,4.4,40.0,보통,10000.0,True,True,True,,"맛있음(3), 분위기(1), 만족(1)"
+K320399455,미방 여의도역점,소고기,4,http://place.map.kakao.com/320399455,실제,ChIJ9SrIDj2ffDURiK3qZNAHbpM,4.1,54.0,,,,True,True,True,"가성비(2), 맛없음(1), 친절(1), 맛있음(1)"
+K1367016499,삼육공 여의도케이타워점,소고기,4,http://place.map.kakao.com/1367016499,실제,ChIJ5fmW9xWffDURiGO1_8yXdsM,4.2,199.0,보통,20000.0,True,True,True,True,"맛있음(3), 단체·회식(2)"
+K1875628055,테누토,술집,4,http://place.map.kakao.com/1875628055,실제,ChIJp6LHvhmffDUR_-AjawTaMwg,4.5,83.0,보통,10000.0,,,,True,"분위기(1), 빠름(1), 친절(1), 웨이팅(1), 만족(1)"
+K261500890,모던눌랑 여의도점,중식,4,http://place.map.kakao.com/261500890,실제,ChIJrfV89xWffDURKlk9sXxQhzs,4.1,325.0,,,True,True,True,True,"맛있음(2), 양많음(1), 분위기(1), 단체·회식(1)"
+K468234564,플러피,양식,4,http://place.map.kakao.com/468234564,실제,ChIJ0UWO2RaffDURJwdu-YtukxQ,4.3,74.0,보통,20000.0,True,True,True,True,"분위기(2), 맛없음(1), 맛있음(1), 가성비(1)"
+K1529143461,고메램 여의도,소고기,4,http://place.map.kakao.com/1529143461,실제,ChIJy010RQCffDURfVtZf2IE7y0,4.7,20.0,보통,30000.0,True,True,True,True,"맛있음(2), 분위기(1), 단체·회식(1), 웨이팅(1)"
+K1260703039,구름산추어탕,횟집·해산물,4,http://place.map.kakao.com/1260703039,실제,ChIJS4Db1xWffDURlGh6TcwXAks,4.3,3.0,,,True,True,True,True,맛있음(2)
+K1562368555,모던샤브하우스 여의도점,샤브샤브,4,http://place.map.kakao.com/1562368555,실제,ChIJgX7yP2OffDURwY2T1EAR4bk,4.5,138.0,비쌈,50000.0,True,True,True,True,"맛있음(2), 분위기(1), 단체·회식(1), 만족(1)"
+K339071636,몰트커피바,술집,4,http://place.map.kakao.com/339071636,실제,ChIJZf3qDACffDURZItpOgI2MZw,4.8,11.0,보통,,,,True,,"분위기(3), 친절(1), 맛있음(1)"
+K20643250,김동진장호왕곱창,소고기,4,http://place.map.kakao.com/20643250,실제,ChIJ3cdFGD6ffDURKbF8msj9C_o,4.1,300.0,보통,10000.0,True,True,True,,맛있음(5)
+K974474478,백소정 여의도점,일식,4,http://place.map.kakao.com/974474478,실제,ChIJ9akZ37qffDUR62WQXIoka-s,4.0,31.0,보통,10000.0,True,True,True,,"웨이팅(2), 혼밥(1), 맛있음(1), 친절(1)"
+K387758329,북창동순두부 여의도점,한식,4,http://place.map.kakao.com/387758329,실제,ChIJh6BSRQCffDURYA5xgUfwZX4,4.0,6.0,보통,10000.0,True,True,True,,"웨이팅(1), 붐빔(1), 양많음(1), 친절(1), 만족(1)"
+K1497402617,1992덮밥 짜글이 동여의도점,한식,4,http://place.map.kakao.com/1497402617,실제,ChIJpffhPgCffDURJ9CNpauO_GI,,0.0,,,,True,True,,모름
+K1761460079,편백국수,한식,4,http://place.map.kakao.com/1761460079,실제,,,,,,,,,,모름
+K738121373,주문진,횟집·해산물,4,http://place.map.kakao.com/738121373,실제,,,,,,,,,,모름
+K332390911,천청돈감,한식,4,http://place.map.kakao.com/332390911,실제,ChIJ13scDM6ffDUR9LXyaMS_NDE,4.7,20.0,보통,10000.0,True,True,True,True,"웨이팅(1), 양많음(1), 맛없음(1), 분위기(1), 맛있음(1)"
+K1047540511,청식당 주택건설회관점,돼지고기,4,http://place.map.kakao.com/1047540511,실제,ChIJLyVQRgCffDURKGfoT4vlD3A,4.2,5.0,보통,10000.0,True,True,True,True,"만족(2), 가성비(1), 맛있음(1)"
+K1664483742,동우황태북어국 동여의도점,횟집·해산물,4,http://place.map.kakao.com/1664483742,실제,ChIJ3cdFGD6ffDUR7JssmvcYQ2U,4.3,119.0,저렴,,True,True,True,,"맛있음(2), 웨이팅(1), 보통(1), 분위기(1)"
+K27544748,카레오 여의도점,퓨전요리,4,http://place.map.kakao.com/27544748,실제,ChIJg8XXehaffDURKX1XjjxBeZ0,4.3,260.0,보통,10000.0,True,True,,,"맛있음(4), 만족(1)"
+K1438280888,일미집 여의도점,한식,4,http://place.map.kakao.com/1438280888,실제,ChIJBxpkYACffDURSh1f36Yky3g,4.7,10.0,보통,10000.0,True,True,True,True,"맛있음(3), 분위기(2)"
+K1075079459,신한토스트,간식,4,http://place.map.kakao.com/1075079459,실제,,,,,,,,,,모름
+K1386263272,가마치통닭 서울여의도점,치킨,4,http://place.map.kakao.com/1386263272,실제,,,,,,,,,,모름
+K1590303732,스시아라타,일식,4,http://place.map.kakao.com/1590303732,실제,ChIJu_yOVH-ffDURmXi9WVd6T4k,4.6,121.0,아주 비쌈,100000.0,True,True,,True,"맛있음(4), 가성비(1)"
+K20748289,지리산명가,한식,4,http://place.map.kakao.com/20748289,실제,ChIJgcrcOjyffDUR6_yyQX2vp_Y,4.2,13.0,보통,10000.0,True,True,True,True,맛있음(4)
+K274522052,에그드랍 여의도신영증권점,패스트푸드,4,http://place.map.kakao.com/274522052,실제,ChIJ3dmbke-ffDURHZYZ5h5vbwo,4.3,41.0,보통,10000.0,True,True,,,"친절(2), 가성비(2), 만족(1)"
+K1382420860,트라가 여의도점,양식,4,http://place.map.kakao.com/1382420860,실제,ChIJa1zMT_SffDUR-DyZI2Vy3dg,4.2,13.0,아주 비쌈,100000.0,True,True,True,True,"친절(2), 맛있음(2), 분위기(1)"
+K1217352900,어슬 여의도,퓨전요리,4,http://place.map.kakao.com/1217352900,실제,ChIJ_aC9fQCjfDURnCugUR35FVo,5.0,4.0,,,True,True,True,,"만족(2), 분위기(2)"
+K1767994515,슬로우캘리 여의도신영증권점,샐러드,4,http://place.map.kakao.com/1767994515,실제,ChIJ401HYSqffDURuN0siw88eRI,4.7,9.0,보통,10000.0,True,True,True,,"맛있음(2), 웨이팅(1), 가성비(1), 친절(1)"
+K1801247303,명륜진사갈비 여의도점,돼지고기,4,http://place.map.kakao.com/1801247303,실제,ChIJRyxAqfSffDUR3WQp_8aTOBM,3.9,223.0,보통,20000.0,True,True,True,True,"양많음(1), 단체·회식(1), 비쌈(1), 맛있음(1), 가성비(1)"
+K967509219,하카타분코 오토코쥬쿠 여의도점,일식,4,http://place.map.kakao.com/967509219,실제,ChIJR4T1AkeffDURH-RuROd5EVk,4.0,102.0,보통,10000.0,True,True,,,"보통(3), 분위기(2)"
+K693580781,팔레토,양식,4,http://place.map.kakao.com/693580781,실제,ChIJWUa-kfWffDUR4jUM_zUvsFc,3.9,161.0,비쌈,50000.0,True,True,True,True,"분위기(1), 단체·회식(1), 친절(1), 맛있음(1), 비쌈(1)"
+K594961765,잭슨피자 여의도점,양식,4,http://place.map.kakao.com/594961765,실제,ChIJdfRJ_emffDUR9zdgm8sSC7E,4.0,5.0,,,True,True,True,,"만족(2), 비쌈(1), 맛있음(1)"
+K228582276,소문난 양평해장국,한식,4,http://place.map.kakao.com/228582276,실제,ChIJUwJSFQCffDURbaogiY--Zs8,5.0,1.0,,,True,True,True,,친절(1)
+K7979706,신송한식,횟집·해산물,4,http://place.map.kakao.com/7979706,실제,ChIJNcPGOjyffDURZmQGlE-YJPs,3.9,169.0,보통,,True,True,True,True,"만족(3), 분위기(2)"
+K1364719063,수티문,한식,4,http://place.map.kakao.com/1364719063,실제,,,,,,,,,,모름
+K1719404757,롤링핀 여의도점,간식,4,http://place.map.kakao.com/1719404757,실제,,,,,,,,,,모름
+K1600455009,에이베리,술집,4,http://place.map.kakao.com/1600455009,실제,ChIJYYuvI_qffDUR-0TKeu_IzHY,4.5,4.0,,,,,True,True,"친절(1), 가성비(1), 분위기(1), 맛있음(1)"
+K670788682,우하나 여의도점,소고기,4,http://place.map.kakao.com/670788682,실제,ChIJ-90KlnSffDURhmOcR39D-gA,5.0,176.0,아주 비쌈,100000.0,True,True,True,True,"분위기(2), 단체·회식(2), 친절(1)"
+K1104848414,갓포모로미 여의도점,일식,4,http://place.map.kakao.com/1104848414,실제,ChIJZYA-1NyffDURYM1NOZ7wFws,3.5,4.0,,,,True,True,True,"불만(1), 친절(1)"
+K1257163864,돈대리돈까스백반,일식,4,http://place.map.kakao.com/1257163864,실제,ChIJtZTt9yyffDUREnoyVoBDSvY,4.4,82.0,보통,10000.0,True,True,True,False,"맛있음(3), 만족(1), 붐빔(1)"
+K1837327777,샌드그린,패스트푸드,4,http://place.map.kakao.com/1837327777,실제,ChIJH8GVV3uffDURxTPO1xlQaL4,4.8,4.0,,,,,,,"만족(1), 맛있음(1)"
+K1020363880,다솔식당,한식,5,http://place.map.kakao.com/1020363880,실제,ChIJNbsNYQCffDURiJotLJ9Ls1o,3.8,5.0,보통,10000.0,True,True,True,,"맛있음(2), 만족(1), 친절(1), 불만(1)"
+K1029827820,사계절집밥,한식,5,http://place.map.kakao.com/1029827820,실제,ChIJgcrcOjyffDUR923BPJJFuQA,5.0,1.0,,,True,True,True,,만족(1)
+K90396784,칠산꽃게장 여의도점,횟집·해산물,5,http://place.map.kakao.com/90396784,실제,ChIJ7-UydwCffDURXSOVQ_iCqr4,4.5,4.0,보통,10000.0,True,True,True,True,"맛있음(2), 빠름(1), 친절(1)"
+K662295380,청식당,한식,5,http://place.map.kakao.com/662295380,실제,ChIJoVxnrWaffDURl5DApobdlg8,4.6,12.0,보통,10000.0,True,True,True,True,"맛있음(2), 가성비(1), 맛없음(1), 만족(1)"
+K26524730,강공순할매집,횟집·해산물,5,http://place.map.kakao.com/26524730,실제,ChIJJe7DBzuffDURRFI65tpSkGI,4.1,47.0,보통,10000.0,True,True,True,True,"맛있음(2), 단체·회식(1), 빠름(1), 비쌈(1)"
+K264132362,스아게 동여의도점,일식,5,http://place.map.kakao.com/264132362,실제,,,,,,,,,,모름
+K645273713,가메골,한식,5,http://place.map.kakao.com/645273713,실제,ChIJ0f0rFgCffDURTRwrYE6-y_M,,0.0,,,True,True,True,,모름
+K793872805,온김애,분식,5,http://place.map.kakao.com/793872805,실제,ChIJ-6cX3RWffDURGf0XDvPWo5U,,0.0,,,True,True,,,모름
+K70500615,은행골 여의도점,일식,5,http://place.map.kakao.com/70500615,실제,ChIJgXG4_3WffDUR-Yj2DlfoY-Y,4.1,136.0,보통,10000.0,True,True,True,True,"맛있음(2), 양많음(1), 만족(1), 보통(1)"
+K8270246,동해골뱅이전문점,횟집·해산물,5,http://place.map.kakao.com/8270246,실제,ChIJP0SOID6ffDURwfbe7MaGqVg,3.7,67.0,,,,,,,"맛있음(2), 단체·회식(2), 불친절(1)"
+K7922943,상은북어국,횟집·해산물,5,http://place.map.kakao.com/7922943,실제,ChIJ544KSD6ffDUR6hHtbGWfFEA,4.2,81.0,저렴,,True,True,True,,"만족(3), 맛있음(1), 분위기(1)"
+K24545487,을지황소곱창 본점,소고기,5,http://place.map.kakao.com/24545487,실제,ChIJyRJ-zFyffDURdw_4psO6Wf0,5.0,2.0,,,,True,True,,"맛있음(1), 웨이팅(1)"
+K122431557,불독위스키,술집,5,http://place.map.kakao.com/122431557,실제,,,,,,,,,,모름
+K2038290064,글로리,술집,5,http://place.map.kakao.com/2038290064,실제,,,,,,,,,,모름
+K2070048897,여의화로 본점,고기(구분 모름),5,http://place.map.kakao.com/2070048897,실제,ChIJwemeYNuffDURszJD65zffew,4.5,42.0,보통,30000.0,True,True,True,True,"맛있음(2), 웨이팅(1), 친절(1), 만족(1)"
+K15759732,오삼볶음집,한식,5,http://place.map.kakao.com/15759732,실제,ChIJu0_iOD6ffDURqfonPTn_dCU,4.3,90.0,보통,10000.0,True,True,True,True,"맛있음(2), 분위기(1), 웨이팅(1), 만족(1)"
+K1800547942,화양연화,술집,5,http://place.map.kakao.com/1800547942,실제,,,,,,,,,,모름
+K1377341383,테라스,술집,5,http://place.map.kakao.com/1377341383,실제,ChIJD8f8OD6ffDURArXSfuI8Qzg,,0.0,,,True,True,True,,모름
+K1993290754,오뚜기네실내포차,술집,5,http://place.map.kakao.com/1993290754,실제,ChIJV7LxI-affDURxkiWiaMcW8U,4.0,1.0,,,,,True,,모름
+K663478088,러블리,한식,5,http://place.map.kakao.com/663478088,실제,ChIJNd6HRz6ffDURhJHDpFlSMuk,,0.0,,,,,,,모름
+K1664438939,무무,일식,5,http://place.map.kakao.com/1664438939,실제,ChIJTYLERQCffDURVStTXKJuJo8,4.0,1.0,,,True,True,,,붐빔(1)
+K11951548,샌드프레소 여의도한국투자증권점,패스트푸드,5,http://place.map.kakao.com/11951548,실제,,,,,,,,,,모름
+K21408129,동원홈푸드 한국투자증권점,한식,5,http://place.map.kakao.com/21408129,실제,,,,,,,,,,모름
+K1985409152,나무,술집,5,http://place.map.kakao.com/1985409152,실제,ChIJe7LUIwCffDURm7Y9KPOtvgE,4.9,44.0,,,True,True,True,True,"단체·회식(3), 맛있음(1), 분위기(1)"
+K889532039,퍼스트플러스에이드,샐러드,5,http://place.map.kakao.com/889532039,실제,ChIJt4ggw32ffDURxaxFwYgFClc,4.3,28.0,보통,10000.0,True,True,True,True,"맛있음(2), 분위기(2), 만족(1)"
+K27295173,가양양꼬치,중식,5,http://place.map.kakao.com/27295173,실제,ChIJkUWSID6ffDURuDkyZc4pqN4,3.9,10.0,,,,True,True,True,"맛있음(2), 친절(1), 단체·회식(1)"
+K1292327348,닭집애 오투타워점,닭·오리,5,http://place.map.kakao.com/1292327348,실제,ChIJsUp6KgCffDUReZU21aFyZzQ,3.0,1.0,,,,,,,맛없음(1)
+K1614904395,포파이브,아시아음식,5,http://place.map.kakao.com/1614904395,실제,,,,,,,,,,모름
+K1892537605,도파민바,술집,5,http://place.map.kakao.com/1892537605,실제,,,,,,,,,,모름
+K2145143173,탭퍼블릭 여의도점,술집,5,http://place.map.kakao.com/2145143173,실제,ChIJ8_RecrCffDURNhuDPfosix8,4.2,619.0,보통,20000.0,,,True,True,"분위기(2), 만족(1), 웨이팅(1), 친절(1)"
+K914046804,전설,술집,5,http://place.map.kakao.com/914046804,실제,ChIJtX5U7RWffDURCx9LLvqxf3A,,0.0,,,,,,,모름
+K1121947436,유메,술집,5,http://place.map.kakao.com/1121947436,실제,,,,,,,,,,모름
+K10539176,스칼렛,술집,5,http://place.map.kakao.com/10539176,실제,ChIJ0UGiiRWffDURoxSyhTgycBA,,0.0,,,,,,,모름
+K11891928,마도,일식,5,http://place.map.kakao.com/11891928,실제,ChIJkbutdsOffDURrohnDQuw7NI,4.6,8.0,보통,50000.0,True,True,,True,"맛있음(2), 만족(1)"
+K73474358,아우라,양식,5,http://place.map.kakao.com/73474358,실제,,,,,,,,,,모름
+K1525189377,오한수우육면가 오투타워직영점,중식,5,http://place.map.kakao.com/1525189377,실제,ChIJq3tk4PuffDURDXsy0zVivHU,4.3,161.0,보통,10000.0,True,True,True,,"맛있음(4), 웨이팅(1)"
+K60111492,고슬담 여의도 오토타워점,한식,5,http://place.map.kakao.com/60111492,실제,ChIJK3e9SgCffDUR-LmrG_soKJA,4.5,2.0,,,True,True,True,,"만족(1), 가성비(1)"
+K889186893,삼씨오화 여의도점,술집,5,http://place.map.kakao.com/889186893,실제,ChIJW1z36fOffDURGRlTOQdvwhk,3.9,105.0,보통,30000.0,True,True,True,True,"분위기(1), 비쌈(1), 붐빔(1), 불만(1), 맛있음(1)"
+K1264222907,쿠사,일식,5,http://place.map.kakao.com/1264222907,실제,ChIJ173R2J-ffDURNCC3i6gTxc4,4.3,9.0,보통,10000.0,True,True,True,,"친절(1), 분위기(1), 가성비(1), 만족(1), 맛있음(1)"
+K1178870549,해봉정육 여의도점,소고기,5,http://place.map.kakao.com/1178870549,실제,ChIJyzNJ8qmffDURhBV23FkUTBc,4.2,27.0,,,True,True,True,True,"맛있음(4), 단체·회식(1)"
+K1976028871,오복수산참치 오투타워여의도점,일식,5,http://place.map.kakao.com/1976028871,실제,ChIJI4K2-kmffDURC20QRL8hyqI,4.3,250.0,보통,20000.0,True,True,True,True,"맛있음(1), 분위기(1), 만족(1), 단체·회식(1), 비쌈(1)"
+K2098934885,오복수산대구 여의도점,횟집·해산물,5,http://place.map.kakao.com/2098934885,실제,ChIJx5R8dGGffDURKeyidJ1UZf8,4.2,73.0,보통,10000.0,True,True,True,True,"만족(2), 맛있음(2), 붐빔(1)"
+K16557336,비스,술집,5,http://place.map.kakao.com/16557336,실제,ChIJtX5U7RWffDURKILJW1kC6dI,,0.0,,,,,,,모름
+K2070878561,너와집,한식,5,http://place.map.kakao.com/2070878561,실제,ChIJEwg6LwCffDURRbUx_5ptn60,4.4,5.0,보통,20000.0,,True,True,True,"단체·회식(2), 친절(1), 맛있음(1)"
+K2091502495,본우리반상 여의도오투타워점,한식,5,http://place.map.kakao.com/2091502495,실제,ChIJjZ8eTtiffDURSzweH3h08tg,3.6,8.0,보통,10000.0,True,True,True,,"만족(2), 가성비(1), 비쌈(1), 불만(1)"
+K1599610434,낭만솥뚜껑,돼지고기,5,http://place.map.kakao.com/1599610434,실제,ChIJfZcSU5effDURdaLfQloh3x8,4.0,30.0,보통,30000.0,True,True,True,True,"맛있음(2), 붐빔(2), 분위기(1)"
+K461758138,여의화로 직영점,돼지고기,5,http://place.map.kakao.com/461758138,실제,ChIJpxhTTwCffDURmmtAfidQQf0,4.8,100.0,보통,20000.0,True,True,True,True,"분위기(3), 맛있음(1), 단체·회식(1)"
+K566990521,하바나,술집,5,http://place.map.kakao.com/566990521,실제,,,,,,,,,,모름
+K19576444,초콜렛,술집,5,http://place.map.kakao.com/19576444,실제,ChIJkUWSID6ffDURxMV_2PK8i4c,,0.0,,,,,True,,모름
+K489015707,우양연,소고기,5,http://place.map.kakao.com/489015707,실제,ChIJDxhos42ffDURex4bgbM1XX8,,0.0,,,True,True,,True,모름
+K1561905614,코코,술집,5,http://place.map.kakao.com/1561905614,실제,,,,,,,,,,모름
+K12725316,신복촌,횟집·해산물,5,http://place.map.kakao.com/12725316,실제,ChIJNd6HRz6ffDUR1FlkgsTnCOA,4.2,320.0,보통,20000.0,True,True,True,True,"맛있음(3), 단체·회식(1), 분위기(1)"
+K15289989,일마지오 여의도점,양식,5,http://place.map.kakao.com/15289989,실제,ChIJ-47URz6ffDURiUOuhZYD4Rs,3.9,230.0,보통,10000.0,True,True,True,True,"맛있음(2), 분위기(2), 만족(1)"
+K35978359,조도,술집,5,http://place.map.kakao.com/35978359,실제,ChIJ3eulIQCffDURcB9nqqpwTxQ,4.9,9.0,아주 비쌈,100000.0,,True,True,True,"맛있음(2), 단체·회식(1), 친절(1), 분위기(1)"
+K1653920808,태희푸드,구내식당,5,http://place.map.kakao.com/1653920808,실제,,,,,,,,,,모름
+K122728363,이칠구,술집,5,http://place.map.kakao.com/122728363,실제,,,,,,,,,,모름
+K1985454757,앨리스,술집,5,http://place.map.kakao.com/1985454757,실제,,,,,,,,,,모름
+K64832302,미스터존슨탕 치즈닭갈비,닭·오리,5,http://place.map.kakao.com/64832302,실제,ChIJB6aBOdqffDURRKQf1H7bs2o,4.4,5.0,,,True,True,True,True,"친절(2), 맛있음(1)"
+K84405102,멕시칸치킨,치킨,5,http://place.map.kakao.com/84405102,실제,ChIJtX5U7RWffDUR2Z0fdwFmyKM,,0.0,,,,,,,모름
+K1033345535,일일향 여의도점,중식,5,http://place.map.kakao.com/1033345535,실제,ChIJ73Jk8UaffDURcmitv1-tGWs,4.0,348.0,보통,10000.0,True,True,True,True,"단체·회식(3), 맛있음(1), 웨이팅(1)"
+K664050068,강서버섯샤브칼국수,샤브샤브,5,http://place.map.kakao.com/664050068,실제,ChIJVRIsrT2ffDURlPIQKalFjP4,4.0,3.0,보통,10000.0,True,True,True,,"만족(2), 웨이팅(1)"
+K282288201,홍대돈부리 오투타워점,일식,5,http://place.map.kakao.com/282288201,실제,ChIJRZpNO6-ffDURCmuYidIwh6A,3.9,19.0,보통,10000.0,True,True,,,"맛있음(2), 분위기(1), 웨이팅(1), 양많음(1)"
+K893942080,후루룩 본점,일식,5,http://place.map.kakao.com/893942080,실제,ChIJ2_f-QwCffDURtfaiuQdn9c8,,0.0,,,,True,True,,모름
+K1145341830,경성의봄,술집,5,http://place.map.kakao.com/1145341830,실제,ChIJr7ZacYuffDURmz77y4kNICc,5.0,2.0,,,,,,,"맛있음(1), 만족(1)"
+K1041840511,온미동,일식,5,http://place.map.kakao.com/1041840511,실제,ChIJWaPln-iZfDUR2XoEEN-5hWA,4.5,209.0,보통,10000.0,True,True,,True,"맛있음(4), 웨이팅(1)"
+K10552768,솔,한식,5,http://place.map.kakao.com/10552768,실제,ChIJ0UGiiRWffDURoEFl1EVIIrM,4.5,12.0,,,True,True,True,True,"분위기(2), 만족(1), 맛있음(1)"
+K8135059,가원 여의도점,중식,5,http://place.map.kakao.com/8135059,실제,ChIJRz71iRWffDURV_ecEhIlt14,4.1,60.0,보통,10000.0,True,True,True,True,"맛있음(2), 분위기(1), 비쌈(1), 맛없음(1)"
+K829240256,나무가든,소고기,5,http://place.map.kakao.com/829240256,실제,ChIJe7LUIwCffDURm7Y9KPOtvgE,4.9,44.0,,,True,True,True,True,"단체·회식(3), 맛있음(1), 분위기(1)"
+K11064746,밍1956,퓨전요리,5,http://place.map.kakao.com/11064746,실제,ChIJB5F4SD6ffDUR9cXcC4WQfZg,4.1,225.0,보통,10000.0,True,True,True,True,"맛있음(3), 분위기(1), 만족(1)"
+K155270172,서평옥 여의도점,한식,5,http://place.map.kakao.com/155270172,실제,ChIJYXjiPgCffDURL-yCaP1YU-U,4.4,7.0,보통,10000.0,True,True,True,True,"맛있음(2), 분위기(1), 가성비(1), 만족(1)"
+K361135719,아틀라스,술집,5,http://place.map.kakao.com/361135719,실제,ChIJtX5U7RWffDURofX5kkZaiBY,,0.0,,,,,,,모름
+K1506096986,오늘은즉떡,분식,5,http://place.map.kakao.com/1506096986,실제,ChIJi5nNITyffDUREJR74nLcwHE,4.1,73.0,보통,10000.0,True,True,True,,"맛있음(3), 만족(1), 가성비(1)"
+K9138864,소도,일식,5,http://place.map.kakao.com/9138864,실제,ChIJCfmr8hWffDURrQFa7u2GiIU,4.0,83.0,보통,50000.0,True,True,True,True,"맛있음(3), 단체·회식(1), 만족(1)"
+K736559784,성민촌,샤브샤브,5,http://place.map.kakao.com/736559784,실제,ChIJ2-lHIjyffDUR-YwK8RpLLD4,4.0,126.0,보통,20000.0,True,True,True,True,"만족(2), 맛있음(2), 가성비(1)"
+K554317763,블루코스트,일식,5,http://place.map.kakao.com/554317763,실제,,,,,,,,,,모름
+K1293429734,동화매점,분식,5,http://place.map.kakao.com/1293429734,실제,ChIJjXPEYECffDURDQWY1zVj__k,4.5,2.0,,,True,True,,,만족(1)
+K948315196,온멘,일식,5,http://place.map.kakao.com/948315196,실제,ChIJm4sPTwCffDURmhjX-Kn7RoU,5.0,2.0,,,,True,True,,맛있음(1)
+K2033211083,남부시장콩나물국밥,한식,5,http://place.map.kakao.com/2033211083,실제,,,,,,,,,,모름
+K44918025,고돈집,돼지고기,5,http://place.map.kakao.com/44918025,실제,ChIJUaGMITyffDURf_wVZJ79rzg,3.8,15.0,보통,10000.0,True,True,True,True,"만족(3), 맛있음(1), 웨이팅(1)"
+K16094498,전주식당,한식,5,http://place.map.kakao.com/16094498,실제,ChIJXw3qITyffDURpFWBrs_ubZ0,4.0,50.0,저렴,,True,True,True,,"만족(2), 맛있음(2), 불만(1)"
+K16085890,전주분식,분식,5,http://place.map.kakao.com/16085890,실제,ChIJXw3qITyffDURpFWBrs_ubZ0,4.0,50.0,저렴,,True,True,True,,"만족(2), 맛있음(2), 불만(1)"
+K9542036,평안도만두집,한식,5,http://place.map.kakao.com/9542036,실제,ChIJbaLyITyffDUR4Ufcp5lBIMQ,4.1,86.0,보통,,True,True,True,,"맛있음(2), 만족(2), 보통(1)"
+K16094546,사랑채,한식,5,http://place.map.kakao.com/16094546,실제,ChIJUaGMITyffDUR2q3jqiem5uQ,4.2,13.0,보통,20000.0,True,True,True,,"맛있음(2), 붐빔(1), 가성비(1), 불만(1)"
+K1893776088,동백식당 여의도,한식,5,http://place.map.kakao.com/1893776088,실제,ChIJQwqmE2CffDUROT2zbcE7SjY,4.3,12.0,보통,10000.0,True,True,True,,"분위기(2), 만족(1), 친절(1), 맛있음(1)"
+K1273646544,우아라 여의도점,한식,5,http://place.map.kakao.com/1273646544,실제,ChIJn63l1MeffDURpLsSOpVxDZ0,5.0,93.0,아주 비쌈,100000.0,,,,,"단체·회식(3), 분위기(1), 맛있음(1)"
+K11099788,아티제 여의도점,간식,5,http://place.map.kakao.com/11099788,실제,,,,,,,,,,모름
+K662485966,대보정 여의도점,한식,5,http://place.map.kakao.com/662485966,실제,ChIJ5djd0PiffDUR5LksMt9bn2E,5.0,98.0,아주 비쌈,100000.0,True,True,True,,"단체·회식(2), 맛있음(1), 분위기(1), 접대·미팅(1)"
+K919743790,해우리 여의도점,횟집·해산물,5,http://place.map.kakao.com/919743790,실제,ChIJayv8bj2ffDUR_7nw3F_ZqqA,4.1,172.0,보통,20000.0,True,True,True,True,"분위기(2), 양많음(1), 단체·회식(1), 비쌈(1)"
+K9222794,약산순대국,한식,5,http://place.map.kakao.com/9222794,실제,ChIJbaLyITyffDURrpfo6Yp8x8w,4.0,101.0,보통,10000.0,True,True,True,,"만족(2), 웨이팅(1), 빠름(1), 보통(1)"
+K20750009,더차이니스,중식,5,http://place.map.kakao.com/20750009,실제,ChIJUaGMITyffDURcnAVFHfy1QU,3.1,110.0,보통,10000.0,True,True,True,True,"불만(2), 붐빔(1), 맛있음(1), 웨이팅(1)"
+K1377158405,용달통닭 여의도점,치킨,5,http://place.map.kakao.com/1377158405,실제,ChIJkUWSID6ffDURMajavKaPZWE,3.7,15.0,보통,20000.0,,,,,"맛있음(2), 가성비(1), 만족(1), 친절(1)"
+K24041867,태성골뱅이신사,술집,5,http://place.map.kakao.com/24041867,실제,ChIJLTBAOwCffDURGDodTF-V1_s,4.0,2.0,,,,,True,,"만족(1), 비쌈(1)"
+K1965554406,비가오면in여의도,일식,5,http://place.map.kakao.com/1965554406,실제,ChIJo2n8WSiffDURSegg27J8Op0,4.5,21.0,보통,10000.0,True,True,,,"맛있음(2), 웨이팅(2), 분위기(1)"
+K336657471,빵장수단팥빵 여의도점,간식,5,http://place.map.kakao.com/336657471,실제,,,,,,,,,,모름
+K14080392,오네스타키친,양식,5,http://place.map.kakao.com/14080392,실제,ChIJl0kwJj6ffDUR9OnFL1wM-TQ,4.3,64.0,보통,10000.0,True,True,True,True,"맛있음(2), 가성비(2), 빠름(1)"
+K371810654,진가와 여의도점,일식,5,http://place.map.kakao.com/371810654,실제,ChIJQ266PQaffDURoBBoV4CBlXI,4.3,400.0,보통,30000.0,True,True,True,True,"분위기(2), 웨이팅(1), 가성비(1), 단체·회식(1)"
+K208163813,속초오징어어시장 여의도,일식,5,http://place.map.kakao.com/208163813,실제,ChIJCYm8Gp2ffDURafPHV5c9h10,3.8,4.0,,,True,True,True,,"빠름(1), 맛있음(1), 불친절(1)"
+K107414263,여의도단아,한식,5,http://place.map.kakao.com/107414263,실제,ChIJEWN1Kh6ffDURN85nJ-f-FNM,4.3,72.0,비쌈,20000.0,True,True,True,True,"만족(2), 단체·회식(2), 맛있음(1)"
+K168758153,단아 별관,한식,5,http://place.map.kakao.com/168758153,실제,ChIJEWN1Kh6ffDURN85nJ-f-FNM,4.3,72.0,비쌈,20000.0,True,True,True,True,"만족(2), 단체·회식(2), 맛있음(1)"
+K832578899,오복수산 씨티플라자 여의도점,일식,5,http://place.map.kakao.com/832578899,실제,ChIJ_2jPirKffDUR5gbJXJ-aOHA,4.3,438.0,보통,20000.0,True,True,True,True,"분위기(1), 만족(1), 단체·회식(1), 웨이팅(1), 맛있음(1)"
+K861136589,다나,양식,5,http://place.map.kakao.com/861136589,실제,,,,,,,,,,모름
+K1819631235,혼미 여의도직영점,술집,5,http://place.map.kakao.com/1819631235,실제,ChIJYRmZVKeffDURarOkLp4A3XY,1.0,1.0,,,,True,True,True,불만(1)
+K1227064764,우들목 여의도점,소고기,5,http://place.map.kakao.com/1227064764,실제,ChIJ_aM5Nj6ffDUR107nuQPEUUE,4.0,159.0,보통,30000.0,True,True,True,True,"단체·회식(3), 가성비(1), 분위기(1)"
+K686718018,글렌 바,술집,5,http://place.map.kakao.com/686718018,실제,ChIJl0kwJj6ffDURhxWOHCBAZ_I,,0.0,,,,,True,,모름
+K1443315509,이자카야 우규 여의도점,술집,5,http://place.map.kakao.com/1443315509,실제,ChIJoWaJTEqffDURgNKuZ9hiZxg,4.6,12.0,보통,10000.0,True,True,True,True,"만족(2), 분위기(1), 맛있음(1)"
+K1010747752,부밍,양식,5,http://place.map.kakao.com/1010747752,실제,,,,,,,,,,모름
+K838052499,박만배아리랑보쌈 여의도직영점,돼지고기,5,http://place.map.kakao.com/838052499,실제,ChIJPdoP-hyffDUR6nuzixiC1jA,4.7,9.0,보통,20000.0,True,True,True,True,"맛있음(4), 친절(1)"
+K1954763256,휘슬,양식,5,http://place.map.kakao.com/1954763256,실제,,,,,,,,,,모름
+K2052514017,로바다야끼소담 여의도점,술집,5,http://place.map.kakao.com/2052514017,실제,ChIJC0SKJj6ffDURw8NeaLfwseA,4.9,285.0,보통,20000.0,,True,True,True,"분위기(2), 맛있음(2), 단체·회식(1)"
+K1776958573,후라토식당 여의도직영점,일식,5,http://place.map.kakao.com/1776958573,실제,ChIJI3x26NqffDURAluJhWE89k0,4.4,242.0,보통,10000.0,True,True,,True,"맛있음(4), 웨이팅(1)"
+K1508081407,모도우 여의도점,소고기,5,http://place.map.kakao.com/1508081407,실제,ChIJzeYqQA-ffDURtVmM4pC_O90,4.6,269.0,아주 비쌈,100000.0,True,True,True,True,"맛있음(2), 접대·미팅(1), 분위기(1), 단체·회식(1)"
+K1517959102,한암동 여의도점,한식,5,http://place.map.kakao.com/1517959102,실제,ChIJ4RT_F8yffDURNJ5WxgdTyJA,4.6,257.0,,,True,True,True,True,"단체·회식(3), 분위기(2)"
+K749713238,진스키야키 여의도,일식,5,http://place.map.kakao.com/749713238,실제,ChIJ9-DNEQCffDURG22YSahNBzQ,5.0,185.0,보통,20000.0,True,True,True,True,"분위기(2), 맛있음(2), 가성비(1)"
+K747426703,동동국수 여의도점,한식,5,http://place.map.kakao.com/747426703,실제,ChIJvzQxZEWffDURrd5P1kJZPL0,4.2,49.0,보통,10000.0,True,True,True,,"만족(2), 맛있음(1), 보통(1), 가성비(1)"
+K1420255284,제주세호해장국 여의도파이낸스점,기타,5,http://place.map.kakao.com/1420255284,실제,ChIJCQ3jFACffDURQFemOr5btxs,3.0,3.0,,,True,True,True,,보통(3)
+K1907031294,봉추찜닭 여의도파이낸스타워점,닭·오리,5,http://place.map.kakao.com/1907031294,실제,ChIJsW3q-POffDUR5ZgPC0x7RzA,4.4,29.0,보통,10000.0,True,True,True,True,"만족(3), 웨이팅(1), 양많음(1)"
+K1926856119,노우즈 여의도점,양식,5,http://place.map.kakao.com/1926856119,실제,,,,,,,,,,모름
+K1986237812,포엠,술집,5,http://place.map.kakao.com/1986237812,실제,,,,,,,,,,모름
+K1414774010,약산도,한식,5,http://place.map.kakao.com/1414774010,실제,,,,,,,,,,모름
+K1224902299,송강,횟집·해산물,5,http://place.map.kakao.com/1224902299,실제,ChIJvY1mvY2ffDUR9TMg3ypwZhM,4.8,4.0,,,True,True,True,True,"가성비(1), 비쌈(1)"
+K82822827,샤이바나 여의도점,양식,5,http://place.map.kakao.com/82822827,실제,ChIJUSO9G-2ffDURmBbzekhk3kM,3.9,31.0,보통,10000.0,,,,,"맛없음(2), 만족(2), 웨이팅(1)"
+K331023916,호시히카리 여의도점,일식,5,http://place.map.kakao.com/331023916,실제,ChIJd4gnMwCffDURXoiSzJiYCfc,3.4,16.0,보통,20000.0,True,True,True,True,"분위기(2), 가성비(1), 맛없음(1), 맛있음(1)"
+K2145320051,푸에르코 여의도파이낸스타워점,돼지고기,5,http://place.map.kakao.com/2145320051,실제,ChIJZUM1_DyffDURPnffKgwVjqY,3.9,22.0,,,True,True,True,True,"맛있음(3), 단체·회식(2)"
+K91670460,우상화로구이 여의도점,소고기,5,http://place.map.kakao.com/91670460,실제,ChIJ-5qT1E2ffDURXqYI4InHhLQ,5.0,213.0,보통,40000.0,True,True,True,True,"맛있음(3), 분위기(1), 만족(1)"
+K1410552760,둘촌 여의도직영점,한식,5,http://place.map.kakao.com/1410552760,실제,ChIJ5ejQQACffDUR_dYIauM8ZvQ,5.0,1.0,,,True,True,True,,맛있음(1)
+K1559793658,배꼽집,소고기,5,http://place.map.kakao.com/1559793658,실제,ChIJbUM1_DyffDURMbrupbxaDWA,4.1,243.0,보통,10000.0,True,True,True,True,"맛있음(2), 단체·회식(1), 가성비(1), 분위기(1)"
+K1705785545,신승반점 여의도점,중식,5,http://place.map.kakao.com/1705785545,실제,ChIJpYa5-3GffDURY1aiMQ5DVPk,4.2,262.0,보통,10000.0,True,True,True,True,"만족(2), 웨이팅(1), 단체·회식(1), 맛있음(1)"
+K548405740,서청미역 여의도파이낸스타워점,한식,5,http://place.map.kakao.com/548405740,실제,ChIJg6lhMt2ffDURxes8i5osy7Q,4.3,24.0,보통,10000.0,True,True,True,,"맛있음(3), 웨이팅(1), 혼밥(1)"
+K1356407909,수하동 여의도점,한식,5,http://place.map.kakao.com/1356407909,실제,ChIJoQGJbxSffDURn3SpCluBNTE,3.6,116.0,보통,10000.0,True,True,True,True,"친절(1), 빠름(1), 만족(1), 맛있음(1), 분위기(1)"
+K21420759,신안홍탁,횟집·해산물,5,http://place.map.kakao.com/21420759,실제,ChIJE7KOITyffDURCywUnUPlZ24,4.1,254.0,보통,,True,True,True,True,"가성비(1), 맛있음(1), 양많음(1), 분위기(1), 보통(1)"
+K1567081565,완백부대찌개꽃삼겹,한식,5,http://place.map.kakao.com/1567081565,실제,ChIJwzqvPzyffDURFNwQgVT0i4E,4.1,227.0,보통,10000.0,True,True,True,,"가성비(3), 웨이팅(1), 맛있음(1)"
+K873324126,용호동낙지 여의도직영점,횟집·해산물,5,http://place.map.kakao.com/873324126,실제,ChIJwzqvPzyffDURoOsBquAhKXQ,3.9,383.0,보통,10000.0,True,True,True,True,"단체·회식(1), 분위기(1), 맛있음(1), 불친절(1), 맛없음(1)"
+K8087220,청미일식,일식,5,http://place.map.kakao.com/8087220,실제,ChIJR_qcJj6ffDURvHoD4H1yK9g,3.7,102.0,보통,30000.0,True,True,True,True,"맛없음(1), 보통(1), 비쌈(1), 단체·회식(1), 가성비(1)"
+K976638498,청기와가든 여의도점,고기(구분 모름),5,http://place.map.kakao.com/976638498,실제,ChIJ89NZ4SmffDURjXYIFIk1h3w,,0.0,,,True,True,True,True,모름
+K1605621986,사위식당 여의도점,한식,5,http://place.map.kakao.com/1605621986,실제,ChIJC6AgHaKffDURETLWDXTn60M,4.4,71.0,보통,10000.0,True,True,True,True,"맛있음(3), 웨이팅(1), 분위기(1)"
+K1114471957,리김밥 여의도파이낸스타워점,분식,5,http://place.map.kakao.com/1114471957,실제,ChIJr7m21eaffDUR2AyEODssKus,4.1,19.0,저렴,,True,True,,False,"분위기(1), 가성비(1), 맛있음(1), 혼밥(1), 만족(1)"
+K1039781926,혼시츠 여의도본점,한식,5,http://place.map.kakao.com/1039781926,실제,,,,,,,,,,모름
+K959337644,솔라즈,술집,5,http://place.map.kakao.com/959337644,실제,ChIJkUWSID6ffDURjO9A1JJjYys,,0.0,,,,,,,모름
+K75425233,함루 여의도점,일식,5,http://place.map.kakao.com/75425233,실제,ChIJExDLaiaffDURvlA6mkuya8I,4.3,94.0,보통,40000.0,True,True,True,True,"친절(1), 비쌈(1), 맛있음(1), 분위기(1), 가성비(1)"
+K1753384219,카레나이스 여의도점,일식,5,http://place.map.kakao.com/1753384219,실제,ChIJOUBOUOCffDURH7NCO8dMx0g,4.1,46.0,보통,10000.0,True,True,,,"맛있음(3), 분위기(1), 만족(1)"
+K453596881,미도인 파이낸스여의도점,일식,5,http://place.map.kakao.com/453596881,실제,ChIJcU7zTHCffDURAjD4XOWB1GA,4.1,235.0,보통,10000.0,True,True,,,"분위기(2), 맛없음(2), 맛있음(1)"
+K1262490454,오발탄 여의도점,소고기,5,http://place.map.kakao.com/1262490454,실제,ChIJp-o8d4affDURTz75yvxAmm4,4.3,428.0,비쌈,30000.0,True,True,True,True,"단체·회식(3), 분위기(1), 맛있음(1)"
+K10242822,대도식당,한식,5,http://place.map.kakao.com/10242822,실제,ChIJPRciVQCffDURsZfFnoTxUOo,4.0,1.0,,,True,True,,,모름
+K8213572,긴자,일식,5,http://place.map.kakao.com/8213572,실제,,,,,,,,,,모름
+K9245667,여일정,샤브샤브,5,http://place.map.kakao.com/9245667,실제,ChIJa6y58T6ffDURyqib_a8PG88,4.0,288.0,보통,20000.0,True,True,True,True,"웨이팅(1), 비쌈(1), 접대·미팅(1), 맛있음(1), 분위기(1)"
+K18771168,왕왕수제비떡만두국,한식,5,http://place.map.kakao.com/18771168,실제,ChIJP53Eq2mffDURgoDDAeebVLw,4.1,31.0,보통,10000.0,True,True,True,,"맛있음(2), 만족(2), 양많음(1)"
+K768096087,한신우동 여의도점,일식,5,http://place.map.kakao.com/768096087,실제,,,,,,,,,,모름
+K788927787,로바다화온 여의도점,술집,5,http://place.map.kakao.com/788927787,실제,ChIJM04YDACffDURlSJ_rHigT6c,3.0,2.0,,,,True,True,,"맛있음(1), 불만(1)"
+K8117894,파낙스,닭·오리,5,http://place.map.kakao.com/8117894,실제,ChIJDRGgKD6ffDURvBBFOrfRV8c,4.2,336.0,보통,10000.0,True,True,True,True,"맛있음(4), 만족(1)"
+K1732212585,고방채 동여의도본점,한식,5,http://place.map.kakao.com/1732212585,실제,ChIJs_ugzYaffDUR1-f9__hrHmI,4.6,260.0,비쌈,30000.0,True,True,True,True,"단체·회식(3), 맛있음(1), 분위기(1)"
+K945181384,칠링 여의도,술집,5,http://place.map.kakao.com/945181384,실제,ChIJF1g8YsmffDURHLzZcIynG60,4.6,9.0,비쌈,50000.0,,,,,"친절(2), 분위기(2), 만족(1)"
+K1837518375,메밀단편 여의도점,한식,5,http://place.map.kakao.com/1837518375,실제,ChIJg8CIKwCffDURzUy3xCP7QRM,4.3,38.0,보통,10000.0,True,True,True,True,"맛있음(2), 만족(1), 맛없음(1), 웨이팅(1)"
+K534838233,설계도,닭·오리,5,http://place.map.kakao.com/534838233,실제,ChIJ64Y6e6GffDUR0JSHZBj-eHk,4.6,18.0,보통,20000.0,True,True,True,True,"분위기(2), 만족(1), 단체·회식(1), 가성비(1)"
+K12374158,구포국수,한식,5,http://place.map.kakao.com/12374158,실제,ChIJG-ZyKD6ffDURYntV3lN7Bhw,4.0,116.0,보통,,,,,,"불만(2), 만족(1), 불친절(1), 붐빔(1)"
+K1226061040,매드포갈릭 여의도점,패밀리레스토랑,5,http://place.map.kakao.com/1226061040,실제,ChIJy-VA-DyffDURCIkTyBl_BUg,4.3,1090.0,,,True,True,True,True,"분위기(1), 양많음(1), 웨이팅(1), 맛있음(1), 친절(1)"
+K1166188605,일석가든,고기(구분 모름),5,http://place.map.kakao.com/1166188605,실제,ChIJx1Fp-DyffDURPicMuUFCWwc,,0.0,,,,,,,모름
+K9246432,여수해물낙지,횟집·해산물,5,http://place.map.kakao.com/9246432,실제,ChIJ6aUoJD6ffDURGZYs874zMkM,4.2,386.0,보통,10000.0,True,True,True,True,"맛있음(3), 친절(1), 단체·회식(1)"
+K779005209,아오내순대 여의도점,한식,5,http://place.map.kakao.com/779005209,실제,ChIJj46VoiCffDURpNNEX9UIl1w,4.5,24.0,보통,10000.0,True,True,True,True,"맛있음(2), 분위기(1), 가성비(1), 만족(1)"
+K1239079664,숯불구이 몽로 여의도본점,소고기,5,http://place.map.kakao.com/1239079664,실제,ChIJW3vkV3affDURcdvD7VfYn9E,4.8,10.0,보통,40000.0,True,True,True,True,"맛있음(3), 만족(1), 분위기(1)"
+K1724588818,모닝펍,술집,5,http://place.map.kakao.com/1724588818,실제,ChIJ6aUoJD6ffDURL1DgSZPRT3Y,3.8,16.0,,,,,True,,"만족(3), 맛없음(1), 분위기(1)"
+K20746511,이남장 여의도점,한식,6,http://place.map.kakao.com/20746511,실제,ChIJGxXyWwCffDURmJt6wSBNX0Y,4.4,5.0,,,True,True,True,True,"맛있음(2), 만족(1)"
+K441211554,온기샤브,샤브샤브,6,http://place.map.kakao.com/441211554,실제,ChIJSz_xIQCffDUR9meZc-WdZd4,5.0,2.0,,,True,True,True,,모름
+K11017401,김명자굴국밥 여의1호점,횟집·해산물,6,http://place.map.kakao.com/11017401,실제,ChIJr2hsnz-ffDURIpxKF3DYYQA,4.1,11.0,,,True,True,True,,"보통(2), 맛없음(1), 만족(1), 맛있음(1)"
+K1170879648,거복칼국수,한식,6,http://place.map.kakao.com/1170879648,실제,ChIJnzQcVQCffDURa7rUO9I1_B4,5.0,2.0,,,,,,,"맛없음(1), 만족(1)"
+K98079101,포케올데이 동여의도점,샐러드,6,http://place.map.kakao.com/98079101,실제,,,,,,,,,,모름
+K8686480,기소야 동여의도점,일식,6,http://place.map.kakao.com/8686480,실제,ChIJlV3EUj6ffDURXZCXXJiiPks,3.9,126.0,보통,10000.0,True,True,,True,"맛있음(4), 양많음(1)"
+K22895143,선미횟집,횟집·해산물,6,http://place.map.kakao.com/22895143,실제,ChIJ0SR-TT6ffDURynI5zP4EuEM,4.2,241.0,보통,20000.0,True,True,True,True,"만족(2), 맛있음(1), 양많음(1), 분위기(1)"
+K1693641378,강세장어,횟집·해산물,6,http://place.map.kakao.com/1693641378,실제,ChIJwfokwRGffDURIuDYoXkJxRU,5.0,7.0,보통,30000.0,,True,True,True,"맛있음(2), 양많음(1), 친절(1), 접대·미팅(1)"
+K644531513,신도세기 여의도역점,돼지고기,6,http://place.map.kakao.com/644531513,실제,ChIJv4S7fK6ffDURuUK05SYZk5M,4.1,57.0,보통,20000.0,True,True,True,True,"양많음(1), 불만(1), 분위기(1), 만족(1), 맛있음(1)"
+K533470938,팔당반점 여의도BNK직영점,중식,6,http://place.map.kakao.com/533470938,실제,ChIJVRltEjmffDURz1o0PwVufTM,4.1,112.0,보통,10000.0,True,True,True,True,"맛있음(2), 맛없음(1), 단체·회식(1), 웨이팅(1)"
+K25101493,강창구찹쌀진순대 여의도1호점,한식,6,http://place.map.kakao.com/25101493,실제,ChIJ0SR-TT6ffDURSLRxupaWeoE,4.1,109.0,보통,10000.0,True,True,True,True,"만족(2), 웨이팅(1), 맛있음(1), 분위기(1)"
+K719798907,강창구찹쌀진순대 여의도2호점,한식,6,http://place.map.kakao.com/719798907,실제,ChIJq01PWTyffDURNAtUsm9lQp8,4.1,299.0,보통,10000.0,True,True,True,,"웨이팅(2), 맛없음(1), 만족(1), 맛있음(1)"
+K2118825681,미스테리쉐프린,양식,6,http://place.map.kakao.com/2118825681,실제,ChIJo97ptpqffDURE8vmJ-04acg,4.4,9.0,보통,10000.0,,,,True,"맛있음(1), 분위기(1), 만족(1), 보통(1), 단체·회식(1)"
+K813306099,브루클린더버거조인트 여의도점,양식,6,http://place.map.kakao.com/813306099,실제,ChIJgW3UxRmffDURlDPg7FMtI6I,4.3,607.0,보통,10000.0,True,True,,,"맛있음(4), 웨이팅(1)"
+K1379573760,뜰채,한식,6,http://place.map.kakao.com/1379573760,실제,ChIJW4pyLwCffDURdl_toCzu8dM,4.7,9.0,보통,10000.0,True,True,True,True,"맛있음(2), 가성비(2), 불만(1)"
+K1259655574,여의도삼계탕 여의도BNK타워점,닭·오리,6,http://place.map.kakao.com/1259655574,실제,ChIJYSxqDACffDUR9iY-sTUxWBs,4.5,26.0,보통,10000.0,True,True,True,True,"맛있음(3), 맛없음(1), 웨이팅(1)"
+K264056596,쥬빌리쇼콜라띠에 여의도점,간식,6,http://place.map.kakao.com/264056596,실제,,,,,,,,,,모름
+K168134521,취향마라 여의도점,중식,6,http://place.map.kakao.com/168134521,실제,ChIJnwcPz7OffDURU95WaxyCnPA,4.0,3.0,,,True,True,True,,"보통(1), 만족(1)"
+K1622283003,로스옥 여의도점,소고기,6,http://place.map.kakao.com/1622283003,실제,ChIJawlRWTyffDUROsEh9TXP6AI,3.9,228.0,비쌈,60000.0,True,True,True,True,"분위기(2), 맛없음(1), 맛있음(1), 불만(1)"
+K2028507412,진진수라 여의도점,한식,6,http://place.map.kakao.com/2028507412,실제,ChIJa4JnWwCffDURex2VA78eOwQ,4.9,145.0,비쌈,50000.0,True,True,True,True,"단체·회식(4), 맛있음(1)"
+K11013818,대영스넥,한식,6,http://place.map.kakao.com/11013818,실제,,,,,,,,,,모름
+K10592276,아웃백스테이크하우스 여의도점,패밀리레스토랑,6,http://place.map.kakao.com/10592276,실제,ChIJPRpv_z6ffDURxwqkCU0O3kw,4.1,1345.0,보통,30000.0,True,True,True,True,"맛있음(1), 가성비(1), 비쌈(1), 만족(1), 웨이팅(1)"
+K13089625,장원북어국,횟집·해산물,6,http://place.map.kakao.com/13089625,실제,ChIJlV3EUj6ffDURNz1DrhZWFF0,4.2,66.0,저렴,,True,True,True,,"맛있음(3), 보통(1), 분위기(1)"
+K1067851533,헤바,술집,6,http://place.map.kakao.com/1067851533,실제,,,,,,,,,,모름
+K973036564,아워홈 하나증권 여의도점,구내식당,6,http://place.map.kakao.com/973036564,실제,,,,,,,,,,모름
+K58548386,커짜이라이중식당,중식,6,http://place.map.kakao.com/58548386,실제,ChIJe2KjtD-ffDUR249y4wWm8aM,3.9,32.0,,,True,True,True,True,"맛있음(3), 만족(1), 보통(1)"
+K1862008212,오한수우육면가 하남점,중식,6,http://place.map.kakao.com/1862008212,실제,ChIJzy8U6meffDURfZ0eO4Wb3Ws,3.5,2.0,,,True,True,True,,맛있음(1)
+K1358210899,역전할머니맥주 서울여의도점,술집,6,http://place.map.kakao.com/1358210899,실제,,,,,,,,,,모름
+K466907841,오마카세 요술,한식,6,http://place.map.kakao.com/466907841,실제,,,,,,,,,,모름
+K709558552,여의도물방울,술집,6,http://place.map.kakao.com/709558552,실제,,,,,,,,,,모름
+K13723614,호참치,일식,6,http://place.map.kakao.com/13723614,실제,ChIJtZ7gMj6ffDURqic98xXXWDY,4.2,44.0,,,True,True,True,True,"맛있음(3), 맛없음(1), 가성비(1)"
+K1219748188,라운더스,술집,6,http://place.map.kakao.com/1219748188,실제,,,,,,,,,,모름
+K1817761331,카이 여의도점,중식,6,http://place.map.kakao.com/1817761331,실제,ChIJHUZQAsqffDUR5y0qow5BN6Q,4.0,32.0,보통,10000.0,True,True,True,True,"만족(2), 친절(1), 가성비(1), 맛있음(1)"
+K1854322114,지운간짬뽕,중식,6,http://place.map.kakao.com/1854322114,실제,ChIJ_-z2dQCffDURUptxtNYF35A,4.3,3.0,,,True,True,True,,"만족(2), 웨이팅(1)"
+K92448244,한결우동&모밀,일식,6,http://place.map.kakao.com/92448244,실제,ChIJoxhLMz6ffDURx0wwYRuhg9E,4.4,5.0,,,True,True,True,,"만족(3), 맛있음(1), 웨이팅(1)"
+K845183371,돈오당,돼지고기,6,http://place.map.kakao.com/845183371,실제,ChIJM-2j5yWffDURNMX8EN6Rcj0,5.0,3.0,,,,True,True,True,"맛있음(2), 만족(1)"
+K1322839958,올라포케 동여의도점,샐러드,6,http://place.map.kakao.com/1322839958,실제,ChIJqSeXOwCffDURxaCTFLjyoeQ,5.0,50.0,보통,10000.0,,,,,"맛있음(2), 혼밥(1), 양많음(1), 가성비(1)"
+K645074491,진도복국 여의도지점,횟집·해산물,6,http://place.map.kakao.com/645074491,실제,ChIJoxhLMz6ffDUR0dMrfOmTk6k,4.7,3.0,,,,,,,"가성비(1), 만족(1)"
+K16823175,정겨운오뎅집,술집,6,http://place.map.kakao.com/16823175,실제,ChIJQWjEtD-ffDURLh_Fw9uPP9M,4.0,130.0,보통,10000.0,,True,,,"맛있음(2), 분위기(2), 친절(1)"
+K1225321192,라케이브,술집,6,http://place.map.kakao.com/1225321192,실제,,,,,,,,,,모름
+K788408716,아오리의행방불명 여의도점,일식,6,http://place.map.kakao.com/788408716,실제,ChIJAf60LqCffDURawSau-A6ZFo,4.0,47.0,보통,10000.0,True,True,,,"맛있음(3), 혼밥(1), 분위기(1)"
+K1695273800,규현정키친,한식,6,http://place.map.kakao.com/1695273800,실제,ChIJ5TgfMz6ffDURelQ37Ehq6QA,5.0,1.0,,,True,True,True,True,만족(1)
+K20749366,청석골,한식,6,http://place.map.kakao.com/20749366,실제,ChIJG0PyMj6ffDURBeHA0G2yp1s,4.8,4.0,보통,20000.0,True,True,True,,"만족(2), 맛있음(2)"
+K52236864,엔트리,양식,6,http://place.map.kakao.com/52236864,실제,,,,,,,,,,모름
+K134696904,인스타바,술집,6,http://place.map.kakao.com/134696904,실제,,,,,,,,,,모름
+K1254164113,살아있네 여의도,횟집·해산물,6,http://place.map.kakao.com/1254164113,실제,ChIJMWk-AQCffDURbJcLVfSA6W8,5.0,1.0,,,,,,,맛있음(1)
+K656905522,관호,고기(구분 모름),6,http://place.map.kakao.com/656905522,실제,ChIJI6Wg3ZeffDURwtcKm-yveCs,4.8,220.0,보통,30000.0,True,True,True,True,"맛있음(3), 친절(1), 분위기(1)"
+K2105839874,사카바코하쿠,술집,6,http://place.map.kakao.com/2105839874,실제,ChIJZfrHCgOffDUR8CM_4L-ydqg,,0.0,,,,,,,모름
+K8150592,해동복국 여의도점,횟집·해산물,6,http://place.map.kakao.com/8150592,실제,ChIJaYD7tD-ffDURurpDQc469fs,4.3,322.0,보통,20000.0,True,True,True,True,"맛있음(3), 웨이팅(1), 양많음(1)"
+K566137950,고릴라쉐프,술집,6,http://place.map.kakao.com/566137950,실제,ChIJ62pzIHOffDUR7J_QshOjK4Y,4.0,123.0,보통,20000.0,,,True,True,"맛있음(1), 단체·회식(1), 만족(1), 분위기(1), 친절(1)"
+K9592798,30년옛맛,한식,6,http://place.map.kakao.com/9592798,실제,ChIJH4azzD-ffDURxNGOfFZ7vQQ,,0.0,,,,,,,모름
+K11010649,대여죽집,한식,6,http://place.map.kakao.com/11010649,실제,ChIJ8aoDtT-ffDURY3my2vSYMFE,4.3,166.0,보통,10000.0,True,True,,True,"맛있음(3), 만족(1), 양많음(1)"
+K21656878,교동전선생 여의도점,술집,6,http://place.map.kakao.com/21656878,실제,ChIJH4azzD-ffDUR9tMjlDmQFuA,3.8,285.0,보통,10000.0,True,True,True,,"맛있음(3), 붐빔(1), 친절(1)"
+K109692520,오묘 동여의도점,일식,6,http://place.map.kakao.com/109692520,실제,ChIJF4r97juffDURd9_4C2VjWTk,4.4,14.0,비쌈,50000.0,,,,True,"맛있음(2), 단체·회식(1), 보통(1), 만족(1)"
+K1616158092,허슬네,한식,6,http://place.map.kakao.com/1616158092,실제,ChIJoxhLMz6ffDUROvXZMFPgPsU,4.7,3.0,,,,,,,맛있음(3)
+K1084509686,여의담 여의도점,한식,6,http://place.map.kakao.com/1084509686,실제,ChIJhbortk-ffDURfAmlKMps2tQ,4.3,6.0,보통,20000.0,True,True,True,True,"맛있음(3), 단체·회식(1), 비쌈(1)"
+K25975306,글렌우드,술집,6,http://place.map.kakao.com/25975306,실제,,,,,,,,,,모름
+K1334216018,구포국수 두번째이야기,한식,6,http://place.map.kakao.com/1334216018,실제,ChIJ6aUoJD6ffDUR0Okq3mAdQeU,3.6,74.0,보통,10000.0,,,,,"분위기(1), 친절(1), 비쌈(1), 맛있음(1), 만족(1)"
+K110036165,미스터제이슨,술집,6,http://place.map.kakao.com/110036165,실제,ChIJc0HyMj6ffDUR2Hvi7VFMAtA,,0.0,,,,,,,모름
+K1137768888,오미식당,일식,6,http://place.map.kakao.com/1137768888,실제,ChIJf5DrbzyffDURlAgFz-Wd6WQ,3.6,36.0,보통,,True,True,True,,"맛있음(4), 맛없음(1)"
+K208289940,오키보루,일식,6,http://place.map.kakao.com/208289940,실제,ChIJ064FHACffDURMF4hMxluu5o,4.4,10.0,보통,10000.0,True,True,,,"웨이팅(2), 분위기(1), 맛있음(1), 불만(1)"
+K27093900,이화수전통육개장 서울동여의도점,한식,6,http://place.map.kakao.com/27093900,실제,ChIJ67zzMj6ffDURzBW7c9v27ak,4.1,157.0,보통,10000.0,True,True,True,True,"보통(2), 맛있음(1), 불만(1), 가성비(1)"
+K1526506602,고봉삼계탕 KBS별관점,닭·오리,6,http://place.map.kakao.com/1526506602,실제,,,,,,,,,,모름
+K11750136,독도참치앤전복 여의도점,한식,6,http://place.map.kakao.com/11750136,실제,ChIJq3wopj2ffDURyz6FhDzktv0,3.8,269.0,보통,20000.0,True,True,True,True,"친절(2), 맛있음(2), 만족(1)"
+K1300764967,테이스팅룸 IFC몰점,양식,6,http://place.map.kakao.com/1300764967,실제,ChIJsS2vV6-ffDURXBWCxuicf30,4.1,218.0,비쌈,20000.0,True,True,True,True,"맛있음(3), 웨이팅(1), 만족(1)"
+K12643139,흑돈가 여의도직영점,돼지고기,6,http://place.map.kakao.com/12643139,실제,ChIJp_N8sj-ffDURvtLNuAeQCoY,3.9,994.0,보통,30000.0,True,True,True,True,"맛있음(4), 친절(1)"
+K1847092769,야키토리구석,술집,6,http://place.map.kakao.com/1847092769,실제,ChIJywqVEgCffDURAmacXWf48Uk,5.0,2.0,,,,True,True,,"분위기(1), 친절(1)"
+K9631408,화동활어복,횟집·해산물,6,http://place.map.kakao.com/9631408,실제,ChIJT2nFAjyffDUR3aPzEjOVctA,3.9,99.0,,,True,True,True,True,"불만(2), 분위기(1), 붐빔(1), 접대·미팅(1)"
+K477891240,해화동,횟집·해산물,6,http://place.map.kakao.com/477891240,실제,ChIJMZc2PqaffDURU-qFH7HPC9Q,4.0,95.0,보통,10000.0,True,True,True,True,"양많음(3), 만족(1), 비쌈(1)"
+K8271460,여의도따로국밥,한식,6,http://place.map.kakao.com/8271460,실제,ChIJTSlwqT-ffDURNzKRuhUGJzs,3.7,559.0,보통,10000.0,True,True,True,,"맛있음(3), 양많음(1), 만족(1)"
+K2009165749,사카바 단단 여의도점,술집,6,http://place.map.kakao.com/2009165749,실제,ChIJzbO3PJOffDUROnrQKmGyQDA,4.8,62.0,,,,,True,True,"맛있음(3), 단체·회식(1), 친절(1)"
+K209854309,여운관,한식,6,http://place.map.kakao.com/209854309,실제,ChIJb-gfE0uffDURMPiXTkD9IsU,4.8,113.0,비쌈,30000.0,True,True,True,True,"맛있음(3), 분위기(1), 친절(1)"
+K2035530279,방돈식당,돼지고기,6,http://place.map.kakao.com/2035530279,실제,ChIJRQE9vi-ffDUR4NVLiiQrNYM,4.8,65.0,보통,20000.0,True,True,True,True,"분위기(2), 맛있음(2), 단체·회식(1)"
+K2016877601,카키코우죠,일식,6,http://place.map.kakao.com/2016877601,실제,ChIJw_tTAgCffDUR0JBvgCRJgUE,4.1,13.0,보통,10000.0,,True,,,"맛없음(3), 맛있음(1), 분위기(1)"
+K1323164352,인생닭강정 여의도점,간식,6,http://place.map.kakao.com/1323164352,실제,,,,,,,,,,모름
+K375235860,제주생선구이올래밥상 여의도직영점,횟집·해산물,6,http://place.map.kakao.com/375235860,실제,,,,,,,,,,모름
+K12089877,황금마차,술집,6,http://place.map.kakao.com/12089877,실제,ChIJD6Elqj-ffDURScSwkY9DeBo,4.2,104.0,보통,20000.0,,True,,,"웨이팅(2), 맛있음(1), 붐빔(1), 빠름(1)"
+K1004648899,후포항,횟집·해산물,6,http://place.map.kakao.com/1004648899,실제,,,,,,,,,,모름
+K933401092,미소돈까스,일식,6,http://place.map.kakao.com/933401092,실제,ChIJD6Elqj-ffDURaVV1yKCveyg,4.3,12.0,보통,10000.0,True,True,,,"맛있음(3), 가성비(1), 웨이팅(1)"
+K1807856360,여의도미나리삼겹 직영점,돼지고기,6,http://place.map.kakao.com/1807856360,실제,ChIJUXbD8eWffDURqJbkitXk1Jk,4.3,8.0,보통,20000.0,True,True,True,True,"혼밥(1), 빠름(1), 맛있음(1), 친절(1), 붐빔(1)"
+K419822731,아유무,일식,6,http://place.map.kakao.com/419822731,실제,ChIJcVFsl6qffDURuVseJyyg_yw,5.0,2.0,,,,True,True,,"만족(1), 분위기(1)"
+K1173178430,이도 여의도,퓨전요리,6,http://place.map.kakao.com/1173178430,실제,ChIJMQD4Jv6ffDUR-Kcsm51JOPk,4.3,18.0,비쌈,40000.0,True,True,True,True,"맛있음(2), 웨이팅(2), 빠름(1)"
+K910950585,한미옥 여의도직영점,소고기,6,http://place.map.kakao.com/910950585,실제,ChIJ30lRxo-ffDURDZGJyH8ENfs,4.4,273.0,,,True,True,True,True,"친절(2), 맛있음(2), 분위기(1)"
+K1311518578,시타마치텐동아키미츠 여의도점,일식,6,http://place.map.kakao.com/1311518578,실제,ChIJ8zuNH7GffDURniwzZoMI41g,4.8,10.0,보통,20000.0,True,True,,,"맛있음(1), 맛없음(1), 만족(1), 붐빔(1), 혼밥(1)"
+K10614193,신원,한식,6,http://place.map.kakao.com/10614193,실제,ChIJn7UiIT2ffDURZBbrcJAm5Ws,3.9,33.0,보통,10000.0,True,True,True,True,"맛있음(3), 가성비(2)"
+K1489861610,리나스 여의도공원점,패스트푸드,6,http://place.map.kakao.com/1489861610,실제,ChIJLwOfhj2ffDUR44ufUleK8fk,3.9,38.0,보통,10000.0,True,True,,,"맛없음(2), 맛있음(2), 만족(1)"
+K261782504,오로시젤라또 여의도점,간식,6,http://place.map.kakao.com/261782504,실제,,,,,,,,,,모름
+K69242043,커피바뎀셀브즈,술집,6,http://place.map.kakao.com/69242043,실제,ChIJjwqffACffDURZRlFM59GATQ,5.0,1.0,,,,,True,,친절(1)
+K1777128489,여의도단정,한식,6,http://place.map.kakao.com/1777128489,실제,ChIJ_ZBpR92ffDUROUyvUh3ul4E,4.4,5.0,,,True,True,True,True,"단체·회식(3), 양많음(1)"
+K1300734845,밀림 여의도,술집,6,http://place.map.kakao.com/1300734845,실제,ChIJPZFBk5KffDURYHsWOc9s-fY,5.0,14.0,보통,20000.0,,,,True,"친절(2), 분위기(1), 맛있음(1), 만족(1)"
+K1644463401,복호두 여의도점,간식,6,http://place.map.kakao.com/1644463401,실제,,,,,,,,,,모름
+K8536853,은성회관,고기(구분 모름),6,http://place.map.kakao.com/8536853,실제,ChIJfa1C0z-ffDUR1ETrgktI-3Y,4.0,413.0,보통,10000.0,True,True,True,True,"단체·회식(1), 친절(1), 분위기(1), 만족(1), 맛있음(1)"
+K1481697642,청담동마녀김밥 여의도직영점,분식,6,http://place.map.kakao.com/1481697642,실제,ChIJZ-Vp0z-ffDURZHQGyTvhgKA,3.7,99.0,저렴,,True,True,,,"맛있음(2), 만족(1), 맛없음(1), 불친절(1)"
+K431221286,권초밥하이,일식,6,http://place.map.kakao.com/431221286,실제,ChIJSS0jr3yffDUROOU6adkTTJM,4.7,3.0,,,True,True,True,True,"맛있음(2), 웨이팅(1)"
+K731156268,현대그린푸드 한화금융센터점,구내식당,6,http://place.map.kakao.com/731156268,실제,,,,,,,,,,모름
+K1158578026,자연산횟집,횟집·해산물,6,http://place.map.kakao.com/1158578026,실제,ChIJl9FNCT-ffDURt11BZfsAEJg,4.1,36.0,,,True,True,True,True,"가성비(1), 만족(1), 보통(1), 분위기(1), 친절(1)"
+K867470979,본보야지,양식,6,http://place.map.kakao.com/867470979,실제,ChIJ8WmKBDyffDURtActEiSDL9s,4.0,264.0,비쌈,30000.0,True,True,True,True,"분위기(1), 맛없음(1), 가성비(1), 비쌈(1), 붐빔(1)"
+K15532118,여의도황소곱창 여의도본점,소고기,6,http://place.map.kakao.com/15532118,실제,ChIJmcMQ0z-ffDURogBYUMVvB54,4.0,133.0,보통,20000.0,,True,True,,"맛있음(3), 친절(2)"
+K1625863329,나무 여의도점,일식,6,http://place.map.kakao.com/1625863329,실제,ChIJ8Z5uX7qffDURajqWq8P0kLo,4.4,277.0,,,,,True,True,"단체·회식(4), 맛있음(1)"
+K1748571079,더블린446,술집,6,http://place.map.kakao.com/1748571079,실제,ChIJbQA9tj-ffDUR5PxKJu06SBI,3.8,126.0,보통,20000.0,,,True,True,"비쌈(2), 만족(1), 맛없음(1), 맛있음(1)"
+K1825109628,파파이스 여의도역점,양식,6,http://place.map.kakao.com/1825109628,실제,ChIJJ4QjWQCffDURAzZDXpkBJUo,4.8,9.0,보통,10000.0,True,True,,,"맛있음(3), 빠름(1), 가성비(1)"
+K1683500468,백합집,술집,6,http://place.map.kakao.com/1683500468,실제,ChIJG8ALegCffDURz3Zoetuz0NA,4.8,4.0,,,True,True,True,True,"만족(1), 단체·회식(1), 맛있음(1)"
+K1691641991,정희 IFC몰점,퓨전요리,6,http://place.map.kakao.com/1691641991,실제,ChIJy22TYQCffDURbJyb3c4i-Eg,4.6,25.0,보통,10000.0,True,True,True,,"맛있음(2), 웨이팅(2), 맛없음(1)"
+K577258487,이자카야나무 여의도점,술집,6,http://place.map.kakao.com/577258487,실제,ChIJ8Z5uX7qffDURajqWq8P0kLo,4.4,277.0,,,,,True,True,"단체·회식(4), 맛있음(1)"
+K393196227,남산터 여의도점,한식,6,http://place.map.kakao.com/393196227,실제,ChIJow3HlHmffDURtCOdOYvE3Ao,4.7,6.0,보통,10000.0,True,True,True,True,"맛있음(3), 붐빔(1), 단체·회식(1)"
+K2105558279,케이펍 IFC점,술집,6,http://place.map.kakao.com/2105558279,실제,ChIJbf0mD1iffDUR3Dmy7WnviGM,3.9,10.0,,,,True,True,,"분위기(3), 만족(1), 맛없음(1)"
+K129113182,익선국밥족발 여의도점,한식,6,http://place.map.kakao.com/129113182,실제,,,,,,,,,,모름
+K984663345,프레쉬엔지니어드 여의도2호점,샐러드,6,http://place.map.kakao.com/984663345,실제,ChIJayyYQb6ZfDUReCGE6sOsL8U,4.3,16.0,보통,10000.0,,,,,"분위기(2), 가성비(1), 만족(1), 양많음(1)"
+K1091395567,식물원김밥 여의도점,분식,6,http://place.map.kakao.com/1091395567,실제,,,,,,,,,,모름
+K108439443,강릉엄지네꼬막집 여의도점,횟집·해산물,6,http://place.map.kakao.com/108439443,실제,ChIJGcSXVqGffDURJS8NLVAgPzA,4.1,23.0,보통,10000.0,True,True,True,True,"맛있음(2), 친절(1), 양많음(1), 불만(1)"
+K637964506,여의도감,한식,6,http://place.map.kakao.com/637964506,실제,ChIJ0R_WPrWffDURyRdyR_AlFrA,4.9,78.0,,,True,True,True,True,"맛있음(3), 분위기(1), 양많음(1)"
+K432215974,아이스걸크림보이 여의도점,간식,6,http://place.map.kakao.com/432215974,실제,,,,,,,,,,모름
+K581304564,얼쑤비스트로,한식,6,http://place.map.kakao.com/581304564,실제,ChIJK9zVrNGffDURM6F0doBeoPQ,4.7,13.0,보통,30000.0,True,True,True,True,"맛있음(2), 만족(2), 분위기(1)"
+K13287594,동우황태북어국 여의도역2호점,횟집·해산물,6,http://place.map.kakao.com/13287594,실제,ChIJx2m1P2GffDURKxEYgndYASM,4.9,8.0,보통,,True,True,True,,"웨이팅(2), 맛있음(2), 만족(1)"
+K1405588904,직화싸롱,한식,6,http://place.map.kakao.com/1405588904,실제,ChIJ233FKACffDURqcLwEBajzw4,4.0,1.0,,,,,,,만족(1)
+K1482099115,무끼,횟집·해산물,6,http://place.map.kakao.com/1482099115,실제,ChIJrSBBtj-ffDURvSU6tOYL884,4.5,277.0,보통,30000.0,True,True,True,True,맛있음(5)
+K1809427699,돈블랑 여의도점,돼지고기,6,http://place.map.kakao.com/1809427699,실제,ChIJE_ZmLzOffDURPCUrC-hLey0,4.2,284.0,보통,30000.0,True,True,True,True,"맛있음(2), 만족(1), 맛없음(1), 분위기(1)"
+K626781605,한가로이 1호점,한식,6,http://place.map.kakao.com/626781605,실제,ChIJ55mZkh6ffDUR3VPGZZA8HrA,4.6,5.0,보통,10000.0,True,True,True,True,"맛있음(1), 맛없음(1), 비쌈(1)"
+K274536187,솔솥 여의도점,한식,6,http://place.map.kakao.com/274536187,실제,ChIJ-RSOdACffDURE8TDB90IQK8,3.6,17.0,보통,10000.0,True,True,True,True,"맛있음(2), 웨이팅(2), 맛없음(1)"
+K1032434009,여담,한식,6,http://place.map.kakao.com/1032434009,실제,ChIJr-F3NQCffDURHQ3DXIPg2oo,3.8,5.0,,,True,True,True,True,"가성비(1), 접대·미팅(1), 만족(1), 단체·회식(1)"
+K89167655,오한수우육면가 아이엠증권점,아시아음식,6,http://place.map.kakao.com/89167655,실제,ChIJRQAlPO2ffDURPA1lgDTEE5g,4.6,12.0,보통,10000.0,True,True,True,,"맛있음(2), 분위기(2)"
+K473814873,진성,한식,6,http://place.map.kakao.com/473814873,실제,ChIJfcL_iRWffDURayCs7NYxFhs,4.1,17.0,보통,10000.0,True,True,True,True,"만족(2), 맛있음(1), 불만(1), 가성비(1)"
+K8211425,교촌치킨 여의도점,치킨,6,http://place.map.kakao.com/8211425,실제,ChIJ6aUoJD6ffDURrGWyScQvlHM,3.7,620.0,보통,20000.0,,True,True,True,"보통(1), 맛있음(1), 친절(1), 만족(1), 분위기(1)"
+K1807948952,모담다이닝 여의도,한식,7,http://place.map.kakao.com/1807948952,실제,ChIJNU2KoI6ffDURZsBWX5gI8g8,4.5,28.0,보통,20000.0,True,True,True,True,"분위기(2), 맛있음(1), 접대·미팅(1), 단체·회식(1)"
+K8686481,기소야 여의도중앙점,일식,7,http://place.map.kakao.com/8686481,실제,ChIJd8KQ7zyffDUR4AHkvuCRK4s,3.6,89.0,보통,10000.0,True,True,True,,"친절(1), 빠름(1), 만족(1), 보통(1), 맛있음(1)"
+K9884591,오늘은분식,분식,7,http://place.map.kakao.com/9884591,실제,ChIJd8KQ7zyffDURED4ChqtEWhY,3.7,38.0,,,True,True,,,"맛있음(1), 웨이팅(1), 만족(1), 친절(1), 가성비(1)"
+K1174801063,카츠8 여의도IFC몰점,일식,7,http://place.map.kakao.com/1174801063,실제,ChIJ19aSWoaffDURxt7c95w4J9o,3.6,36.0,보통,10000.0,True,True,True,,"분위기(1), 비쌈(1), 만족(1), 맛있음(1), 맛없음(1)"
+K1592527633,렌위치 여의도IFC점,패스트푸드,7,http://place.map.kakao.com/1592527633,실제,ChIJeXczSB6ffDUR1ZtGws6wclE,4.3,26.0,보통,10000.0,True,True,True,,"맛있음(4), 양많음(1)"
+K1221570815,오르조르브텀 여의도점,양식,7,http://place.map.kakao.com/1221570815,실제,ChIJWXa25pmjfDURAPDU9fzRpPc,4.4,37.0,비쌈,30000.0,True,True,True,True,"분위기(3), 맛있음(1), 친절(1)"
+K450861699,컬리너리스퀘어 IFC몰점,푸드코트,7,http://place.map.kakao.com/450861699,실제,,,,,,,,,,모름
+K303478995,북촌손만두 여의도IFC몰점,분식,7,http://place.map.kakao.com/303478995,실제,ChIJf5DrbzyffDUR5oUdlc90efk,3.5,111.0,보통,10000.0,True,True,,True,"맛있음(2), 빠름(1), 불만(1), 웨이팅(1)"
+K1846277134,오케이골뱅이,한식,7,http://place.map.kakao.com/1846277134,실제,ChIJEQCvlM6ffDURxWo82Vpozxc,4.5,2.0,,,,,True,,"비쌈(1), 맛있음(1)"
+K1932402372,계도 IFC몰점,일식,7,http://place.map.kakao.com/1932402372,실제,ChIJ5X63eQCffDURqfTeilc-gDM,3.6,8.0,보통,20000.0,True,True,True,,"맛없음(1), 불만(1), 친절(1), 양많음(1)"
+K669365671,오프버거,양식,7,http://place.map.kakao.com/669365671,실제,ChIJ02jv-QyffDUR06vfokGiPV0,4.4,14.0,보통,10000.0,True,True,,,"맛없음(2), 맛있음(2), 빠름(1)"
+K951316886,이자카야여의도,술집,7,http://place.map.kakao.com/951316886,실제,ChIJoWaJTEqffDURgNKuZ9hiZxg,4.6,12.0,보통,10000.0,True,True,True,True,"만족(2), 분위기(1), 맛있음(1)"
+K8064548,야키토리 조원,술집,7,http://place.map.kakao.com/8064548,실제,ChIJpU6Q1j-ffDURl0GMWyimgOQ,4.3,120.0,보통,20000.0,True,True,True,True,"만족(2), 접대·미팅(1), 맛있음(1), 가성비(1)"
+K461951305,미미옥 여의도점,샤브샤브,7,http://place.map.kakao.com/461951305,실제,ChIJ9SqYSACffDURnamJAG2GoVQ,4.9,34.0,보통,30000.0,True,True,True,True,"분위기(2), 맛있음(1), 만족(1), 친절(1)"
+K837881379,다운타우너 여의도점,양식,7,http://place.map.kakao.com/837881379,실제,ChIJnwy-PACffDURkAF-zxDBaDo,5.0,308.0,보통,10000.0,True,True,,,"분위기(4), 친절(1)"
+K16935729,원해장국,한식,7,http://place.map.kakao.com/16935729,실제,ChIJm7kO1D-ffDURQkZKT-B_3FU,3.8,195.0,저렴,,True,True,True,False,"맛있음(2), 가성비(1), 웨이팅(1), 친절(1)"
+K1481232694,설성갈비 여의도점,고기(구분 모름),7,http://place.map.kakao.com/1481232694,실제,ChIJY2F-EHuffDURqW-GgFkt_fk,5.0,2.0,,,True,True,True,True,맛있음(1)
+K880281685,중앙해장 여의도점,한식,7,http://place.map.kakao.com/880281685,실제,ChIJ3dmMubWffDURBR8UXaMCsEs,4.8,21.0,보통,10000.0,True,True,True,True,"맛있음(2), 분위기(1), 단체·회식(1), 친절(1)"
+K922517837,무안회관 여의도점,한식,7,http://place.map.kakao.com/922517837,실제,ChIJX-oLhX-ffDURewekKd7-sYg,4.8,8.0,보통,30000.0,True,True,True,True,"맛있음(2), 단체·회식(2), 양많음(1)"
+K1132981284,여의도요정,한식,7,http://place.map.kakao.com/1132981284,실제,ChIJ7RszMgCffDURTJKbkrj0JtY,3.7,6.0,아주 비쌈,100000.0,True,True,True,True,"단체·회식(2), 비쌈(1)"
+K53238555,특별한오복수산 원센티널여의도점,일식,7,http://place.map.kakao.com/53238555,실제,ChIJYYLYKb2ffDURKgPu3KpAd7g,4.8,18.0,보통,20000.0,True,True,True,True,"맛있음(3), 빠름(1), 단체·회식(1)"
+K1217940086,달리181 여의도점,양식,7,http://place.map.kakao.com/1217940086,실제,ChIJaRaiyMCffDURBCLpq_p1GDo,4.4,27.0,보통,20000.0,True,True,True,True,"분위기(2), 가성비(1), 맛있음(1), 친절(1)"
+K463426964,테디스오븐,간식,7,http://place.map.kakao.com/463426964,실제,,,,,,,,,,모름
+K447079456,주연,한식,7,http://place.map.kakao.com/447079456,실제,,,,,,,,,,모름
+K1782527817,락희안 더다이닝 여의도점,중식,7,http://place.map.kakao.com/1782527817,실제,ChIJEYP1TACffDURaKKDcP3_cTQ,4.8,36.0,보통,10000.0,True,True,True,True,"맛있음(3), 단체·회식(1), 양많음(1)"
+K297999023,더마칸 여의도점,아시아음식,7,http://place.map.kakao.com/297999023,실제,ChIJa5VM_2mffDURvRBSD67kHpw,3.9,8.0,보통,10000.0,True,True,True,,"맛있음(2), 만족(2), 친절(1)"
+K1462195168,키보락앤롤,일식,7,http://place.map.kakao.com/1462195168,실제,ChIJlWY9AwCffDURgoLXwOxu53U,4.5,8.0,보통,10000.0,True,True,True,True,"만족(3), 분위기(1), 맛있음(1)"
+K1467214793,야키토리묵 여의도,술집,7,http://place.map.kakao.com/1467214793,실제,ChIJQT0OUgCffDURk3tMFLGiHnw,3.9,8.0,보통,40000.0,True,True,,,"맛있음(2), 맛없음(1), 웨이팅(1), 만족(1)"
+K442722045,골수 여의도점,고기(구분 모름),7,http://place.map.kakao.com/442722045,실제,ChIJQxAtBACffDURj7MGYIy_MsY,4.4,8.0,보통,10000.0,True,True,True,True,"맛있음(3), 양많음(1), 만족(1)"
+K1244580225,무월 여의도점,한식,7,http://place.map.kakao.com/1244580225,실제,ChIJqceLZa-ffDURvUzpi4UzWwI,5.0,205.0,보통,20000.0,True,True,True,True,"분위기(2), 맛있음(2), 웨이팅(1)"
+K22614595,오락떡볶이,분식,7,http://place.map.kakao.com/22614595,실제,ChIJW1ZhCD-ffDURvs7EjNic_Co,4.5,63.0,저렴,,True,True,True,,"맛있음(3), 만족(1), 양많음(1)"
+K24856698,야마야 여의도점,퓨전요리,7,http://place.map.kakao.com/24856698,실제,ChIJS3QK7zyffDUR-5MqajUWczg,3.9,501.0,보통,10000.0,True,True,True,True,"분위기(2), 단체·회식(1), 만족(1), 맛없음(1)"
+K1048164898,시마스시 여의도IFC몰점,일식,7,http://place.map.kakao.com/1048164898,실제,ChIJI7LXizuffDURI1bQgigvXUg,4.0,120.0,보통,20000.0,True,True,,,"맛있음(3), 친절(1), 만족(1)"
+K2106327676,더푸관,중식,7,http://place.map.kakao.com/2106327676,실제,ChIJ7bUe0ZKffDURbcvPxjR805w,,0.0,,,,True,,,모름
+K437176767,여의면옥,한식,7,http://place.map.kakao.com/437176767,실제,,,,,,,,,,모름
+K1499880715,희정 1호분점,한식,7,http://place.map.kakao.com/1499880715,실제,,,,,,,,,,모름
+K339983690,비노보스코,양식,7,http://place.map.kakao.com/339983690,실제,ChIJEyQ4VACffDURp6z9pN1jbO0,5.0,3.0,,,True,True,True,True,"맛있음(1), 만족(1)"
+K56706462,육미,돼지고기,7,http://place.map.kakao.com/56706462,실제,ChIJk6LZUACffDURzQYC7dAYyTc,4.5,2.0,,,True,True,True,True,"맛있음(1), 가성비(1)"
+K449511857,미원백반,분식,7,http://place.map.kakao.com/449511857,실제,ChIJyVFdCD-ffDURD2S6G6-HXHo,5.0,1.0,,,True,True,,,만족(1)
+K17522393,한솥도시락 여의도KBS별관옆점,도시락,7,http://place.map.kakao.com/17522393,실제,ChIJNU5vCD-ffDURGZpIr3Mb5sI,4.0,1.0,,,,,,,모름
+K2112719747,쉐프의점심,뷔페,7,http://place.map.kakao.com/2112719747,실제,,,,,,,,,,모름
+K662107029,오락실내포차,술집,7,http://place.map.kakao.com/662107029,실제,,,,,,,,,,모름
+K1320061376,밀각,술집,7,http://place.map.kakao.com/1320061376,실제,,,,,,,,,,모름
+K57167187,금수옥능이백숙삼계탕,닭·오리,7,http://place.map.kakao.com/57167187,실제,ChIJ0y8ZEgCffDUR94vrQc_mgSE,5.0,2.0,,,True,True,True,True,"만족(1), 맛있음(1)"
+K1936707376,포포유,아시아음식,7,http://place.map.kakao.com/1936707376,실제,,,,,,,,,,모름
+K1249098604,스시다정,일식,7,http://place.map.kakao.com/1249098604,실제,ChIJffs30wyffDUR1SIOks93Bv8,4.5,17.0,비쌈,40000.0,True,True,,True,"가성비(3), 혼밥(1), 만족(1)"
+K701385499,브릭샌드 여의도점,간식,7,http://place.map.kakao.com/701385499,실제,,,,,,,,,,모름
+K1442717963,캘리스랩 여의도IFC점,한식,7,http://place.map.kakao.com/1442717963,실제,,,,,,,,,,모름
+K1391759404,연안이가,횟집·해산물,7,http://place.map.kakao.com/1391759404,실제,ChIJSWoYeACffDUReIUWhLvQT2g,,0.0,,,,,,,모름
+K18766350,자연,일식,7,http://place.map.kakao.com/18766350,실제,ChIJl9FNCT-ffDURt11BZfsAEJg,4.1,36.0,,,True,True,True,True,"가성비(1), 만족(1), 보통(1), 분위기(1), 친절(1)"
+K8702113,희궁,중식,7,http://place.map.kakao.com/8702113,실제,ChIJvxXdCD-ffDURlyrpB5OEUmY,4.0,126.0,보통,10000.0,True,True,True,True,"맛있음(2), 양많음(1), 맛없음(1), 가성비(1)"
+K389728567,현선이네프리미엄 IFC몰점,분식,7,http://place.map.kakao.com/389728567,실제,ChIJVfqXkViffDURwPxG41dBSEc,4.9,1043.0,보통,10000.0,True,True,True,,"양많음(2), 분위기(1), 맛있음(1), 빠름(1)"
+K1557251239,마마된장 여의도IFC몰점,한식,7,http://place.map.kakao.com/1557251239,실제,ChIJf5DrbzyffDURPj0XFCdUN3U,3.9,86.0,보통,10000.0,True,True,True,True,"양많음(1), 웨이팅(1), 맛없음(1), 만족(1), 불친절(1)"
+K17674947,고동치,횟집·해산물,7,http://place.map.kakao.com/17674947,실제,ChIJAaOgxz-ffDURC7hm0Q6SRAU,4.3,118.0,보통,,True,True,True,True,"맛있음(3), 만족(1), 단체·회식(1)"
+K669484527,나폴레옹제과점 IFC몰점,간식,7,http://place.map.kakao.com/669484527,실제,,,,,,,,,,모름
+K15697955,미원슈퍼,한식,7,http://place.map.kakao.com/15697955,실제,,,,,,,,,,모름
+K10245272,대복,횟집·해산물,7,http://place.map.kakao.com/10245272,실제,ChIJLYWKCD-ffDURyqBpF17t6tM,4.5,64.0,보통,20000.0,True,True,True,True,"맛없음(2), 분위기(2), 가성비(1)"
+K187213673,만장재 IFC점,한식,7,http://place.map.kakao.com/187213673,실제,,,,,,,,,,모름
+K556029301,구씨네 IFC몰점,분식,7,http://place.map.kakao.com/556029301,실제,ChIJgbguEgCffDURascj6KEL8Pk,2.7,9.0,보통,10000.0,True,True,,,"맛없음(3), 만족(1), 분위기(1)"
+K9660921,구마산,횟집·해산물,7,http://place.map.kakao.com/9660921,실제,ChIJRXYYBj-ffDURO5JWc5aMBlo,4.1,223.0,보통,10000.0,True,True,True,True,"맛있음(3), 분위기(1), 친절(1)"
+K20492409,자린고비,횟집·해산물,7,http://place.map.kakao.com/20492409,실제,ChIJsxKkqj6ffDUR0u67OGk7vvc,3.6,26.0,,,True,True,True,,"분위기(2), 만족(1), 비쌈(1), 보통(1)"
+K1595928865,더팔당 여의도점,한식,7,http://place.map.kakao.com/1595928865,실제,,,,,,,,,,모름
+K1184612274,윤잇 IFC몰점,샐러드,7,http://place.map.kakao.com/1184612274,실제,ChIJ_Qm1InSffDUR5PrEYf2ebys,5.0,1.0,,,True,True,True,,맛있음(1)
+K1687993946,배스킨라빈스 여의도IFC몰점,간식,7,http://place.map.kakao.com/1687993946,실제,,,,,,,,,,모름
+K430584550,알로하포케 IFC몰점,양식,7,http://place.map.kakao.com/430584550,실제,ChIJNw4tOl2ZfDURf7QHWrQ-GDU,3.7,69.0,보통,10000.0,True,True,,,"불만(2), 혼밥(1), 맛있음(1), 보통(1)"
+K1902767746,여의도미나리삼겹 본점,돼지고기,7,http://place.map.kakao.com/1902767746,실제,ChIJNTcu-ueffDURRazycODVEgY,4.1,33.0,보통,20000.0,True,True,True,True,"맛있음(2), 가성비(1), 보통(1), 만족(1)"
+K21745130,아티제 여의도KBS별관점,간식,7,http://place.map.kakao.com/21745130,실제,,,,,,,,,,모름
+K1835281403,어거스트치킨 여의도점,치킨,7,http://place.map.kakao.com/1835281403,실제,ChIJI1kzt7affDURrxgq_NgbjCk,4.5,60.0,보통,10000.0,,True,True,True,"맛있음(2), 단체·회식(1), 비쌈(1), 붐빔(1)"
+K1440816395,소울한우 여의도샛강역점,소고기,7,http://place.map.kakao.com/1440816395,실제,ChIJ4WzZzSOffDURl37FSzDJNiE,4.9,372.0,아주 비쌈,100000.0,True,True,True,True,"분위기(2), 단체·회식(2), 만족(1)"
+K13705766,수정쌈밥,한식,7,http://place.map.kakao.com/13705766,실제,ChIJMc7w0D-ffDURwvqBgeHOP3M,3.8,101.0,보통,10000.0,True,True,True,,"맛있음(4), 양많음(1)"
+K1124453972,히바린 여의도IFC몰점,일식,7,http://place.map.kakao.com/1124453972,실제,ChIJ49uROg-ffDURQTU5AYj0JOI,3.7,27.0,보통,20000.0,True,True,True,,"불만(2), 맛없음(1), 분위기(1), 맛있음(1)"
+K1165592124,바스버거 여의도점,양식,7,http://place.map.kakao.com/1165592124,실제,ChIJ6xAoVTmffDURLxxPTfiKi-o,4.5,2085.0,보통,10000.0,True,True,True,True,"분위기(3), 맛있음(2)"
+K1646882379,커리파파하우스 여의도본점,일식,7,http://place.map.kakao.com/1646882379,실제,ChIJ7c1rTQCffDUR3kY6wPBcOTM,5.0,252.0,보통,10000.0,,True,True,,"맛있음(3), 웨이팅(2)"
+K19410184,권수산,횟집·해산물,7,http://place.map.kakao.com/19410184,실제,ChIJAaOgxz-ffDUR7sE1WaC8hUo,4.2,366.0,보통,10000.0,True,True,True,True,"맛있음(3), 단체·회식(1), 보통(1)"
+K1591991216,유주키친,일식,7,http://place.map.kakao.com/1591991216,실제,ChIJc1r2tIWffDURhnUMwPNMSeo,4.2,20.0,보통,30000.0,True,,True,True,"친절(3), 가성비(1), 분위기(1)"
+K1596538771,이자카야 구선,술집,7,http://place.map.kakao.com/1596538771,실제,ChIJZ9Yr6eqffDURrg7YJhqqTGA,4.0,7.0,,,True,True,True,True,"만족(2), 분위기(1), 맛있음(1), 친절(1)"
+K8478140,은호식당 여의도점,한식,7,http://place.map.kakao.com/8478140,실제,ChIJVd-91z-ffDURnj7KON9bNDQ,4.0,287.0,보통,30000.0,True,True,True,True,"맛있음(3), 친절(1), 단체·회식(1)"
+K435882771,쉐이크쉑 여의도점,패스트푸드,7,http://place.map.kakao.com/435882771,실제,ChIJBRPYKACffDURzcVC_AFURzw,3.9,32.0,보통,10000.0,True,True,True,,"보통(1), 친절(1), 맛있음(1), 비쌈(1), 만족(1)"
+K15663792,폴라리스,술집,7,http://place.map.kakao.com/15663792,실제,ChIJFxiKCD-ffDUR8UxU8PYMEXM,4.0,1.0,,,True,True,,,모름
+K1612368275,나룸 앙금플라워떡케이크 여의도,간식,7,http://place.map.kakao.com/1612368275,실제,,,,,,,,,,모름
+K1937697445,차알 여의도IFC몰점,퓨전요리,7,http://place.map.kakao.com/1937697445,실제,ChIJTx-czZqffDUR9X4fhWO5dxM,4.1,195.0,보통,10000.0,True,True,True,True,"맛있음(3), 분위기(1), 가성비(1)"
+K21332771,여의도생고기 본점,소고기,7,http://place.map.kakao.com/21332771,실제,ChIJX0Ohxz-ffDURn96fB2v1Ye4,4.5,358.0,보통,10000.0,True,True,True,True,"맛있음(2), 분위기(1), 단체·회식(1), 양많음(1)"
+K74317134,여의나룻 여의도IFC몰점,한식,7,http://place.map.kakao.com/74317134,실제,ChIJK_mQcQCffDUReHMncOGanyU,4.1,8.0,보통,10000.0,True,True,True,,"보통(2), 분위기(2), 만족(1)"
+K2078858920,고디바 IFC몰점,간식,7,http://place.map.kakao.com/2078858920,실제,,,,,,,,,,모름
+K503824529,하이밥 여의도IFC몰점,한식,7,http://place.map.kakao.com/503824529,실제,,,,,,,,,,모름
+K141885798,잣품은그집호두과자 IFC몰점,간식,7,http://place.map.kakao.com/141885798,실제,,,,,,,,,,모름
+K659325663,점보씨푸드 IFC몰점,아시아음식,7,http://place.map.kakao.com/659325663,실제,ChIJVzYq386ffDURhH93uncEVZs,4.6,534.0,,,True,True,True,True,"맛있음(3), 분위기(1), 만족(1)"
+K1737638864,퍼틴 여의도ifc몰점,아시아음식,7,http://place.map.kakao.com/1737638864,실제,,,,,,,,,,모름
+K535283129,송옥 여의도IFC몰점,한식,7,http://place.map.kakao.com/535283129,실제,ChIJrSF_WxyffDURovQF3NmYKus,3.6,78.0,보통,10000.0,True,True,True,,"비쌈(1), 보통(1), 붐빔(1), 만족(1), 맛있음(1)"
+K1790793316,돈이찌 여의도IFC점,일식,7,http://place.map.kakao.com/1790793316,실제,ChIJB2JeTkmffDURiiPOeielaDs,3.4,5.0,,,True,True,True,,"보통(2), 맛있음(1), 가성비(1)"
+K1366569759,명동칼국수 여의도IFC점,한식,7,http://place.map.kakao.com/1366569759,실제,,,,,,,,,,모름
+K1199053145,아그라 여의도ifc몰점,아시아음식,7,http://place.map.kakao.com/1199053145,실제,ChIJVeny9pqffDURXacAgTs1m7o,3.7,33.0,보통,20000.0,True,True,True,True,"분위기(1), 맛있음(1), 맛없음(1), 붐빔(1), 웨이팅(1)"
+K353604297,모모유부 여의도IFC몰,일식,7,http://place.map.kakao.com/353604297,실제,ChIJp4zfaTyffDURV1_gMq8nKBw,4.4,2174.0,,,,,,,"분위기(3), 맛있음(1), 만족(1)"
+K1718798106,마마리다이닝,한식,7,http://place.map.kakao.com/1718798106,실제,ChIJh9LbrjqffDURwIpxDDNl5ao,4.1,69.0,보통,20000.0,True,True,True,True,"맛있음(3), 맛없음(1), 불친절(1)"
+K237691074,크리스탈제이드 IFC몰점,중식,7,http://place.map.kakao.com/237691074,실제,ChIJhcmCRACffDUROKEWHNnZ9kQ,3.6,14.0,보통,10000.0,True,True,True,,"맛있음(2), 분위기(1), 맛없음(1), 만족(1)"
+K1368758329,올리페페 여의도점,양식,7,http://place.map.kakao.com/1368758329,실제,ChIJVyFlRgCffDURJu36hidsCoA,3.8,6.0,비쌈,30000.0,True,True,True,True,"만족(2), 맛있음(2)"
+K289697961,삼형제김밥 IFC몰점,분식,7,http://place.map.kakao.com/289697961,실제,ChIJ0WP_SwCffDURqsaA2jrRYJk,,0.0,,,True,True,,,모름
+K1643135767,순대실록 IFC몰점,한식,7,http://place.map.kakao.com/1643135767,실제,ChIJcbzIFWOffDURPmbYjXm_Pt8,4.1,26.0,보통,10000.0,True,True,True,,"맛있음(2), 보통(1), 붐빔(1), 분위기(1)"
+K246061898,남기분면 여의도IFC점,중식,7,http://place.map.kakao.com/246061898,실제,,,,,,,,,,모름
+K254317822,훠궈야 여의도IFC몰점,중식,7,http://place.map.kakao.com/254317822,실제,ChIJ5TJT-qyffDUR1x2wG4_TsuE,3.8,172.0,보통,20000.0,True,True,True,True,"맛있음(3), 웨이팅(2)"
+K12058779,미조리,일식,7,http://place.map.kakao.com/12058779,실제,ChIJQ0Xa1z-ffDURCxmVxawqB1I,4.2,51.0,보통,20000.0,True,True,True,True,"맛있음(2), 양많음(1), 붐빔(1), 만족(1)"
+K1990269508,여의도광장&드레프트K,술집,7,http://place.map.kakao.com/1990269508,실제,ChIJZV-W1z-ffDURHyoFQwkAE6M,,0.0,,,,,,,모름
+K2107231956,퍼플램,한식,7,http://place.map.kakao.com/2107231956,실제,ChIJyf2-OgCffDUR7-OVFYzNmqg,4.9,15.0,,,True,True,True,True,"단체·회식(2), 가성비(1), 분위기(1), 비쌈(1)"
+K1079860919,화포식당 여의도점,돼지고기,7,http://place.map.kakao.com/1079860919,실제,ChIJNf3v1fGffDUREK8DlYT-JqU,4.3,226.0,보통,,True,True,True,True,"맛있음(2), 단체·회식(1), 친절(1), 비쌈(1)"
+K12733426,영의정,한식,7,http://place.map.kakao.com/12733426,실제,ChIJLZTcpj-ffDURGUDJqWrGiRY,3.6,120.0,보통,30000.0,True,True,True,True,"맛있음(3), 불만(1), 비쌈(1)"
+K1465256944,한담 여의도,돼지고기,7,http://place.map.kakao.com/1465256944,실제,ChIJ5fskm2CffDURrTHEmz63tgs,4.0,15.0,보통,30000.0,True,True,True,True,"단체·회식(2), 불만(2), 붐빔(1)"
+K94111736,여의도 포항집,횟집·해산물,7,http://place.map.kakao.com/94111736,실제,ChIJbx1vuHaffDUR8ZsOAWVvZ20,5.0,1.0,,,,True,,,맛있음(1)
+K19230760,락,술집,7,http://place.map.kakao.com/19230760,실제,,,,,,,,,,모름
+K27352516,요요스플레이트,술집,7,http://place.map.kakao.com/27352516,실제,ChIJQVRXnz-ffDURPxOCRl1L8so,3.8,4.0,,,,True,,True,"친절(1), 분위기(1)"
+K10079952,오시오식당,한식,7,http://place.map.kakao.com/10079952,실제,ChIJzwY4oj-ffDURYrvDuYSpqIQ,3.9,23.0,,,True,True,True,True,"맛있음(4), 만족(1)"
+K27180203,여의도떡집,간식,7,http://place.map.kakao.com/27180203,실제,,,,,,,,,,모름
+K1117953112,스시메이,일식,7,http://place.map.kakao.com/1117953112,실제,ChIJfdBCoMCffDURvKpfK0NfnLw,4.9,7.0,보통,40000.0,True,True,,True,"가성비(2), 분위기(1), 맛없음(1), 친절(1)"
+K1576750993,젤라떼리아도도 여의도점,간식,7,http://place.map.kakao.com/1576750993,실제,,,,,,,,,,모름
+K9906320,엘리스파이,간식,7,http://place.map.kakao.com/9906320,실제,,,,,,,,,,모름
+K836179421,코코이찌방야 여의도전경련회관점,퓨전요리,7,http://place.map.kakao.com/836179421,실제,ChIJ390Lhc2ffDURVEMNOWR-_lk,3.9,8.0,보통,10000.0,True,True,True,,"웨이팅(1), 가성비(1), 불만(1)"
+K1999982628,계도 브라이튼점,일식,7,http://place.map.kakao.com/1999982628,실제,ChIJd_vMHwCffDUR746Teyur2Hw,2.3,4.0,보통,10000.0,True,True,,,"보통(2), 맛없음(1), 혼밥(1)"
+K7871622,명동칼국수,한식,7,http://place.map.kakao.com/7871622,실제,ChIJh3UGjj-ffDURNwXQsMtlv4I,4.3,36.0,보통,10000.0,True,True,True,True,"맛있음(3), 분위기(1), 보통(1)"
+K1915458980,레코드피자 여의도점,양식,7,http://place.map.kakao.com/1915458980,실제,ChIJ7-4CTQCffDURQNg-u2zdwus,5.0,1.0,,,,,,,맛있음(1)
+K14822487,조가네닭한마리 춘천닭갈비,닭·오리,7,http://place.map.kakao.com/14822487,실제,ChIJQVRXnz-ffDURKq3RMxG8Pu8,4.2,181.0,보통,10000.0,True,True,True,True,"맛있음(2), 만족(1), 불친절(1), 웨이팅(1)"
+K1013591800,패티바이번 브라이튼빌딩여의도점,양식,7,http://place.map.kakao.com/1013591800,실제,,,,,,,,,,모름
+K1717784132,스쿱스젤라또 여의도점,간식,7,http://place.map.kakao.com/1717784132,실제,,,,,,,,,,모름
+K18480523,삼성웰스토리 IFC서울,구내식당,7,http://place.map.kakao.com/18480523,실제,,,,,,,,,,모름
+K276444235,미니,횟집·해산물,8,http://place.map.kakao.com/276444235,실제,,,,,,,,,,모름
+K16040090,수라한식,한식,8,http://place.map.kakao.com/16040090,실제,,,,,,,,,,모름
+K21536589,숯.더붓처스엣지&바,양식,8,http://place.map.kakao.com/21536589,실제,,,,,,,,,,모름
+K797362319,오일레베이커리,간식,8,http://place.map.kakao.com/797362319,실제,,,,,,,,,,모름
+K1652187713,기쁜날한우등심,소고기,8,http://place.map.kakao.com/1652187713,실제,ChIJ6a2uh8qffDUR5GXi0ujJiyc,4.0,1.0,,,,True,True,True,모름
+K26131520,차이나플레인 여의도전경련점,중식,8,http://place.map.kakao.com/26131520,실제,ChIJsSIcjdGffDURQadt92sTMPs,4.4,389.0,보통,10000.0,True,True,True,True,"맛있음(3), 양많음(1), 단체·회식(1)"
+K1630869779,민들레밥상,한식,8,http://place.map.kakao.com/1630869779,실제,ChIJkXRUtrOffDURLjGd3uVYL7c,3.7,3.0,,,True,True,True,,"만족(1), 보통(1)"
+K14822491,털보스테이크,양식,8,http://place.map.kakao.com/14822491,실제,,,,,,,,,,모름
+K1309526612,디스코서울,술집,8,http://place.map.kakao.com/1309526612,실제,ChIJmQ5DVB2ffDURqhu79Tti_ZQ,5.0,318.0,보통,20000.0,,True,True,True,"분위기(2), 양많음(1), 맛있음(1), 단체·회식(1)"
+K1604986132,와비스케수산,술집,8,http://place.map.kakao.com/1604986132,실제,ChIJsYVLfQCffDURCp2TlVt77bk,5.0,4.0,,,,True,True,,"맛있음(2), 만족(1), 친절(1)"
+K347315206,미방 여의홍우점,고기(구분 모름),8,http://place.map.kakao.com/347315206,실제,ChIJBQP6VQCffDUR0-pnCgj3sKc,,0.0,,,,,,,모름
+K431043579,본죽&비빔밥cafe 여의홍우점,퓨전요리,8,http://place.map.kakao.com/431043579,실제,ChIJU1RaTgCffDURl8SyoxVrUfk,,0.0,,,True,True,,,모름
+K1247882210,오조망개떡,간식,8,http://place.map.kakao.com/1247882210,실제,,,,,,,,,,모름
+K18159889,온더보더 여의도IFC점,양식,8,http://place.map.kakao.com/18159889,실제,ChIJf5DrbzyffDURmuTSQMBuXA0,4.0,622.0,보통,20000.0,True,True,True,True,"친절(2), 불만(1), 가성비(1), 맛있음(1)"
+K1415835816,홍우낙지,횟집·해산물,8,http://place.map.kakao.com/1415835816,실제,,,,,,,,,,모름
+K1857788581,바른치킨 여의도로봇점,치킨,8,http://place.map.kakao.com/1857788581,실제,ChIJ3bIKSQCffDUR-wOmPELdnRI,5.0,1.0,,,,,,,맛있음(1)
+K247567919,미몽,술집,8,http://place.map.kakao.com/247567919,실제,ChIJ5etKKACffDUR32OD6h9fRBA,5.0,1.0,,,,,True,,모름
+K1733266787,오누,술집,8,http://place.map.kakao.com/1733266787,실제,ChIJCSHdIUWifDURUTX9h2z8mws,4.4,35.0,,,True,True,True,True,"양많음(2), 맛있음(2), 분위기(1)"
+K16903487,모모돈까스,일식,8,http://place.map.kakao.com/16903487,실제,ChIJzwY4oj-ffDURIRVNJ_qdiF8,4.2,80.0,보통,10000.0,True,True,,,"맛있음(2), 만족(1), 친절(1), 맛없음(1)"
+K1741871465,판다익스프레스 여의도IFC몰점,중식,8,http://place.map.kakao.com/1741871465,실제,ChIJBYz8izuffDURsqHT1rf9ApM,3.7,460.0,보통,10000.0,True,True,True,False,"만족(2), 보통(2), 맛없음(1)"
+K11091968,도미노피자 여의도점,양식,8,http://place.map.kakao.com/11091968,실제,ChIJdSIbMT6ffDURfwJGuId2HRc,4.1,21.0,보통,10000.0,,True,,,"친절(2), 만족(1), 맛있음(1), 불친절(1)"
+K8611554,파파호 여의도점,아시아음식,8,http://place.map.kakao.com/8611554,실제,ChIJawlwnz-ffDUR_SOgIohHQQY,4.3,197.0,보통,10000.0,True,True,True,,"맛있음(2), 만족(1), 붐빔(1), 양많음(1)"
+K8008953,열빈,중식,8,http://place.map.kakao.com/8008953,실제,ChIJgzZMoj-ffDURothlBm0fpPw,4.1,454.0,보통,20000.0,True,True,True,True,"맛있음(3), 만족(1), 분위기(1)"
+K8095989,청하,횟집·해산물,8,http://place.map.kakao.com/8095989,실제,ChIJzwY4oj-ffDUR1VAISh_1fxs,4.2,105.0,보통,20000.0,True,True,True,True,"맛있음(3), 웨이팅(1), 친절(1)"
+K26862182,히또비또,술집,8,http://place.map.kakao.com/26862182,실제,ChIJhwFYYhWffDURuRBmKYgxEhg,4.2,131.0,,,,True,True,True,"분위기(3), 단체·회식(1), 맛있음(1)"
+K17662154,에르메스,술집,8,http://place.map.kakao.com/17662154,실제,,,,,,,,,,모름
+K27353233,프로미나드,뷔페,8,http://place.map.kakao.com/27353233,실제,,,,,,,,,,모름
+K1446749083,세호보쌈,돼지고기,8,http://place.map.kakao.com/1446749083,실제,ChIJzwY4oj-ffDURm6lD7-GgGpU,3.5,165.0,보통,10000.0,True,True,True,True,"맛있음(2), 불만(1), 만족(1), 보통(1)"
+K2119636005,해피치킨,치킨,8,http://place.map.kakao.com/2119636005,실제,ChIJ05x9TGWffDURB33k3xVsRrk,3.4,8.0,보통,20000.0,,,True,,"맛있음(2), 붐빔(2), 분위기(1)"
+K534869450,삿뽀로블랙 IFC점,일식,8,http://place.map.kakao.com/534869450,실제,ChIJf5DrbzyffDURrHNg1TXhJB0,3.9,81.0,비쌈,50000.0,True,True,True,True,"분위기(3), 단체·회식(1), 웨이팅(1)"
+K1003336661,한스크라상,간식,8,http://place.map.kakao.com/1003336661,실제,,,,,,,,,,모름
+K13266392,동원참치 동여의도점,횟집·해산물,8,http://place.map.kakao.com/13266392,실제,ChIJUUZZwD-ffDURWAmjYpb9hiY,3.8,40.0,비쌈,60000.0,True,True,True,True,"불만(2), 친절(1), 비쌈(1), 가성비(1)"
+K1509507888,경복궁블랙 여의도IFC점,한식,8,http://place.map.kakao.com/1509507888,실제,ChIJ5RhK-juffDURQHoB6fF2hbc,4.2,537.0,아주 비쌈,100000.0,True,True,True,True,"단체·회식(2), 친절(1), 맛없음(1), 만족(1)"
+K25078447,몽이닭발,닭·오리,8,http://place.map.kakao.com/25078447,실제,ChIJ1xXjwj-ffDUR7eVdxzNQi3E,4.0,117.0,보통,20000.0,,True,True,,"맛있음(2), 비쌈(1), 맛없음(1), 불만(1)"
+K8538563,장독대김치찌개 여의도MBC점,한식,8,http://place.map.kakao.com/8538563,실제,ChIJzwY4oj-ffDURJd7IDaH-eQA,3.7,225.0,보통,10000.0,True,True,True,True,"맛있음(2), 양많음(1), 만족(1), 비쌈(1)"
+K103420189,김치스토리,한식,8,http://place.map.kakao.com/103420189,실제,,,,,,,,,,모름
+K1821325523,칼스토랑 여의도FKI점,한식,8,http://place.map.kakao.com/1821325523,실제,ChIJH8HxfbKffDURWmINjuOXtBM,4.1,38.0,보통,10000.0,True,True,True,True,"맛있음(3), 맛없음(1), 양많음(1)"
+K1191439138,육회관포차 여의도점,술집,8,http://place.map.kakao.com/1191439138,실제,ChIJbZlnoD-ffDURrtWR_YkW-zU,4.1,91.0,,,,True,True,True,"분위기(2), 맛있음(1), 가성비(1), 맛없음(1)"
+K27339671,캐스크,술집,8,http://place.map.kakao.com/27339671,실제,ChIJLVziYhWffDUR-YWop0P-1h4,4.5,15.0,,,,,,True,"만족(3), 분위기(1), 친절(1)"
+K1230411985,허식당,한식,8,http://place.map.kakao.com/1230411985,실제,ChIJdVGre0WffDURG4l2mH4EgG4,5.0,4.0,,,True,True,True,True,"맛없음(1), 만족(1), 가성비(1), 맛있음(1)"
+K633510572,여의녘,술집,8,http://place.map.kakao.com/633510572,실제,ChIJBR9vIQCffDURkVg6LsSataM,5.0,5.0,보통,30000.0,,,True,,"맛있음(3), 분위기(2)"
+K2036903378,향,한식,8,http://place.map.kakao.com/2036903378,실제,ChIJ7_Qt2T-ffDURUOhbbLNW2rc,5.0,1.0,,,,True,,True,모름
+K1606370299,빈칸,소고기,8,http://place.map.kakao.com/1606370299,실제,ChIJq305FQCffDURTjkx4e2_uRg,5.0,1.0,,,True,True,True,True,친절(1)
+K538678037,위스키포차 두꺼비하우스,술집,8,http://place.map.kakao.com/538678037,실제,,,,,,,,,,모름
+K591719989,스시센시,일식,8,http://place.map.kakao.com/591719989,실제,ChIJYz-DsPmffDURIbzqpHo1K3I,4.4,10.0,,,True,True,,True,"분위기(2), 맛있음(1), 가성비(1), 만족(1)"
+K371988006,블레어,술집,8,http://place.map.kakao.com/371988006,실제,,,,,,,,,,모름
+K16040075,한야지포크,돼지고기,8,http://place.map.kakao.com/16040075,실제,ChIJh6Afwz-ffDURqmRiDvnYiO8,4.3,171.0,보통,10000.0,True,True,True,True,"맛있음(3), 친절(1), 단체·회식(1)"
+K1520375831,야키토리 켄,술집,8,http://place.map.kakao.com/1520375831,실제,ChIJs2ofPfWffDURErdECjZImU8,5.0,3.0,,,,,,,"맛있음(1), 양많음(1), 만족(1)"
+K693700059,위스키글로우,술집,8,http://place.map.kakao.com/693700059,실제,ChIJ92hUkj-ffDURiDshDNMAftk,,0.0,,,,,,True,모름
+K1456251608,라파다이닝,양식,8,http://place.map.kakao.com/1456251608,실제,ChIJndvxKi6ffDURKLZv9G6ittM,5.0,1.0,,,,True,True,,맛있음(1)
+K472433987,여의도파도,횟집·해산물,8,http://place.map.kakao.com/472433987,실제,ChIJ8UUJZwCffDUR9-SAY3gzd6g,4.7,11.0,아주 비쌈,100000.0,True,True,True,,"만족(2), 단체·회식(2), 맛없음(1)"
+K1698314,여의정,소고기,8,http://place.map.kakao.com/1698314,실제,ChIJAYat-tuffDURI7Q3NcNYNFQ,5.0,76.0,비쌈,60000.0,True,True,True,True,"단체·회식(2), 맛있음(2), 분위기(1)"
+K1358508245,남도집,한식,8,http://place.map.kakao.com/1358508245,실제,ChIJ7_Qt2T-ffDURhlOHY32NeNc,4.3,18.0,보통,10000.0,True,True,True,True,"맛있음(2), 만족(1), 분위기(1), 웨이팅(1)"
+K1955352295,이자카야 향,술집,8,http://place.map.kakao.com/1955352295,실제,ChIJPSrT1oSffDUR0STsVEctpRs,4.1,14.0,,,,,,True,"가성비(2), 만족(1), 친절(1), 맛있음(1)"
+K27543646,콘래드서울 아트리오,양식,8,http://place.map.kakao.com/27543646,실제,ChIJUZ8Xf-iffDUROUCHlt-4TsU,4.5,315.0,아주 비쌈,100000.0,True,True,True,True,"분위기(2), 친절(2), 맛있음(1)"
+K9264377,안동국시,한식,8,http://place.map.kakao.com/9264377,실제,ChIJGSEhwz-ffDURqnFk94fC6EY,3.9,177.0,보통,10000.0,True,True,True,True,"맛있음(4), 만족(1)"
+K9671846,그릴종고산,횟집·해산물,8,http://place.map.kakao.com/9671846,실제,ChIJhx_uYhWffDURHDhbgcVNMC0,4.1,227.0,,,True,True,True,True,"맛있음(3), 비쌈(1), 가성비(1)"
+K1617841441,문학골찹쌀순대 여의도점,한식,8,http://place.map.kakao.com/1617841441,실제,ChIJaRRcj1effDUR6w5mSsCdQzE,3.8,6.0,,,True,True,True,,"웨이팅(1), 보통(1), 만족(1)"
+K1754131671,다른꽈배기,간식,8,http://place.map.kakao.com/1754131671,실제,,,,,,,,,,모름
+K137559159,CJ프레시웨이 FKI타워 직원식당,구내식당,8,http://place.map.kakao.com/137559159,실제,,,,,,,,,,모름
+K106689707,기소야 전경련회관점,일식,8,http://place.map.kakao.com/106689707,실제,ChIJT7YJN-OffDURELNIdmOBwic,3.9,46.0,보통,10000.0,True,True,True,,"웨이팅(2), 맛없음(1), 맛있음(1), 붐빔(1)"
+K20193860,고흥맛집,횟집·해산물,8,http://place.map.kakao.com/20193860,실제,ChIJWxVHNj6ffDURofJJFd7qWhY,4.1,119.0,보통,10000.0,True,True,True,True,"맛있음(2), 맛없음(2), 친절(1)"
+K140845310,콘타이,아시아음식,8,http://place.map.kakao.com/140845310,실제,ChIJlcpjD5CffDURSKjyAHuSUh8,3.9,225.0,보통,10000.0,True,True,True,True,"맛있음(2), 빠름(1), 붐빔(1), 보통(1)"
+K565106620,코코이찌방야 여의도FKI타워점,퓨전요리,8,http://place.map.kakao.com/565106620,실제,ChIJ390Lhc2ffDURVEMNOWR-_lk,3.9,8.0,보통,10000.0,True,True,True,,"웨이팅(1), 가성비(1), 불만(1)"
+K635793515,더팔당 여의도점,한식,8,http://place.map.kakao.com/635793515,실제,ChIJ4XAn4bOffDURAf7tFnwTNYs,3.3,6.0,,,True,True,True,True,"만족(1), 웨이팅(1), 맛없음(1), 맛있음(1)"
+K477609804,하와이안보울,샐러드,8,http://place.map.kakao.com/477609804,실제,ChIJDfrBbRiffDURelifVJWwcOg,3.0,2.0,,,True,True,,,"가성비(1), 맛있음(1)"
+K10262097,다희,술집,8,http://place.map.kakao.com/10262097,실제,ChIJ7Wi10u6efDURpAhlYHbRO5Y,4.6,137.0,보통,20000.0,,,,,"분위기(4), 웨이팅(1)"
+K176697688,두루막국수,한식,8,http://place.map.kakao.com/176697688,실제,ChIJ0eeflvCffDURztJqTGQ8rzs,4.6,7.0,저렴,,True,True,True,,"만족(2), 가성비(1), 빠름(1), 웨이팅(1)"
+K11794659,BHC치킨 여의도점,치킨,8,http://place.map.kakao.com/11794659,실제,,,,,,,,,,모름
+K1139279291,고우가 여의도점,소고기,8,http://place.map.kakao.com/1139279291,실제,ChIJIcAmDFaffDURKQYDpT1zlS4,4.9,447.0,아주 비쌈,100000.0,True,True,True,True,"맛있음(1), 양많음(1), 단체·회식(1), 접대·미팅(1), 친절(1)"
+K345834283,브라더매운갈비찜 여의도직영점,돼지고기,8,http://place.map.kakao.com/345834283,실제,ChIJk7kxcwCffDURltXC3EHYjX8,5.0,2.0,,,True,True,True,,맛있음(1)
+K220379945,콩두50,한식,8,http://place.map.kakao.com/220379945,실제,,,,,,,,,,모름
+K21720476,쿠마상회,술집,8,http://place.map.kakao.com/21720476,실제,ChIJyzrnwT-ffDUR_JWn67HBNFk,4.0,144.0,아주 비쌈,100000.0,True,True,,True,"맛있음(3), 만족(1), 가성비(1)"
+K1042305852,충무포차,술집,8,http://place.map.kakao.com/1042305852,실제,ChIJbxwKPQCffDUR_6EG1hzfZOU,4.5,2.0,,,,,True,,"분위기(1), 맛있음(1)"
+K1597267451,ORBIT 50,양식,8,http://place.map.kakao.com/1597267451,실제,ChIJZW1ohnKffDUROkuto_zGfZs,,0.0,,,,True,True,,모름
+K18369973,제일제면소 여의도IFC점,한식,8,http://place.map.kakao.com/18369973,실제,ChIJf5DrbzyffDUR8oPa1y0Ciwo,3.7,234.0,보통,10000.0,,,,,"맛있음(2), 분위기(1), 불친절(1), 맛없음(1)"
+K511200522,패티바이번 FKI타워점,양식,8,http://place.map.kakao.com/511200522,실제,ChIJybalTQCffDURJjQFxJrXrMY,3.8,4.0,보통,10000.0,True,True,,,"붐빔(1), 맛없음(1)"
+K18118713,더스테이크하우스 여의도IFC점,양식,8,http://place.map.kakao.com/18118713,실제,ChIJf5DrbzyffDUR7o7W3iu5AKw,4.1,304.0,아주 비쌈,100000.0,True,True,True,True,"맛있음(3), 분위기(2)"
+K2032801856,민소한우 동여의도점,소고기,8,http://place.map.kakao.com/2032801856,실제,ChIJ93dO3seffDURmDF3Jy7C-P0,5.0,3.0,,,True,True,True,True,"친절(2), 맛있음(1)"
+K16822680,채플린돈까스,일식,8,http://place.map.kakao.com/16822680,실제,,,,,,,,,,모름
+K711975650,제일어버이순대,한식,8,http://place.map.kakao.com/711975650,실제,ChIJdRT7vdWffDURD3bOp1Sg5xg,4.4,101.0,보통,10000.0,True,True,True,,"혼밥(1), 빠름(1), 친절(1), 웨이팅(1), 맛있음(1)"
+K8233911,녹향샤브샤브,샤브샤브,8,http://place.map.kakao.com/8233911,실제,ChIJS6wc6j-ffDURvcVsDN08L40,4.3,97.0,보통,10000.0,True,True,True,True,"맛있음(2), 빠름(1), 단체·회식(1), 분위기(1)"
+K1466155949,등촌샤브칼국수 여의도점,샤브샤브,8,http://place.map.kakao.com/1466155949,실제,ChIJK2vQ-laffDURhHqmar_nC6U,3.1,21.0,보통,10000.0,True,True,True,True,"친절(1), 불친절(1), 맛있음(1), 만족(1), 맛없음(1)"
+K993469692,제스트 콘래드서울점,뷔페,8,http://place.map.kakao.com/993469692,실제,ChIJx8P3-zuffDUR8-G2GAimF0k,4.5,805.0,아주 비쌈,100000.0,True,True,True,True,"맛있음(3), 친절(1), 분위기(1)"
+K392934442,도화오뎅 여의도점,술집,8,http://place.map.kakao.com/392934442,실제,,,,,,,,,,모름
+K1555929607,설송원 여의도본점,간식,8,http://place.map.kakao.com/1555929607,실제,,,,,,,,,,모름
+K315801190,브로트아트,간식,8,http://place.map.kakao.com/315801190,실제,,,,,,,,,,모름
+K1323973057,상아김밥 KBS별관점,분식,8,http://place.map.kakao.com/1323973057,실제,ChIJOzsvGgCffDURgtJ0AXNpfbw,5.0,1.0,,,True,True,,,맛있음(1)
+K71955082,여의도오벤토,일식,8,http://place.map.kakao.com/71955082,실제,,,,,,,,,,모름
+K8107119,투다리 KBS점,술집,8,http://place.map.kakao.com/8107119,실제,ChIJZ6ue6D-ffDURyW3WWpX8BFk,3.5,4.0,,,,True,True,,"보통(1), 맛있음(1)"
+K734705119,여의경양식,양식,8,http://place.map.kakao.com/734705119,실제,,,,,,,,,,모름
+K1153268700,바오밥나무,기타,8,http://place.map.kakao.com/1153268700,실제,ChIJZzQzixuffDUReIC8ASK5ZG8,3.4,5.0,,,,,True,,"맛없음(1), 만족(1), 불만(1)"
+K8223181,김가네 여의도점,분식,8,http://place.map.kakao.com/8223181,실제,ChIJzwY4oj-ffDURNqrv33siFD8,3.3,10.0,,,True,True,,,"보통(1), 만족(1), 친절(1), 맛있음(1)"
+K8030749,원당감자탕 여의도직영점,한식,8,http://place.map.kakao.com/8030749,실제,ChIJ2xdYwD-ffDURjCQozzQFE-E,3.7,253.0,보통,10000.0,True,True,True,True,"맛있음(2), 가성비(1), 붐빔(1), 분위기(1)"
+K782191115,보니타,술집,8,http://place.map.kakao.com/782191115,실제,ChIJyzrnwT-ffDUROxfXW9R_uO0,,0.0,,,,,,,모름
+K154746319,녹지 여의도점,소고기,8,http://place.map.kakao.com/154746319,실제,ChIJ4eDAAACffDUR8CVTaPBS5iQ,4.0,2.0,,,,True,True,True,"비쌈(1), 가성비(1)"
+K1774555947,리스카페 여의도점,양식,8,http://place.map.kakao.com/1774555947,실제,ChIJP1IsbwCffDURfaCJTsvhTUQ,4.0,26.0,보통,10000.0,True,True,True,,"맛있음(2), 웨이팅(1), 붐빔(1), 분위기(1)"
+K24974612,바르다김선생 여의도KBS별관점,분식,8,http://place.map.kakao.com/24974612,실제,ChIJh_t7YhWffDURMn_FDVYEynk,3.7,41.0,저렴,,True,True,,,"맛있음(2), 웨이팅(1), 불만(1), 친절(1)"
+K43187360,자만추만두,분식,8,http://place.map.kakao.com/43187360,실제,ChIJ_Qbps-iffDUR4r9p8YeWj-Y,4.0,3.0,,,True,True,True,,"만족(1), 맛없음(1), 맛있음(1)"
+K13290643,마포곱창,소고기,8,http://place.map.kakao.com/13290643,실제,ChIJ2xdYwD-ffDURCcDwXEeGOQ0,4.3,107.0,보통,30000.0,,True,True,True,"맛있음(2), 만족(2), 맛없음(1)"
+K21423297,화목순대국,한식,8,http://place.map.kakao.com/21423297,실제,ChIJqcae6D-ffDURyG0vP-k0xfc,4.2,1292.0,보통,10000.0,True,True,True,False,"맛있음(1), 혼밥(1), 만족(1), 양많음(1), 웨이팅(1)"
+K750478344,미미담 여의도브라이튼점,한식,8,http://place.map.kakao.com/750478344,실제,ChIJIyf1OACffDURKRrxGdvnj6s,4.1,18.0,보통,10000.0,True,True,True,True,"가성비(1), 웨이팅(1), 분위기(1), 보통(1), 만족(1)"
+K886492281,알라보 여의도점,샐러드,8,http://place.map.kakao.com/886492281,실제,,,,,,,,,,모름
+K2111351507,화이트리에 여의도점,간식,8,http://place.map.kakao.com/2111351507,실제,,,,,,,,,,모름
+K110519624,더정돈까스,일식,8,http://place.map.kakao.com/110519624,실제,,,,,,,,,,모름
+K1739303260,모담 ifc몰여의도점,한식,8,http://place.map.kakao.com/1739303260,실제,ChIJNU2KoI6ffDURZsBWX5gI8g8,4.5,28.0,보통,20000.0,True,True,True,True,"분위기(2), 맛있음(1), 접대·미팅(1), 단체·회식(1)"
+K525871249,비욘드비엣남 여의도점,아시아음식,8,http://place.map.kakao.com/525871249,실제,ChIJ45W6pDyffDURRRZ_3KCEBH0,4.3,143.0,보통,10000.0,True,True,True,True,"맛있음(3), 만족(2)"
+K1955276110,이삭토스트 여의도KBS별관점,간식,8,http://place.map.kakao.com/1955276110,실제,,,,,,,,,,모름
+K1413081301,소이연남 브라이튼여의도점,아시아음식,8,http://place.map.kakao.com/1413081301,실제,ChIJN3QNMwCffDUR4Oz_ImI90Ak,4.0,15.0,보통,10000.0,True,True,True,,"만족(2), 양많음(1), 빠름(1), 웨이팅(1)"
+K1038113429,신홍러우 여의도점,중식,8,http://place.map.kakao.com/1038113429,실제,ChIJ47z1jbqffDURpcDv2Kt6m-w,4.3,42.0,비쌈,30000.0,True,True,True,True,"맛있음(2), 단체·회식(2), 친절(1)"
+K16771263,권서방네순대국 여의도점,한식,8,http://place.map.kakao.com/16771263,실제,ChIJQe8Gjj-ffDURJ_D7XZ5H9c8,4.5,73.0,저렴,,True,True,True,,"맛있음(3), 만족(1), 웨이팅(1)"
+K981681229,스시키무,일식,8,http://place.map.kakao.com/981681229,실제,ChIJ_ckojj-ffDURC4NICsZ6RKY,4.6,202.0,,,True,True,,True,"분위기(2), 맛있음(2), 양많음(1)"
+K603114442,스틸,양식,8,http://place.map.kakao.com/603114442,실제,ChIJZRNN3EGffDUR6U4LP7EKWXk,,0.0,,,,,,,모름
+K820450703,마꽁이네사랑방,술집,8,http://place.map.kakao.com/820450703,실제,,,,,,,,,,모름
+K24040818,왕왕수제비 롯데아이비점,한식,8,http://place.map.kakao.com/24040818,실제,ChIJJx3-kT-ffDURHQk_5NsNt5w,3.7,14.0,,,True,True,True,,"맛있음(2), 분위기(1), 붐빔(1), 보통(1)"
+K13082656,천가네옛날손짜장,중식,8,http://place.map.kakao.com/13082656,실제,ChIJ92hUkj-ffDURJZO8BrZIiBk,4.0,19.0,저렴,,True,True,True,True,"맛있음(2), 비쌈(1), 보통(1), 맛없음(1)"
+K1860111720,버거플리즈,양식,8,http://place.map.kakao.com/1860111720,실제,,,,,,,,,,모름
+K1833163050,피자팬팬,양식,8,http://place.map.kakao.com/1833163050,실제,ChIJodDsq2qffDURYAgtOgTHHVM,4.4,40.0,,,True,True,,True,"맛있음(3), 빠름(1), 웨이팅(1)"
+K13024816,파리바게뜨 여의경도상가점,간식,8,http://place.map.kakao.com/13024816,실제,,,,,,,,,,모름
+K409537848,자유2,술집,8,http://place.map.kakao.com/409537848,실제,ChIJQcXzXQCffDURN63GQFzN5N0,5.0,2.0,,,,,True,,"만족(1), 맛있음(1)"
+K1921414220,요츠바,술집,8,http://place.map.kakao.com/1921414220,실제,ChIJtb2b6D-ffDURM9q_xsEgswg,4.7,31.0,비쌈,60000.0,,,,True,"맛있음(2), 혼밥(1), 친절(1), 만족(1)"
+K1376044736,철길부산집 동여의도점,술집,8,http://place.map.kakao.com/1376044736,실제,ChIJk1b2HwCffDURVXjgjSC49oI,,0.0,,,,,True,,모름
+K9435012,천안식당,한식,8,http://place.map.kakao.com/9435012,실제,ChIJie5-6D-ffDURfoA6B1h6Xr4,4.4,34.0,보통,10000.0,True,True,True,,"가성비(3), 웨이팅(1), 친절(1)"
+K1567945292,와코타코 여의도점,기타,8,http://place.map.kakao.com/1567945292,실제,,,,,,,,,,모름
+K639626232,마오리떡볶이,분식,8,http://place.map.kakao.com/639626232,실제,ChIJFQCiZPKffDURIOY5yDbih7I,4.8,4.0,저렴,,True,True,,,"맛있음(3), 친절(1)"
+K1618395758,고슬담 여의도 브라이튼점,한식,8,http://place.map.kakao.com/1618395758,실제,ChIJyzlY-gmffDURYJOv_R3tHLs,4.0,3.0,,,,True,True,,"만족(1), 보통(1)"
+K1459918205,규카츠정 여의도점,일식,8,http://place.map.kakao.com/1459918205,실제,ChIJc5x2egCffDUR9rx0L6iSUW8,4.6,11.0,보통,10000.0,True,True,True,True,"맛있음(3), 웨이팅(1), 만족(1)"
+K877813771,카츠아지,일식,8,http://place.map.kakao.com/877813771,실제,ChIJld91kOKffDURnPSVVqy4ciQ,5.0,5.0,,,True,True,,,가성비(1)
+K635270594,청춘꼬마김밥 여의도롯데캐슬아이비점,분식,8,http://place.map.kakao.com/635270594,실제,ChIJiRjeZGWffDURBss1y9EbcRs,3.0,1.0,,,True,True,,,혼밥(1)
+K78928541,도원스타일 더현대서울점,중식,8,http://place.map.kakao.com/78928541,실제,ChIJVfUI8IKffDURcln0gJ9lPcc,4.2,110.0,비쌈,20000.0,True,True,True,True,"단체·회식(2), 맛있음(2), 웨이팅(1)"
+K10500536,서궁,중식,8,http://place.map.kakao.com/10500536,실제,ChIJgzZMoj-ffDURA1qhkjejItI,4.1,848.0,보통,20000.0,True,True,True,True,"맛있음(3), 분위기(1), 가성비(1)"
+K1170736358,릴리카롱 여의도점,간식,8,http://place.map.kakao.com/1170736358,실제,,,,,,,,,,모름
+K1666787142,스시정신,일식,8,http://place.map.kakao.com/1666787142,실제,ChIJYZS-bACffDURkpxten_gnDg,5.0,1.0,,,True,True,,,맛있음(1)
+K53076994,학돌이네 여의도점,한식,8,http://place.map.kakao.com/53076994,실제,,,,,,,,,,모름
+K1832496054,낙지한마리수제비 여의도점,횟집·해산물,8,http://place.map.kakao.com/1832496054,실제,ChIJJxPEWACffDURpOI507Ab91M,4.5,2.0,,,True,True,True,,맛있음(2)
+K431638149,여의도 우아동 우동소바왕돈까스,일식,8,http://place.map.kakao.com/431638149,실제,ChIJZ0yhewCffDURJ7evHQ6bt2c,3.6,11.0,보통,10000.0,True,True,True,,"맛있음(3), 불만(1), 맛없음(1)"
+K564691667,노모어피자 여의도점,양식,8,http://place.map.kakao.com/564691667,실제,,,,,,,,,,모름
+K1739729478,왓더버거 여의도점,양식,8,http://place.map.kakao.com/1739729478,실제,ChIJl42kFACffDUR1mUx80yzwbY,,0.0,,,,,,,모름
+K219229735,스윗아몬드,간식,8,http://place.map.kakao.com/219229735,실제,,,,,,,,,,모름
+K2039466210,버거스탄다드,양식,8,http://place.map.kakao.com/2039466210,실제,,,,,,,,,,모름
+K27545464,브레드피트,간식,8,http://place.map.kakao.com/27545464,실제,,,,,,,,,,모름
+K228300808,바위국밥,한식,8,http://place.map.kakao.com/228300808,실제,ChIJtZ5yFQCffDURRz6TwhTX77o,,0.0,,,True,True,True,,모름
+K2140366150,론드,간식,8,http://place.map.kakao.com/2140366150,실제,,,,,,,,,,모름
+K2107923527,달인명동칼국수보쌈 여의도점,한식,8,http://place.map.kakao.com/2107923527,실제,ChIJh3UGjj-ffDURNwXQsMtlv4I,4.3,36.0,보통,10000.0,True,True,True,True,"맛있음(3), 분위기(1), 보통(1)"
+K1024815016,샐러드 SLB 동여의도점,샐러드,8,http://place.map.kakao.com/1024815016,실제,,,,,,,,,,모름
+K117250454,파파쌀호두과자카페,간식,8,http://place.map.kakao.com/117250454,실제,,,,,,,,,,모름
+K20746242,가양칼국수,한식,8,http://place.map.kakao.com/20746242,실제,ChIJ0y3ZoT-ffDUR4KaYaf4O30k,4.3,1454.0,보통,10000.0,True,True,True,,"혼밥(1), 맛있음(1), 웨이팅(1), 양많음(1), 친절(1)"
+K1219140990,소호정 동여의도점,한식,8,http://place.map.kakao.com/1219140990,실제,ChIJeQMNPr2ffDUR1hOXgXJMvCQ,3.8,24.0,보통,10000.0,True,True,True,True,"맛있음(2), 빠름(1), 불만(1), 분위기(1)"
+K21410306,지지,양식,8,http://place.map.kakao.com/21410306,실제,ChIJ92hUkj-ffDURw5DpXQHH44k,,0.0,,,,,,,모름
+K27548972,구아이,소고기,8,http://place.map.kakao.com/27548972,실제,ChIJj1uW5z-ffDURMduO046TgP4,4.1,207.0,,,True,True,True,True,"맛있음(2), 만족(1), 단체·회식(1), 분위기(1)"
+K473489008,삼성혈해물탕 현대백화점 더현대서울점,횟집·해산물,8,http://place.map.kakao.com/473489008,실제,ChIJe0avfdaffDURJJVdYC2TfJ0,4.3,27.0,보통,10000.0,True,True,True,True,"보통(2), 맛있음(1), 맛없음(1), 웨이팅(1)"
+K442251365,전주선비빔 더현대서울,한식,8,http://place.map.kakao.com/442251365,실제,ChIJSwg1TACffDUR-jeq3skT-ow,,0.0,,,True,True,,,모름
+K442233646,온드린,한식,8,http://place.map.kakao.com/442233646,실제,ChIJv91BaACffDURQjmjEI9KuXw,,0.0,,,,True,,,모름
+K204959468,고청담 여의도점,한식,8,http://place.map.kakao.com/204959468,실제,ChIJjYjEoqSffDURXgsjWe6TPpo,4.7,33.0,아주 비쌈,100000.0,True,True,True,True,"맛없음(2), 분위기(1), 단체·회식(1), 친절(1)"
+K442093890,돈까스1985 더현대서울점,일식,8,http://place.map.kakao.com/442093890,실제,ChIJf-b4SQCffDURJK1O2Adrx2A,4.7,3.0,,,True,True,,,"만족(1), 맛있음(1)"
+K1337989260,로바 더현대서울점,일식,8,http://place.map.kakao.com/1337989260,실제,ChIJS6BVyS-ffDURFiVlZlONOk4,4.2,34.0,비쌈,40000.0,True,True,True,True,"단체·회식(2), 맛있음(1), 만족(1), 빠름(1)"
+K11249413,미소야 여의도아이비점,일식,8,http://place.map.kakao.com/11249413,실제,ChIJcw4NCD-ffDURDdCrtRIxHVk,4.0,1.0,,,,,,,모름
+K635326896,파이브가이즈 여의도,양식,8,http://place.map.kakao.com/635326896,실제,ChIJG9PH5AaffDURdN_DgIguaZU,3.6,235.0,보통,20000.0,True,True,True,False,"비쌈(3), 맛있음(1), 붐빔(1)"
+K22191318,한솔냉면 더현대서울점,한식,8,http://place.map.kakao.com/22191318,실제,ChIJAYaTaBmffDURmuEBoe5UR_w,4.8,5.0,보통,10000.0,True,True,True,,"맛있음(2), 친절(1), 만족(1), 빠름(1)"
+K2029596147,한식다이닝 이음,한식,8,http://place.map.kakao.com/2029596147,실제,ChIJwT5OPOGffDURCdzdLvx0upk,4.8,12.0,비쌈,40000.0,True,True,True,True,"맛있음(2), 접대·미팅(1), 가성비(1), 분위기(1)"
+K1002925004,공탕 더현대서울,한식,8,http://place.map.kakao.com/1002925004,실제,ChIJmTGPUgCffDURERzIrvGmtss,3.3,9.0,보통,10000.0,True,True,True,,"불만(1), 맛없음(1), 보통(1), 웨이팅(1), 맛있음(1)"
+K18285093,맥도날드 여의도점,패스트푸드,8,http://place.map.kakao.com/18285093,실제,ChIJKxoW9DuffDURrWCPKVzcIpA,4.0,426.0,저렴,,True,True,True,,"빠름(1), 맛있음(1), 친절(1), 웨이팅(1), 분위기(1)"
+K974980457,본가스시 더현대서울점,일식,8,http://place.map.kakao.com/974980457,실제,ChIJC-txguGffDURJl4Tna6Z9a4,3.2,33.0,보통,20000.0,True,True,,,"맛있음(2), 맛없음(1), 웨이팅(1), 보통(1)"
+K1427585100,모모유부 여의도브라이튼,일식,8,http://place.map.kakao.com/1427585100,실제,,,,,,,,,,모름
+K1616082336,보드람치킨 동여의도점,치킨,8,http://place.map.kakao.com/1616082336,실제,ChIJv-UjrSOffDURTWZO1qOOC90,4.3,26.0,보통,10000.0,,,,,"맛있음(2), 양많음(1), 비쌈(1), 만족(1)"
+K232245325,네모야끼,일식,8,http://place.map.kakao.com/232245325,실제,,,,,,,,,,모름
+K1816865046,배스킨라빈스 여의KBS별관점,간식,8,http://place.map.kakao.com/1816865046,실제,,,,,,,,,,모름
+K77875031,M29 페어몬트 앰버서더 서울,술집,8,http://place.map.kakao.com/77875031,실제,ChIJ0_zFOlqffDURrjf4igQI184,4.8,25.0,비쌈,30000.0,,,True,True,"분위기(4), 친절(1)"
+K4611565,구르메에오앤생줄리앙,양식,8,http://place.map.kakao.com/4611565,실제,,,,,,,,,,모름
+K1042902871,버기앤빌리,양식,8,http://place.map.kakao.com/1042902871,실제,,,,,,,,,,모름
+K1200027136,단정 브라이튼빌딩여의도점,한식,8,http://place.map.kakao.com/1200027136,실제,ChIJW3M0DgCffDURMzrL_nAY6OA,3.2,6.0,보통,10000.0,True,True,True,True,"맛없음(1), 가성비(1), 붐빔(1), 친절(1)"
+K420297065,죠죠 더현대 서울점,일식,8,http://place.map.kakao.com/420297065,실제,ChIJJ7tOCgCffDURljO_zdUbSDo,4.9,229.0,보통,10000.0,True,True,,,"맛있음(3), 보통(1), 양많음(1)"
+K570257290,페어몬트 앰배서더 서울 마리포사,양식,8,http://place.map.kakao.com/570257290,실제,ChIJE3k0YD-ffDURLpmOF_ackzQ,4.5,70.0,아주 비쌈,100000.0,True,True,True,True,"친절(2), 분위기(1), 빠름(1), 맛있음(1)"
+K1106041266,파크센세이션,한식,8,http://place.map.kakao.com/1106041266,실제,,,,,,,,,,모름
+K829123026,페어몬트 앰배서더 서울스펙트럼,뷔페,8,http://place.map.kakao.com/829123026,실제,ChIJBcNO692ffDUR3keIXE6V49w,4.6,1357.0,,,,,,,"단체·회식(2), 맛있음(2), 분위기(1)"
+K1934470150,아티스트베이커리 여의도,간식,8,http://place.map.kakao.com/1934470150,실제,,,,,,,,,,모름
+K535836494,스시유 여의도점,일식,8,http://place.map.kakao.com/535836494,실제,ChIJe3pAVh-ffDURE_ic2Kfdp-4,4.3,28.0,아주 비쌈,100000.0,True,True,True,True,"맛있음(2), 단체·회식(2), 분위기(1)"
+K1905699083,푸만만,중식,8,http://place.map.kakao.com/1905699083,실제,ChIJxdWbfwCffDURvCEBt3sxppI,2.0,4.0,보통,10000.0,True,True,True,,웨이팅(3)
+K249194338,사루카메플러스 더현대서울점,일식,8,http://place.map.kakao.com/249194338,실제,ChIJrf2PdwCffDURYidDHz-RNYQ,2.0,5.0,보통,10000.0,True,True,True,,"맛없음(3), 불만(1), 맛있음(1)"
+K1242038371,상춘재 더현대서울,한식,8,http://place.map.kakao.com/1242038371,실제,,,,,,,,,,모름
+K1163142844,하니칼국수 더현대서울점,한식,8,http://place.map.kakao.com/1163142844,실제,,,,,,,,,,모름
+K980565613,이탈리,양식,8,http://place.map.kakao.com/980565613,실제,,,,,,,,,,모름
+K555481818,마츠노하나 더현대서울점,일식,8,http://place.map.kakao.com/555481818,실제,ChIJnVQpUP2ffDURwTlI6GFTOLk,3.7,70.0,보통,10000.0,True,True,,,"양많음(1), 웨이팅(1), 만족(1), 불만(1), 맛있음(1)"
+K1614063787,탭샵 바 여의도점,술집,8,http://place.map.kakao.com/1614063787,실제,,,,,,,,,,모름
+K908144324,최선도,돼지고기,9,http://place.map.kakao.com/908144324,실제,ChIJj_dyZACffDUR90HUha-TTXc,4.8,90.0,,,True,True,True,True,"분위기(3), 붐빔(1), 맛있음(1)"
+K1219670640,토나리우동 더현대서울,일식,9,http://place.map.kakao.com/1219670640,실제,ChIJnVQpUP2ffDURwTlI6GFTOLk,3.7,70.0,보통,10000.0,True,True,,,"양많음(1), 웨이팅(1), 만족(1), 불만(1), 맛있음(1)"
+K649620476,사천화가 더현대서울,중식,9,http://place.map.kakao.com/649620476,실제,ChIJ4xsiYluffDURrjp02xFbMWI,4.3,6.0,보통,10000.0,,True,True,,"양많음(1), 맛없음(1), 맛있음(1), 만족(1), 가성비(1)"
+K749111376,샤브미담 더현대서울,샤브샤브,9,http://place.map.kakao.com/749111376,실제,,,,,,,,,,모름
+K25133196,케이티그룹 희망나눔재단 여의도점,구내식당,9,http://place.map.kakao.com/25133196,실제,,,,,,,,,,모름
+K1395761716,능동미나리 더현대서울점,한식,9,http://place.map.kakao.com/1395761716,실제,ChIJq5_Dux2ffDUR9lpG_88KAb0,,0.0,,,True,True,,False,모름
+K1044569869,ETF베이커리 더현대서울점,간식,9,http://place.map.kakao.com/1044569869,실제,,,,,,,,,,모름
+K1535652208,호우섬 더현대서울점,중식,9,http://place.map.kakao.com/1535652208,실제,ChIJtSxMKqCffDURT7fS3uwn5p0,3.9,340.0,보통,10000.0,True,True,True,True,"웨이팅(2), 분위기(1), 붐빔(1), 맛있음(1)"
+K618558266,커리샵 단풍 더현대서울,일식,9,http://place.map.kakao.com/618558266,실제,,,,,,,,,,모름
+K2018165568,익스첼 더현대서울,양식,9,http://place.map.kakao.com/2018165568,실제,ChIJWcl1haWffDUR5I_L9BhHF5k,4.0,6.0,보통,10000.0,True,True,,,"맛있음(1), 만족(1), 양많음(1), 친절(1), 맛없음(1)"
+K903858582,대도깍밥 더현대서울,한식,9,http://place.map.kakao.com/903858582,실제,,,,,,,,,,모름
+K891364647,서래함박 더현대서울,양식,9,http://place.map.kakao.com/891364647,실제,,,,,,,,,,모름
+K1940709044,송 더현대서울점,일식,9,http://place.map.kakao.com/1940709044,실제,ChIJbWig2t-ffDURLoss1PBPUTM,3.8,10.0,보통,10000.0,True,True,,,"웨이팅(1), 맛있음(1), 맛없음(1), 가성비(1), 붐빔(1)"
+K893289228,방방&든든행 더현대서울,간식,9,http://place.map.kakao.com/893289228,실제,,,,,,,,,,모름
+K1975997819,스시온정,일식,9,http://place.map.kakao.com/1975997819,실제,ChIJj7nal4SffDURodyYu9PBQXo,4.7,83.0,아주 비쌈,100000.0,True,True,,True,"만족(1), 보통(1), 양많음(1), 맛있음(1), 가성비(1)"
+K790321441,족발의장인 족장 여의도본점,돼지고기,9,http://place.map.kakao.com/790321441,실제,ChIJEcA_jj-ffDURReUI5fa4WIM,4.5,118.0,보통,10000.0,,True,True,True,"맛있음(2), 가성비(1), 친절(1), 붐빔(1)"
+K599359333,만학 더현대서울,한식,9,http://place.map.kakao.com/599359333,실제,ChIJyzyfeACffDURI4VYNB3of3o,4.0,1.0,,,True,True,True,,만족(1)
+K973481737,정돈 프리미엄 더현대서울,일식,9,http://place.map.kakao.com/973481737,실제,,,,,,,,,,모름
+K882687020,통통오징어 더현대서울,횟집·해산물,9,http://place.map.kakao.com/882687020,실제,,,,,,,,,,모름
+K1769516562,릴버거 더현대서울점,양식,9,http://place.map.kakao.com/1769516562,실제,ChIJiRiGCzKffDURsnl5gHUiKbo,5.0,522.0,보통,10000.0,True,True,True,,맛있음(5)
+K1296871244,미야기 더현대서울,일식,9,http://place.map.kakao.com/1296871244,실제,ChIJLb35PoOffDURjCX3EEtaDC4,5.0,6.0,,,,,,,"만족(3), 맛있음(1), 친절(1)"
+K10364831,란나타이,아시아음식,9,http://place.map.kakao.com/10364831,실제,ChIJozAOkT-ffDURpUupWaI3Iao,4.1,244.0,보통,20000.0,True,True,True,True,"맛있음(4), 보통(1)"
+K1311816508,이쿠라 더현대서울,일식,9,http://place.map.kakao.com/1311816508,실제,ChIJLb35PoOffDURjCX3EEtaDC4,5.0,6.0,,,,,,,"만족(3), 맛있음(1), 친절(1)"
+K2097104980,꾸온 더현대서울,아시아음식,9,http://place.map.kakao.com/2097104980,실제,,,,,,,,,,모름
+K910681552,탕미엔,중식,9,http://place.map.kakao.com/910681552,실제,,,,,,,,,,모름
+K31023259,오시익스프레스 더현대서울,일식,9,http://place.map.kakao.com/31023259,실제,ChIJewZDJQCffDUR1i8dY9C26Lg,,0.0,,,True,True,,,모름
+K879535535,빠리가옥 더현대서울,양식,9,http://place.map.kakao.com/879535535,실제,,,,,,,,,,모름
+K635229309,강호연파 밥굽남,샤브샤브,9,http://place.map.kakao.com/635229309,실제,ChIJlTFlIDSffDUR0Xv_tipJM-c,3.9,9.0,보통,10000.0,True,True,True,,"비쌈(1), 맛있음(1), 양많음(1), 맛없음(1), 웨이팅(1)"
+K951090885,서울만두,분식,9,http://place.map.kakao.com/951090885,실제,,,,,,,,,,모름
+K1357557435,유부로 더현대서울,일식,9,http://place.map.kakao.com/1357557435,실제,ChIJt3pldwCffDURJAbN-hyjJeo,4.1,22.0,보통,20000.0,True,True,,,"맛있음(2), 분위기(1), 맛없음(1), 웨이팅(1)"
+K463986412,우니도 더현대 서울,일식,9,http://place.map.kakao.com/463986412,실제,ChIJt3pldwCffDURJAbN-hyjJeo,4.1,22.0,보통,20000.0,True,True,,,"맛있음(2), 분위기(1), 맛없음(1), 웨이팅(1)"
+K452569527,들춘닭막국수 더현대서울,닭·오리,9,http://place.map.kakao.com/452569527,실제,,,,,,,,,,모름
+K98084840,아이엠바오 더현대서울,퓨전요리,9,http://place.map.kakao.com/98084840,실제,ChIJ_bC3fNuffDURexmVAPxzPbE,2.5,13.0,보통,10000.0,True,True,,,"불만(1), 가성비(1), 양많음(1), 불친절(1), 맛있음(1)"
+K958564956,고디바 더현대서울점,간식,9,http://place.map.kakao.com/958564956,실제,,,,,,,,,,모름
+K978813692,양산도 여의도점,횟집·해산물,9,http://place.map.kakao.com/978813692,실제,ChIJ51o1iPmffDURAmnFDO77cks,4.4,30.0,보통,20000.0,True,True,True,True,"가성비(2), 맛있음(2), 분위기(1)"
+K1197168663,비틀비틀 비틀스타코 더현대서울점,양식,9,http://place.map.kakao.com/1197168663,실제,,,,,,,,,,모름
+K718598513,원바이위쿡 더현대 서울점,퓨전요리,9,http://place.map.kakao.com/718598513,실제,,,,,,,,,,모름
+K8114194,파파존스 여의도점,양식,9,http://place.map.kakao.com/8114194,실제,ChIJ-fiq_D-ffDURPR3xUfdHIj0,3.9,17.0,,,True,True,,,"만족(2), 불만(1), 맛있음(1), 보통(1)"
+K442285513,돌장각 더현대서울,한식,9,http://place.map.kakao.com/442285513,실제,,,,,,,,,,모름
+K165732652,유방녕 더현대서울점,중식,9,http://place.map.kakao.com/165732652,실제,ChIJ5VwXAh2ffDUREcr32Da6X40,3.6,98.0,보통,20000.0,True,True,True,,"분위기(2), 웨이팅(1), 맛있음(1), 맛없음(1)"
+K8086601,창고43 샛강점,소고기,9,http://place.map.kakao.com/8086601,실제,ChIJuzmBu4SffDUR4FCKj2nJZZ8,4.1,204.0,,,True,True,True,True,"단체·회식(2), 만족(1), 비쌈(1), 분위기(1)"
+K871143674,데이릿 더현대서울,한식,9,http://place.map.kakao.com/871143674,실제,ChIJs2kKOwCffDURLZEUjFGmAsw,4.5,2.0,,,True,True,True,,맛있음(1)
+K1442917822,퍼부어 더현대 서울,아시아음식,9,http://place.map.kakao.com/1442917822,실제,ChIJExYg3KqffDURMpI0XggRfTY,4.0,25.0,보통,10000.0,True,True,,,"맛없음(3), 맛있음(1), 만족(1)"
+K979336707,돈모노by사이카보 더현대서울,일식,9,http://place.map.kakao.com/979336707,실제,,,,,,,,,,모름
+K8224164,리스토란테 에오,양식,9,http://place.map.kakao.com/8224164,실제,ChIJudx_LXqkfDURAzZnMW3I5UQ,4.5,238.0,,,True,True,,True,"분위기(3), 만족(1), 혼밥(1)"
+K1483503760,더라멘워 더현대서울점,일식,9,http://place.map.kakao.com/1483503760,실제,ChIJbRTMFgCffDURrrEA1Q56KWM,4.9,195.0,보통,10000.0,True,True,,,"맛있음(4), 맛없음(1)"
+K15627175,여의도민물장어산곰장어,횟집·해산물,9,http://place.map.kakao.com/15627175,실제,ChIJvf6s5D-ffDURWd6j-pRJ8-w,4.5,28.0,,,True,True,True,True,"맛있음(3), 만족(1), 친절(1)"
+K24712253,생활맥주 여의도점,술집,9,http://place.map.kakao.com/24712253,실제,ChIJCYYuuUeffDURhsvx-ZIPpKE,4.9,97.0,보통,10000.0,,,True,,"맛있음(2), 분위기(2), 웨이팅(1)"
+K2051676278,나의 가야 더현대서울점,한식,9,http://place.map.kakao.com/2051676278,실제,ChIJieCKywSffDURzeSMIlsspm8,3.8,57.0,보통,10000.0,True,True,True,True,"맛없음(1), 만족(1), 맛있음(1), 보통(1), 양많음(1)"
+K1316552352,마유유마라탕 더현대서울점,중식,9,http://place.map.kakao.com/1316552352,실제,ChIJS8KVTsmffDUROXNbUn38m00,4.0,10.0,보통,10000.0,True,True,True,,"웨이팅(1), 맛있음(1), 분위기(1), 빠름(1), 가성비(1)"
+K1515677591,현대그린푸드 현대백화점 더현대서울점,한식,9,http://place.map.kakao.com/1515677591,실제,,,,,,,,,,모름
+K914323559,베즐리 더현대서울점,간식,9,http://place.map.kakao.com/914323559,실제,,,,,,,,,,모름
+K784626253,샤인박스,도시락,9,http://place.map.kakao.com/784626253,실제,ChIJdyC7S6CffDUR02Pg5v02jnI,,0.0,,,True,True,True,,모름
+K1398651088,진주섬,횟집·해산물,9,http://place.map.kakao.com/1398651088,실제,ChIJSfSSYgCffDUR-ZZeJoXXI4w,4.8,5.0,보통,30000.0,,True,True,,"맛있음(2), 만족(2)"
+K129238757,생활맥주 여의도진지탭룸점,술집,9,http://place.map.kakao.com/129238757,실제,ChIJCYYuuUeffDURhsvx-ZIPpKE,4.9,97.0,보통,10000.0,,,True,,"맛있음(2), 분위기(2), 웨이팅(1)"
+K862452550,반슈,아시아음식,9,http://place.map.kakao.com/862452550,실제,ChIJ80itQ7yffDURsESRDVimtpc,4.4,9.0,보통,30000.0,True,True,,,"만족(2), 맛있음(1), 분위기(1), 붐빔(1)"
+K14106504,여의도숯불구이쭈꾸미,횟집·해산물,9,http://place.map.kakao.com/14106504,실제,ChIJq22y5D-ffDURi52E4MzTLPo,4.2,9.0,보통,20000.0,True,True,True,True,"단체·회식(1), 보통(1), 맛있음(1), 만족(1)"
+K334636779,슈르르카,간식,9,http://place.map.kakao.com/334636779,실제,,,,,,,,,,모름
+K336095044,라미 더현대서울,간식,9,http://place.map.kakao.com/336095044,실제,,,,,,,,,,모름
+K518986892,미희,일식,9,http://place.map.kakao.com/518986892,실제,ChIJvf6s5D-ffDURJ3TYLHGLkmU,4.5,182.0,보통,10000.0,True,True,,True,"만족(1), 분위기(1), 단체·회식(1), 붐빔(1), 웨이팅(1)"
+K25486682,생돈구이촌,돼지고기,9,http://place.map.kakao.com/25486682,실제,ChIJvf6s5D-ffDURwG3LgkUwP08,4.4,43.0,,,True,True,True,True,"맛있음(4), 만족(1)"
+K75865153,핑크스핫도그 더현대서울,패스트푸드,9,http://place.map.kakao.com/75865153,실제,ChIJ1dfwGwCffDURzWSHlEjeaas,1.0,1.0,,,,True,True,,맛있음(1)
+K89227475,니드쿠키앤베이커리 더현대점,간식,9,http://place.map.kakao.com/89227475,실제,,,,,,,,,,모름
+K1587072563,스시아리아,일식,9,http://place.map.kakao.com/1587072563,실제,ChIJY0DdVcqffDUR4-NMnjaTlHI,4.7,6.0,,,True,True,,True,"분위기(2), 혼밥(1), 만족(1), 맛있음(1)"
+K1625511031,동양솥밥 여의도점,한식,9,http://place.map.kakao.com/1625511031,실제,ChIJ02-APgCffDURdGZsuO7kRdo,5.0,2.0,,,True,True,True,,맛있음(1)
+K1966634464,멜로드도산 더현대서울점,간식,9,http://place.map.kakao.com/1966634464,실제,,,,,,,,,,모름
+K654103956,세띠엠므 더현대서울,간식,9,http://place.map.kakao.com/654103956,실제,,,,,,,,,,모름
+K1615064157,게방식당,한식,9,http://place.map.kakao.com/1615064157,실제,,,,,,,,,,모름
+K619618527,오드오드,양식,9,http://place.map.kakao.com/619618527,실제,ChIJbS4JCgCffDUR-tniVjpOBuo,3.8,5.0,보통,20000.0,,,,,"맛있음(2), 분위기(1), 불만(1), 단체·회식(1)"
+K1519389018,한촌설렁탕 여의도파크원점,한식,9,http://place.map.kakao.com/1519389018,실제,ChIJl3XABGGffDUR3AMmJ-VaQHA,3.9,16.0,보통,10000.0,True,True,True,True,"친절(2), 빠름(1), 웨이팅(1), 만족(1)"
+K21340280,수라운지,양식,9,http://place.map.kakao.com/21340280,실제,,,,,,,,,,모름
+K2132412794,가가솥밥 여의도점,기타,9,http://place.map.kakao.com/2132412794,실제,,,,,,,,,,모름
+K14539245,달인곱창 여의도본점,소고기,9,http://place.map.kakao.com/14539245,실제,ChIJPwNV-z-ffDURF3nZwJwsPOU,4.2,153.0,보통,30000.0,,True,True,True,"맛있음(3), 맛없음(2)"
+K151028464,파리크라상 여의도현대백화점,간식,9,http://place.map.kakao.com/151028464,실제,,,,,,,,,,모름
+K13050028,파크카페,양식,9,http://place.map.kakao.com/13050028,실제,ChIJR-IY_RiffDURJ0d3QvJrtIg,4.2,46.0,보통,40000.0,True,True,True,True,"맛있음(2), 만족(1), 단체·회식(1), 친절(1)"
+K1094524383,리치몬드과자점 더현대서울,간식,9,http://place.map.kakao.com/1094524383,실제,,,,,,,,,,모름
+K21442873,라온,술집,9,http://place.map.kakao.com/21442873,실제,,,,,,,,,,모름
+K684040064,번패티번 더현대 서울점,양식,9,http://place.map.kakao.com/684040064,실제,ChIJIWbjP6yffDURLxHusmOnJHE,4.2,117.0,보통,10000.0,True,True,True,,"맛있음(3), 만족(1), 웨이팅(1)"
+K27184809,여의도마루,한식,9,http://place.map.kakao.com/27184809,실제,ChIJGZB5uTiffDUR0pM-fWam89E,3.9,418.0,보통,10000.0,True,True,True,True,"단체·회식(2), 보통(1), 만족(1), 맛있음(1)"
+K1088897252,고디바베이커리 더현대서울,간식,9,http://place.map.kakao.com/1088897252,실제,,,,,,,,,,모름
+K464971201,에이치랜드,양식,9,http://place.map.kakao.com/464971201,실제,,,,,,,,,,모름
+K328635355,런던베이글 뮤지엄 여의도,간식,9,http://place.map.kakao.com/328635355,실제,,,,,,,,,,모름
+K1152682977,골든피스 더현대서울,간식,9,http://place.map.kakao.com/1152682977,실제,,,,,,,,,,모름
+K106811069,와인웍스 더현대서울점,술집,10,http://place.map.kakao.com/106811069,실제,ChIJB1XJcLeffDUR3jsyOJr5NeQ,4.1,66.0,보통,40000.0,,,True,True,"비쌈(2), 맛있음(1), 가성비(1), 친절(1)"
+K1453705959,고관명물꽈배기방 더현대서울,간식,10,http://place.map.kakao.com/1453705959,실제,,,,,,,,,,모름
+K1268778535,도산제과 더현대서울,간식,10,http://place.map.kakao.com/1268778535,실제,,,,,,,,,,모름
+K1152869485,근제베이커리 더현대서울,간식,10,http://place.map.kakao.com/1152869485,실제,,,,,,,,,,모름
+K741990704,서울닭방 더현대서울,치킨,10,http://place.map.kakao.com/741990704,실제,,,,,,,,,,모름
+K1228135436,식물원김밥 더현대서울점,분식,10,http://place.map.kakao.com/1228135436,실제,,,,,,,,,,모름
+K1683014257,명인명촌 더현대서울,간식,10,http://place.map.kakao.com/1683014257,실제,,,,,,,,,,모름
+K2082932658,금옥당 더현대 서울점,간식,10,http://place.map.kakao.com/2082932658,실제,,,,,,,,,,모름
+K1602851948,박가부대 여의도파크원점,한식,10,http://place.map.kakao.com/1602851948,실제,ChIJx1eEDs-ffDURH4alIl4TK0U,4.5,2.0,,,True,True,True,,만족(1)
+K1003683719,SMT 라운지 더현대서울점,퓨전요리,10,http://place.map.kakao.com/1003683719,실제,ChIJDStY9YaffDURVLPaTlhWtCU,3.5,59.0,보통,20000.0,True,True,True,True,"분위기(3), 맛있음(1), 보통(1)"
+K329797435,지코바 여의도1호점,치킨,10,http://place.map.kakao.com/329797435,실제,ChIJ1VbWCkCffDURWJT6vPHdbGY,,0.0,,,,,,,모름
+K403726071,모행 떡케이크앙금플라워&레터링,간식,10,http://place.map.kakao.com/403726071,실제,,,,,,,,,,모름
+K778456412,남도동백김밥,분식,10,http://place.map.kakao.com/778456412,실제,ChIJM0VmSwCffDURwFOw2PgYpwg,5.0,1.0,,,True,True,,,맛있음(1)
+K96101681,불란셔제빵소 바이 파리크라상 여의도엔솔,간식,10,http://place.map.kakao.com/96101681,실제,,,,,,,,,,모름
+K14819537,피자알볼로 여의도직영점,양식,10,http://place.map.kakao.com/14819537,실제,ChIJ1VbWCkCffDURYCS-fqLKwKU,,0.0,,,,,,,모름
+K20688904,동대문엽기떡볶이 여의도점,분식,10,http://place.map.kakao.com/20688904,실제,ChIJATaI-z2ffDURiM4efyuHIz0,2.6,8.0,,,,,,,"친절(3), 불만(1), 맛있음(1)"
+K1290617428,크리스피프레시 여의도파크원점,샐러드,10,http://place.map.kakao.com/1290617428,실제,ChIJC6vvC8mffDURwSEdz3GQLnQ,4.1,38.0,보통,10000.0,,,,,"맛없음(1), 만족(1), 친절(1), 혼밥(1), 분위기(1)"
+K1642167050,맘스터치 동여의도점,패스트푸드,10,http://place.map.kakao.com/1642167050,실제,ChIJcbLNrzKffDURBA53TJb-ZHk,4.0,125.0,저렴,,True,True,True,,"친절(2), 가성비(1), 웨이팅(1), 보통(1)"
+K8985516,무교동우정낙지,횟집·해산물,10,http://place.map.kakao.com/8985516,실제,ChIJz9v4CkCffDURfBWkMhtpsJs,4.2,68.0,보통,10000.0,True,True,True,True,"만족(2), 친절(1), 불만(1), 맛있음(1)"
+K2021642443,교자와비스케,술집,10,http://place.map.kakao.com/2021642443,실제,ChIJQyVORACffDURd8S_oZnt-Qg,4.3,4.0,,,,,,,"만족(2), 맛없음(1), 가성비(1)"
+K20243202,진미족발,돼지고기,10,http://place.map.kakao.com/20243202,실제,ChIJZ-Vp0z-ffDURVF01axYm6l4,4.1,61.0,,,,True,True,True,"맛있음(3), 분위기(1), 맛없음(1)"
+K15948992,묵호어판장,횟집·해산물,10,http://place.map.kakao.com/15948992,실제,ChIJi5rZm8iffDURKDo4y-ALREw,4.0,3.0,,,,True,True,,"맛있음(1), 양많음(1), 만족(1)"
+K615272405,여피클럽,술집,10,http://place.map.kakao.com/615272405,실제,ChIJCZglFEOffDURzDhoN4_k_D4,,0.0,,,,,,,모름
+K15188521,중경신선로,중식,10,http://place.map.kakao.com/15188521,실제,ChIJqTsvdUCffDUR198MRy1RKW0,3.7,3.0,,,True,True,True,True,"맛있음(1), 만족(1), 보통(1)"
+K1320083163,제이디그릴앤바,소고기,10,http://place.map.kakao.com/1320083163,실제,ChIJ1VbWCkCffDURdgd1tlsw0TY,4.8,42.0,보통,40000.0,,True,True,True,"맛있음(3), 분위기(1), 가성비(1)"
+K10504261,서글렁탕,돼지고기,10,http://place.map.kakao.com/10504261,실제,ChIJqTsvdUCffDURp3EGQXfoDcQ,4.0,452.0,보통,20000.0,True,True,True,True,"웨이팅(1), 가성비(1), 단체·회식(1), 만족(1), 맛있음(1)"
+K21340067,본도시락 동여의도점,도시락,10,http://place.map.kakao.com/21340067,실제,ChIJ7XiClB2ffDURKb10_ndg7w4,3.8,6.0,,,True,True,,,"불만(1), 만족(1)"
+K11055776,브레드05 여의도점,간식,10,http://place.map.kakao.com/11055776,실제,,,,,,,,,,모름
+K997545757,곤트란쉐리에 동여의도점,간식,10,http://place.map.kakao.com/997545757,실제,,,,,,,,,,모름
+K7816231,대교반점,중식,11,http://place.map.kakao.com/7816231,실제,ChIJ93kaUUeffDURU3Wvlteyju4,3.6,269.0,저렴,,True,True,True,True,"만족(2), 맛있음(1), 친절(1), 맛없음(1)"
+K86655769,강남교자칼국수 여의도 파크원점,한식,11,http://place.map.kakao.com/86655769,실제,ChIJwUxSEACffDURxHDbQ37RpqY,4.5,2.0,,,,True,,,"만족(1), 맛있음(1)"
+K651482080,은화수식당 여의도파크원점,일식,11,http://place.map.kakao.com/651482080,실제,,,,,,,,,,모름
+K2032609878,시즈널리티,양식,11,http://place.map.kakao.com/2032609878,실제,ChIJs01sGB-ffDUR8a222ZLgW2s,4.5,31.0,보통,10000.0,True,True,True,True,"만족(1), 분위기(1), 맛있음(1), 가성비(1), 빠름(1)"
+K903793586,토끼 떡볶이,기타,11,http://place.map.kakao.com/903793586,실제,ChIJ16scBwCffDURyF4WPrlQFbA,5.0,1.0,,,True,True,,,분위기(1)
+K244015669,마리아분식,분식,11,http://place.map.kakao.com/244015669,실제,ChIJW_05bDmffDURhKDYwoIEuBI,5.0,2.0,,,True,True,,,맛있음(2)
+K16041103,오비라운지,술집,11,http://place.map.kakao.com/16041103,실제,,,,,,,,,,모름
+K24790191,우부 여의도점,소고기,11,http://place.map.kakao.com/24790191,실제,ChIJjztPDQ-ffDUR0WsOwYYeJu4,4.4,18.0,아주 비쌈,100000.0,True,True,,True,"단체·회식(2), 맛있음(1), 가성비(1), 분위기(1)"
+K27341262,박선영김밥,분식,11,http://place.map.kakao.com/27341262,실제,ChIJZTZWWDiffDURT8mYJz9oKls,3.7,80.0,저렴,,True,True,,,"보통(2), 맛있음(1), 맛없음(1), 가성비(1)"
+K2045399096,베르딕다이닝펍,술집,11,http://place.map.kakao.com/2045399096,실제,,,,,,,,,,모름
+K165910953,오한수우육면가 여의도더현대 파크원점,한식,11,http://place.map.kakao.com/165910953,실제,ChIJeWRCi_GffDURaNcjw1Y-_Vw,4.2,9.0,보통,10000.0,True,True,True,,"맛있음(3), 혼밥(1), 양많음(1)"
+K16593549,연화숯불구이,돼지고기,11,http://place.map.kakao.com/16593549,실제,ChIJZTZWWDiffDURmDCVTnEKMoA,3.4,46.0,보통,10000.0,True,True,True,True,"맛있음(2), 만족(1), 불만(1), 붐빔(1)"
+K27388829,고메브래드,간식,11,http://place.map.kakao.com/27388829,실제,,,,,,,,,,모름
+K2093809208,빵집꽈배기,간식,11,http://place.map.kakao.com/2093809208,실제,,,,,,,,,,모름
+K504597486,모와,양식,11,http://place.map.kakao.com/504597486,실제,ChIJs2-nNgCffDURrtxByHIQXOo,5.0,58.0,보통,20000.0,True,True,True,True,"분위기(4), 맛있음(1)"
+K1864857958,대성한식부페,뷔페,11,http://place.map.kakao.com/1864857958,실제,,,,,,,,,,모름
+K1226207688,우대포 여의도점,한식,11,http://place.map.kakao.com/1226207688,실제,,,,,,,,,,모름
+K250102909,벨에포크 케이크,간식,11,http://place.map.kakao.com/250102909,실제,,,,,,,,,,모름
+K720168444,우이락 여의도점,술집,11,http://place.map.kakao.com/720168444,실제,ChIJd_BcdACffDURnJI11LwYarU,4.0,4.0,,,,,True,True,"맛있음(2), 보통(1)"
+K365139836,미분당 여의도점,아시아음식,11,http://place.map.kakao.com/365139836,실제,ChIJozXTTk2ffDURDtnMqg6Sa40,4.7,16.0,보통,,True,True,,,"분위기(3), 웨이팅(1), 가성비(1)"
+K1138984679,정윤키친,아시아음식,11,http://place.map.kakao.com/1138984679,실제,ChIJS8uIRgCffDURqdX6WZxiqxo,5.0,62.0,보통,10000.0,True,True,True,,"맛있음(3), 친절(1), 분위기(1)"
+K23485818,족발의장인족장 여의나루점,돼지고기,11,http://place.map.kakao.com/23485818,실제,ChIJZTZWWDiffDURIYCMU1YFUuA,4.0,72.0,,,,True,True,True,"맛있음(2), 만족(1), 맛없음(1), 붐빔(1)"
+K11108789,양반,한식,11,http://place.map.kakao.com/11108789,실제,ChIJGSNcWDiffDURMCtiaZkTW5A,3.2,26.0,,,True,True,True,True,"만족(2), 가성비(2), 맛없음(1)"
+K17222683,나주진곰탕,한식,11,http://place.map.kakao.com/17222683,실제,ChIJZTZWWDiffDUR5u1TLsUljTY,3.1,30.0,보통,10000.0,True,True,True,True,"분위기(2), 만족(2), 맛있음(1)"
+K82352014,토종흑돼지쌈밥정식,한식,11,http://place.map.kakao.com/82352014,실제,,,,,,,,,,모름
+K21332784,농부와닭동네,치킨,11,http://place.map.kakao.com/21332784,실제,ChIJKSJUXDiffDUR5yAorjlAi2k,4.1,165.0,보통,10000.0,,True,True,,"웨이팅(3), 맛있음(2)"
+K491228525,소몽,일식,11,http://place.map.kakao.com/491228525,실제,ChIJfz2MryKffDURz1n2DjCybnk,4.1,58.0,보통,10000.0,True,True,,True,"맛있음(1), 만족(1), 웨이팅(1), 불친절(1), 맛없음(1)"
+K1420795092,다이너 싱싱 여의도점,기타,11,http://place.map.kakao.com/1420795092,실제,ChIJPQGXRQCffDUR4QDd5vaYdCU,4.7,20.0,보통,10000.0,True,True,True,True,"맛있음(1), 분위기(1), 만족(1), 양많음(1), 친절(1)"
+K14566442,여의도연탄집,돼지고기,11,http://place.map.kakao.com/14566442,실제,ChIJkwUuSGSffDURZntu_vhOzZQ,4.2,17.0,,,,True,True,True,"맛있음(2), 불친절(1), 혼밥(1), 만족(1)"
+K111210178,꽁칼 여의도직영점,한식,11,http://place.map.kakao.com/111210178,실제,ChIJ2dCBXACffDURBpYGSb0OPqg,4.5,2.0,,,True,True,True,,"가성비(1), 만족(1)"
+K16073629,장독대김치찌개,한식,11,http://place.map.kakao.com/16073629,실제,ChIJPRzFUiKffDURy9snFs3gKQ4,3.8,200.0,보통,10000.0,True,True,True,,"맛있음(2), 양많음(2), 만족(1)"
+K1850526238,37.5 시그니처 여의도점,양식,11,http://place.map.kakao.com/1850526238,실제,ChIJeVmFdQCffDUR_wekgnlh4Jo,4.4,7.0,보통,20000.0,True,True,True,True,"맛있음(2), 분위기(1), 친절(1), 만족(1)"
+K16622191,희정식당,양식,11,http://place.map.kakao.com/16622191,실제,ChIJpQ1oQDiffDURXupCfJVM-R4,3.9,754.0,보통,10000.0,True,True,True,,"친절(2), 맛있음(1), 분위기(1), 만족(1)"
+K1807680095,그리디몬버거,양식,11,http://place.map.kakao.com/1807680095,실제,ChIJlSTF1yaffDUR3GajL_P4lR0,4.1,130.0,보통,10000.0,True,True,True,,"분위기(3), 맛있음(2)"
+K448382174,오늘도닭갈비 신길대방점,한식,11,http://place.map.kakao.com/448382174,실제,,,,,,,,,,모름
+K11440868,서울무교동낙지,횟집·해산물,11,http://place.map.kakao.com/11440868,실제,,,,,,,,,,모름
+K13289961,영원식당,한식,11,http://place.map.kakao.com/13289961,실제,ChIJJ5tPXDiffDURWsf1TS605f8,3.9,701.0,보통,10000.0,True,True,True,,"맛있음(3), 보통(1), 분위기(1)"
+K9824683,파리바게뜨 여의도2호점,간식,11,http://place.map.kakao.com/9824683,실제,,,,,,,,,,모름
+K981277475,장어나루,횟집·해산물,11,http://place.map.kakao.com/981277475,실제,,,,,,,,,,모름
+K16070304,둘둘치킨 여의도공원점,치킨,11,http://place.map.kakao.com/16070304,실제,,,,,,,,,,모름
+K61565227,잉쓰,술집,11,http://place.map.kakao.com/61565227,실제,,,,,,,,,,모름
+K1644061627,도약,돼지고기,11,http://place.map.kakao.com/1644061627,실제,,,,,,,,,,모름
+K2081852537,꼬꼬뱅이,술집,11,http://place.map.kakao.com/2081852537,실제,,,,,,,,,,모름
+K20493897,왕산,중식,11,http://place.map.kakao.com/20493897,실제,,,,,,,,,,모름
+K77876642,잠수교집 여의도점,고기(구분 모름),11,http://place.map.kakao.com/77876642,실제,,,,,,,,,,모름
+K16328397,코펜호프,술집,11,http://place.map.kakao.com/16328397,실제,,,,,,,,,,모름
+K117377026,통영굴찜,횟집·해산물,11,http://place.map.kakao.com/117377026,실제,,,,,,,,,,모름
+K1663807236,구포국수세번째이야기,한식,11,http://place.map.kakao.com/1663807236,실제,,,,,,,,,,모름
+K1427899286,동백카츠 여의도한강공원점,일식,11,http://place.map.kakao.com/1427899286,실제,,,,,,,,,,모름
+K12806277,호우양꼬치 여의나루점,중식,11,http://place.map.kakao.com/12806277,실제,,,,,,,,,,모름
+K1622658585,칠곡에프앤비,한식,11,http://place.map.kakao.com/1622658585,실제,,,,,,,,,,모름
+K11284068,흑돼지,돼지고기,11,http://place.map.kakao.com/11284068,실제,,,,,,,,,,모름
+K15681007,엄니식당,한식,11,http://place.map.kakao.com/15681007,실제,,,,,,,,,,모름
+K10761242,다래횟집,횟집·해산물,11,http://place.map.kakao.com/10761242,실제,,,,,,,,,,모름
+K1897262332,고래맥주창고 여의도점,식품판매,11,http://place.map.kakao.com/1897262332,실제,,,,,,,,,,모름
+K15575931,백암왕순대,한식,11,http://place.map.kakao.com/15575931,실제,,,,,,,,,,모름
+K587667768,생활맥주 여의도KBS점,술집,11,http://place.map.kakao.com/587667768,실제,,,,,,,,,,모름
+K8279880,다락방청국장,한식,11,http://place.map.kakao.com/8279880,실제,,,,,,,,,,모름
+K2098553653,봄담아 여의도점,샤브샤브,11,http://place.map.kakao.com/2098553653,실제,,,,,,,,,,모름
+K16875108,전주식당,한식,12,http://place.map.kakao.com/16875108,실제,,,,,,,,,,모름
+K524118573,구이구이 여의도본점,횟집·해산물,12,http://place.map.kakao.com/524118573,실제,,,,,,,,,,모름
+K467436206,8번대물집,횟집·해산물,12,http://place.map.kakao.com/467436206,실제,,,,,,,,,,모름
+K9622227,효성삼계탕,닭·오리,12,http://place.map.kakao.com/9622227,실제,,,,,,,,,,모름
+K29917485,백진닭곰탕,한식,12,http://place.map.kakao.com/29917485,실제,,,,,,,,,,모름
+K1843821838,여의도소바우동,한식,12,http://place.map.kakao.com/1843821838,실제,,,,,,,,,,모름
+K1410606524,여의미청국장,한식,12,http://place.map.kakao.com/1410606524,실제,,,,,,,,,,모름
+K370214335,평양관,한식,12,http://place.map.kakao.com/370214335,실제,,,,,,,,,,모름
+K2078480773,수정,횟집·해산물,12,http://place.map.kakao.com/2078480773,실제,,,,,,,,,,모름
+K26343934,망향비빔국수 여의도점,한식,12,http://place.map.kakao.com/26343934,실제,,,,,,,,,,모름
+K16040420,여의참칼국수,한식,12,http://place.map.kakao.com/16040420,실제,,,,,,,,,,모름
+K16562410,별미콩나물국밥,한식,12,http://place.map.kakao.com/16562410,실제,,,,,,,,,,모름
+K1528740533,송정식당,한식,12,http://place.map.kakao.com/1528740533,실제,,,,,,,,,,모름
+K20746105,청수,한식,12,http://place.map.kakao.com/20746105,실제,,,,,,,,,,모름
+K1226754776,케이엠리더스,일식,12,http://place.map.kakao.com/1226754776,실제,,,,,,,,,,모름
+K524718151,드래프트128,양식,12,http://place.map.kakao.com/524718151,실제,,,,,,,,,,모름
+K1369967808,솥뚜껑떡볶이&가마솥순대,분식,12,http://place.map.kakao.com/1369967808,실제,,,,,,,,,,모름
+K23488512,하노,중식,12,http://place.map.kakao.com/23488512,실제,,,,,,,,,,모름
+K16089692,우리식당,한식,12,http://place.map.kakao.com/16089692,실제,,,,,,,,,,모름
+K8372140,보드람치킨 서여의도점,치킨,12,http://place.map.kakao.com/8372140,실제,,,,,,,,,,모름
+K1789118512,우리집밥,한식,12,http://place.map.kakao.com/1789118512,실제,,,,,,,,,,모름
+K1028656731,코카김밥 2호점,분식,12,http://place.map.kakao.com/1028656731,실제,,,,,,,,,,모름
+K20809364,BBQ 여의도점,치킨,12,http://place.map.kakao.com/20809364,실제,,,,,,,,,,모름
+K638431523,치킨마루 대방역점,치킨,12,http://place.map.kakao.com/638431523,실제,,,,,,,,,,모름
+K1009189195,꼬소한부뚜막 KBS본관직영점,고기(구분 모름),12,http://place.map.kakao.com/1009189195,실제,,,,,,,,,,모름
+K11165764,장미의집,돼지고기,12,http://place.map.kakao.com/11165764,실제,,,,,,,,,,모름
+K2004209854,라밥 대방역점,분식,12,http://place.map.kakao.com/2004209854,실제,,,,,,,,,,모름
+K12094319,자매호프,술집,12,http://place.map.kakao.com/12094319,실제,,,,,,,,,,모름
+K21332808,명경포차,술집,12,http://place.map.kakao.com/21332808,실제,,,,,,,,,,모름
+K1997320644,고수타코 여의도KBS점,양식,12,http://place.map.kakao.com/1997320644,실제,,,,,,,,,,모름
+K1926234360,소울갈비 여의도점,소고기,12,http://place.map.kakao.com/1926234360,실제,,,,,,,,,,모름
+K573863143,엉터리해장국 서여의도점,한식,12,http://place.map.kakao.com/573863143,실제,,,,,,,,,,모름
+K433203640,짝태&노가리 여의도점,술집,12,http://place.map.kakao.com/433203640,실제,,,,,,,,,,모름
+K861879799,봉채직화제육닭볶음탕,닭·오리,12,http://place.map.kakao.com/861879799,실제,,,,,,,,,,모름
+K16763409,일선화,중식,12,http://place.map.kakao.com/16763409,실제,,,,,,,,,,모름
+K2080073320,꼴통치킨 여의도,치킨,12,http://place.map.kakao.com/2080073320,실제,,,,,,,,,,모름
+K237024705,여의도골뱅이,술집,12,http://place.map.kakao.com/237024705,실제,,,,,,,,,,모름
+K413760819,꼴통치킨,치킨,12,http://place.map.kakao.com/413760819,실제,,,,,,,,,,모름
+K635870992,한첩,한식,12,http://place.map.kakao.com/635870992,실제,,,,,,,,,,모름
+K12572625,신의주찹쌀순대 여의도점,한식,12,http://place.map.kakao.com/12572625,실제,,,,,,,,,,모름
+K8354737,리샨 여의도점,중식,12,http://place.map.kakao.com/8354737,실제,,,,,,,,,,모름
+K744469115,키사라 여의도점,일식,12,http://place.map.kakao.com/744469115,실제,,,,,,,,,,모름
+K553012050,소희원,한식,12,http://place.map.kakao.com/553012050,실제,,,,,,,,,,모름
+K644027275,아우어베이커리 여의도LG트윈타워점,간식,12,http://place.map.kakao.com/644027275,실제,,,,,,,,,,모름
+K1543552907,프랭크버거 여의도KBS점,양식,12,http://place.map.kakao.com/1543552907,실제,,,,,,,,,,모름
+K45116722,루이 LG트윈타워점,중식,12,http://place.map.kakao.com/45116722,실제,,,,,,,,,,모름
+K1736202932,디앤오,구내식당,12,http://place.map.kakao.com/1736202932,실제,,,,,,,,,,모름
+K17536254,김가네 여의도KBS본관점,분식,13,http://place.map.kakao.com/17536254,실제,,,,,,,,,,모름
+K154503056,스시다이몬,일식,13,http://place.map.kakao.com/154503056,실제,,,,,,,,,,모름
+K1092106080,피오레,양식,13,http://place.map.kakao.com/1092106080,실제,,,,,,,,,,모름
+K27166907,달맞이꽃게탕 서여의도점,횟집·해산물,13,http://place.map.kakao.com/27166907,실제,,,,,,,,,,모름
+K716119372,슬로우캘리 여의도KBS본관점,샐러드,13,http://place.map.kakao.com/716119372,실제,,,,,,,,,,모름
+K26473053,던킨 LG트윈타워점,간식,13,http://place.map.kakao.com/26473053,실제,,,,,,,,,,모름
+K1830806079,메밀나무 여의도점,한식,13,http://place.map.kakao.com/1830806079,실제,,,,,,,,,,모름
+K8790250,아티제 여의도공원점,간식,13,http://place.map.kakao.com/8790250,실제,,,,,,,,,,모름
+K1349647148,캘리스랩 LG트윈타워점,한식,13,http://place.map.kakao.com/1349647148,실제,,,,,,,,,,모름
+K13098122,타마,횟집·해산물,13,http://place.map.kakao.com/13098122,실제,,,,,,,,,,모름
+K1671487737,해담채 여의도점,한식,13,http://place.map.kakao.com/1671487737,실제,,,,,,,,,,모름
+K1924112119,미스터초우 본점,한식,13,http://place.map.kakao.com/1924112119,실제,,,,,,,,,,모름
+K211119090,육설도 대방역점,한식,13,http://place.map.kakao.com/211119090,실제,,,,,,,,,,모름
+K637792313,락희안 서여의도점,중식,13,http://place.map.kakao.com/637792313,실제,,,,,,,,,,모름
+K1559851707,진김밥 환승통로점,분식,13,http://place.map.kakao.com/1559851707,실제,,,,,,,,,,모름
+K10868994,하롱베이의하루 여의도본점,아시아음식,13,http://place.map.kakao.com/10868994,실제,,,,,,,,,,모름
+K10904449,틈새라면 서여의도점,분식,13,http://place.map.kakao.com/10904449,실제,,,,,,,,,,모름
+K1609324301,준우아이앤디,한식,13,http://place.map.kakao.com/1609324301,실제,,,,,,,,,,모름
+K26117741,빈티지,술집,13,http://place.map.kakao.com/26117741,실제,,,,,,,,,,모름
+K1317213509,후니드 한국수출입마트 직원식당 여의도점,구내식당,13,http://place.map.kakao.com/1317213509,실제,,,,,,,,,,모름
+K17103452,싱카이 여의도점,중식,13,http://place.map.kakao.com/17103452,실제,,,,,,,,,,모름
+K1072432622,비욘드비엣남 국회의사당점,아시아음식,13,http://place.map.kakao.com/1072432622,실제,,,,,,,,,,모름
+K17519916,남도마루 여의도동점,횟집·해산물,13,http://place.map.kakao.com/17519916,실제,,,,,,,,,,모름
+K12678732,노조미,일식,13,http://place.map.kakao.com/12678732,실제,,,,,,,,,,모름
+K23255692,천지명,고기(구분 모름),13,http://place.map.kakao.com/23255692,실제,,,,,,,,,,모름
+K1859166031,불스버거,양식,13,http://place.map.kakao.com/1859166031,실제,,,,,,,,,,모름
+K703171040,권칼국수,한식,13,http://place.map.kakao.com/703171040,실제,,,,,,,,,,모름
+K1949797367,포엠,술집,13,http://place.map.kakao.com/1949797367,실제,,,,,,,,,,모름
+K12066107,엄마네손맛,한식,13,http://place.map.kakao.com/12066107,실제,,,,,,,,,,모름
+K541191339,서촌닭갈비 여의도점,닭·오리,13,http://place.map.kakao.com/541191339,실제,,,,,,,,,,모름
+K1237510620,무청감자탕 국회의사당점,한식,13,http://place.map.kakao.com/1237510620,실제,,,,,,,,,,모름
+K16532918,해바라기정육식당 신길점,고기(구분 모름),13,http://place.map.kakao.com/16532918,실제,,,,,,,,,,모름
+K22211975,하동관 국회의사당역직영점,한식,13,http://place.map.kakao.com/22211975,실제,,,,,,,,,,모름
+K2130764254,울엄마밥집,한식,13,http://place.map.kakao.com/2130764254,실제,,,,,,,,,,모름
+K769721224,부어치킨 여의도점,치킨,13,http://place.map.kakao.com/769721224,실제,,,,,,,,,,모름
+K1635307371,버텍스 여의도점,퓨전요리,13,http://place.map.kakao.com/1635307371,실제,,,,,,,,,,모름
+K1202599602,써브웨이 여의도KBS본관점,패스트푸드,13,http://place.map.kakao.com/1202599602,실제,,,,,,,,,,모름
+K16094992,엄마손감자탕,한식,14,http://place.map.kakao.com/16094992,실제,,,,,,,,,,모름
+K1794387898,해돈식당,돼지고기,14,http://place.map.kakao.com/1794387898,실제,,,,,,,,,,모름
+K2027228245,토모니,술집,14,http://place.map.kakao.com/2027228245,실제,,,,,,,,,,모름
+K603474413,어도일식 여의도,일식,14,http://place.map.kakao.com/603474413,실제,,,,,,,,,,모름
+K741526092,전주본가,한식,14,http://place.map.kakao.com/741526092,실제,,,,,,,,,,모름
+K1744602828,포식이네,술집,14,http://place.map.kakao.com/1744602828,실제,,,,,,,,,,모름
+K1742966713,신세계푸드 구내식당,구내식당,14,http://place.map.kakao.com/1742966713,실제,,,,,,,,,,모름
+K1286974620,느루,한식,14,http://place.map.kakao.com/1286974620,실제,,,,,,,,,,모름
+K104668916,마장동고기집 신길점,고기(구분 모름),14,http://place.map.kakao.com/104668916,실제,,,,,,,,,,모름
+K1328669731,정담긴추어탕,횟집·해산물,14,http://place.map.kakao.com/1328669731,실제,,,,,,,,,,모름
+K1379816690,고메드갤러리아 일신방직본사,한식,14,http://place.map.kakao.com/1379816690,실제,,,,,,,,,,모름
+K775581350,여의나루순대족발,돼지고기,14,http://place.map.kakao.com/775581350,실제,,,,,,,,,,모름
+K887364361,마포수제비,한식,14,http://place.map.kakao.com/887364361,실제,,,,,,,,,,모름
+K1706138840,우섬,소고기,14,http://place.map.kakao.com/1706138840,실제,,,,,,,,,,모름
+K521991652,만복집 국회의사당점,한식,14,http://place.map.kakao.com/521991652,실제,,,,,,,,,,모름
+K1240689274,권스시,일식,14,http://place.map.kakao.com/1240689274,실제,,,,,,,,,,모름
+K157273943,탁앤닭,치킨,14,http://place.map.kakao.com/157273943,실제,,,,,,,,,,모름
+K1497201274,고방채 서여의도KBS,한식,14,http://place.map.kakao.com/1497201274,실제,,,,,,,,,,모름
+K1746182269,파리바게뜨 KBS여의도점,간식,14,http://place.map.kakao.com/1746182269,실제,,,,,,,,,,모름
+K15740655,고향집,한식,14,http://place.map.kakao.com/15740655,실제,,,,,,,,,,모름
+K83955029,미넬,간식,14,http://place.map.kakao.com/83955029,실제,,,,,,,,,,모름
+K1070685407,원조부안집 신길점,고기(구분 모름),14,http://place.map.kakao.com/1070685407,실제,,,,,,,,,,모름
+K2105954610,용오뎅,술집,14,http://place.map.kakao.com/2105954610,실제,,,,,,,,,,모름
+K167069500,우제리막국수 여의도본점,한식,14,http://place.map.kakao.com/167069500,실제,,,,,,,,,,모름
+K1752152422,항아리갈비탕 여의도점,한식,14,http://place.map.kakao.com/1752152422,실제,,,,,,,,,,모름
+K1242286449,본우리반상 국회의사당역점,한식,14,http://place.map.kakao.com/1242286449,실제,,,,,,,,,,모름
+K1311801683,그전집,술집,14,http://place.map.kakao.com/1311801683,실제,,,,,,,,,,모름
+K8314292,참배나무골오리집 여의도점,닭·오리,14,http://place.map.kakao.com/8314292,실제,,,,,,,,,,모름
+K908264463,펀비어킹 영등포신길삼거리점,술집,14,http://place.map.kakao.com/908264463,실제,,,,,,,,,,모름
+K21879596,돈코숯불갈비,돼지고기,14,http://place.map.kakao.com/21879596,실제,,,,,,,,,,모름
+K16763755,부산자갈치꼼장어,횟집·해산물,14,http://place.map.kakao.com/16763755,실제,,,,,,,,,,모름
+K16300976,마포주먹고기,고기(구분 모름),14,http://place.map.kakao.com/16300976,실제,,,,,,,,,,모름
+K84680251,역전할머니맥주 서울신길삼거리점,술집,14,http://place.map.kakao.com/84680251,실제,,,,,,,,,,모름
+K567668416,금별맥주 신길삼거리점,술집,14,http://place.map.kakao.com/567668416,실제,,,,,,,,,,모름
+K1968242942,백채김치찌개 신길삼거리점,한식,14,http://place.map.kakao.com/1968242942,실제,,,,,,,,,,모름
+K1372762753,움버거앤윙스 대방역점,패스트푸드,14,http://place.map.kakao.com/1372762753,실제,,,,,,,,,,모름
+K783435328,수울,술집,14,http://place.map.kakao.com/783435328,실제,,,,,,,,,,모름
+K636444967,헤밀파스타,양식,14,http://place.map.kakao.com/636444967,실제,,,,,,,,,,모름
+K1195238013,네모오징어 대방역점,횟집·해산물,14,http://place.map.kakao.com/1195238013,실제,,,,,,,,,,모름
+K12248983,백암왕순대,한식,14,http://place.map.kakao.com/12248983,실제,,,,,,,,,,모름
+K16382703,김가네감자탕,한식,14,http://place.map.kakao.com/16382703,실제,,,,,,,,,,모름
+K13079328,신면옥,한식,14,http://place.map.kakao.com/13079328,실제,,,,,,,,,,모름
+K1053613936,수운각,중식,14,http://place.map.kakao.com/1053613936,실제,,,,,,,,,,모름
+K349505101,미쿡스테이크,양식,14,http://place.map.kakao.com/349505101,실제,,,,,,,,,,모름
+K997034679,카구야유리사케바,술집,14,http://place.map.kakao.com/997034679,실제,,,,,,,,,,모름
+K2131447946,샹스,중식,14,http://place.map.kakao.com/2131447946,실제,,,,,,,,,,모름
+K17118813,롯데리아 대방역점,패스트푸드,14,http://place.map.kakao.com/17118813,실제,,,,,,,,,,모름
+K128283650,기소야 서여의도점,일식,14,http://place.map.kakao.com/128283650,실제,,,,,,,,,,모름
+K9083173,생라면세대,분식,14,http://place.map.kakao.com/9083173,실제,,,,,,,,,,모름
+K64113937,여의도뚝배기,한식,14,http://place.map.kakao.com/64113937,실제,,,,,,,,,,모름
+K12448421,운산,한식,14,http://place.map.kakao.com/12448421,실제,,,,,,,,,,모름
+K192552358,러브디아,간식,14,http://place.map.kakao.com/192552358,실제,,,,,,,,,,모름
+K8677666,가야종합분식,분식,14,http://place.map.kakao.com/8677666,실제,,,,,,,,,,모름
+K997002483,할배츄러스,간식,14,http://place.map.kakao.com/997002483,실제,,,,,,,,,,모름
+K1773950832,궁럭,한식,14,http://place.map.kakao.com/1773950832,실제,,,,,,,,,,모름
+K245267488,김떡순,분식,14,http://place.map.kakao.com/245267488,실제,,,,,,,,,,모름
+K9465773,백원,중식,14,http://place.map.kakao.com/9465773,실제,,,,,,,,,,모름
+K1787282214,쟌비어,술집,14,http://place.map.kakao.com/1787282214,실제,,,,,,,,,,모름
+K8633320,피자스쿨 신길점,양식,14,http://place.map.kakao.com/8633320,실제,,,,,,,,,,모름
+K1481704447,비어치킨,술집,14,http://place.map.kakao.com/1481704447,실제,,,,,,,,,,모름
+K8217972,다원한정식,한식,14,http://place.map.kakao.com/8217972,실제,,,,,,,,,,모름
+K2060960048,채빈,술집,14,http://place.map.kakao.com/2060960048,실제,,,,,,,,,,모름
+K8804114,금봉식당,고기(구분 모름),14,http://place.map.kakao.com/8804114,실제,,,,,,,,,,모름
+K73837009,피자마루 영등포신길점,양식,14,http://place.map.kakao.com/73837009,실제,,,,,,,,,,모름
+K26602766,동해도일식 본점,일식,14,http://place.map.kakao.com/26602766,실제,,,,,,,,,,모름
+K2102929957,신길마라탕,중식,14,http://place.map.kakao.com/2102929957,실제,,,,,,,,,,모름
+K1386548969,1인피자피자마루업 영등포신길점,양식,14,http://place.map.kakao.com/1386548969,실제,,,,,,,,,,모름
+K24711688,프라임한우,소고기,14,http://place.map.kakao.com/24711688,실제,,,,,,,,,,모름
+K7995433,약초마을,닭·오리,14,http://place.map.kakao.com/7995433,실제,,,,,,,,,,모름
+K2000639509,스시랑연어,일식,14,http://place.map.kakao.com/2000639509,실제,,,,,,,,,,모름
+K27271983,꼼지포차,술집,14,http://place.map.kakao.com/27271983,실제,,,,,,,,,,모름
+K13024757,파리바게뜨 신길역점,간식,14,http://place.map.kakao.com/13024757,실제,,,,,,,,,,모름
+K1723296353,일품 여의도점,일식,14,http://place.map.kakao.com/1723296353,실제,,,,,,,,,,모름
+K1798081429,통닭촌 신길점,치킨,14,http://place.map.kakao.com/1798081429,실제,,,,,,,,,,모름
+K27549154,치킨마루 신길점,치킨,14,http://place.map.kakao.com/27549154,실제,,,,,,,,,,모름
+K27558632,굽네치킨 여의도1호점,치킨,14,http://place.map.kakao.com/27558632,실제,,,,,,,,,,모름
+K2056821068,홍콩스트리트치킨,치킨,14,http://place.map.kakao.com/2056821068,실제,,,,,,,,,,모름
+K27143805,돈떼목장,돼지고기,14,http://place.map.kakao.com/27143805,실제,,,,,,,,,,모름
+K9132871,소공동뚝배기 여의도점,한식,14,http://place.map.kakao.com/9132871,실제,,,,,,,,,,모름
+K415957079,서해쭈꾸미,횟집·해산물,14,http://place.map.kakao.com/415957079,실제,,,,,,,,,,모름
+K1294914675,더다미,횟집·해산물,14,http://place.map.kakao.com/1294914675,실제,,,,,,,,,,모름
+K8896461,대청마루,한식,14,http://place.map.kakao.com/8896461,실제,,,,,,,,,,모름
+K857590699,오한수우육면가 직영본점,중식,14,http://place.map.kakao.com/857590699,실제,,,,,,,,,,모름
+K62347203,오마니,한식,14,http://place.map.kakao.com/62347203,실제,,,,,,,,,,모름
+K877183257,김춘자의정부부대찌개,한식,14,http://place.map.kakao.com/877183257,실제,,,,,,,,,,모름
+K1901439230,구름산추어탕 서여의도점,한식,14,http://place.map.kakao.com/1901439230,실제,,,,,,,,,,모름
+K1757155320,여의도사골칼국수,한식,14,http://place.map.kakao.com/1757155320,실제,,,,,,,,,,모름
+K1031341988,대동장어 여의도점,횟집·해산물,14,http://place.map.kakao.com/1031341988,실제,,,,,,,,,,모름
+K24962165,르뽀미에 여의도KBS점,간식,14,http://place.map.kakao.com/24962165,실제,,,,,,,,,,모름
+K1114897740,유가네손맛포차,술집,14,http://place.map.kakao.com/1114897740,실제,,,,,,,,,,모름
+K611768969,여의도부대찌개,한식,14,http://place.map.kakao.com/611768969,실제,,,,,,,,,,모름
+K1438253715,샘터미니뷔페,뷔페,14,http://place.map.kakao.com/1438253715,실제,,,,,,,,,,모름
+K1844515946,미스터리키친,패스트푸드,14,http://place.map.kakao.com/1844515946,실제,,,,,,,,,,모름
+K16987304,금강식당,한식,14,http://place.map.kakao.com/16987304,실제,,,,,,,,,,모름
+K10365039,뒤풀이,횟집·해산물,14,http://place.map.kakao.com/10365039,실제,,,,,,,,,,모름
+K1268966059,광씨네전주콩나물국밥,한식,14,http://place.map.kakao.com/1268966059,실제,,,,,,,,,,모름
+K1839352357,아라,술집,14,http://place.map.kakao.com/1839352357,실제,,,,,,,,,,모름
+K11142822,삼원정,고기(구분 모름),14,http://place.map.kakao.com/11142822,실제,,,,,,,,,,모름
+K1675794128,진1926 여의도점,고기(구분 모름),14,http://place.map.kakao.com/1675794128,실제,,,,,,,,,,모름
+K10117050,가야한정식,한식,14,http://place.map.kakao.com/10117050,실제,,,,,,,,,,모름
+K619139518,도시해장국 본점,한식,14,http://place.map.kakao.com/619139518,실제,,,,,,,,,,모름
+K16622801,본터대구탕,횟집·해산물,14,http://place.map.kakao.com/16622801,실제,,,,,,,,,,모름
+K1171987931,꽁당보리네,한식,14,http://place.map.kakao.com/1171987931,실제,,,,,,,,,,모름
+K9627220,홈레스토랑,일식,14,http://place.map.kakao.com/9627220,실제,,,,,,,,,,모름
+K16771069,텍사스,술집,14,http://place.map.kakao.com/16771069,실제,,,,,,,,,,모름
+K1035553866,바베트,한식,14,http://place.map.kakao.com/1035553866,실제,,,,,,,,,,모름
+K2076738730,카츠미야비,일식,14,http://place.map.kakao.com/2076738730,실제,,,,,,,,,,모름
+K11006368,대보름,한식,14,http://place.map.kakao.com/11006368,실제,,,,,,,,,,모름
+K69525718,민식당,술집,14,http://place.map.kakao.com/69525718,실제,,,,,,,,,,모름
+K643073931,오묘 서여의도점,일식,14,http://place.map.kakao.com/643073931,실제,,,,,,,,,,모름
+K1630670408,서울한식뷔페,뷔페,14,http://place.map.kakao.com/1630670408,실제,,,,,,,,,,모름
+K1894224776,비비샐러드,샐러드,14,http://place.map.kakao.com/1894224776,실제,,,,,,,,,,모름
+K15939814,김가네김밥 여의도2호점,분식,14,http://place.map.kakao.com/15939814,실제,,,,,,,,,,모름
+K16987113,바다내음,횟집·해산물,14,http://place.map.kakao.com/16987113,실제,,,,,,,,,,모름
+K27503858,스시야,일식,14,http://place.map.kakao.com/27503858,실제,,,,,,,,,,모름
+K3950957,써니즉석떡볶이,분식,14,http://place.map.kakao.com/3950957,실제,,,,,,,,,,모름
+K15859746,정우칼국수보쌈,한식,14,http://place.map.kakao.com/15859746,실제,,,,,,,,,,모름
+K1872751696,KBS 구내식당,구내식당,14,http://place.map.kakao.com/1872751696,실제,,,,,,,,,,모름
+K23610345,해바라기,돼지고기,14,http://place.map.kakao.com/23610345,실제,,,,,,,,,,모름
+K20620099,여의도돈가스백반 여의도본점,일식,14,http://place.map.kakao.com/20620099,실제,,,,,,,,,,모름
+K9022909,상상,일식,14,http://place.map.kakao.com/9022909,실제,,,,,,,,,,모름
+K21420277,고려삼계탕,닭·오리,14,http://place.map.kakao.com/21420277,실제,,,,,,,,,,모름
+K1626961634,에브리데이샐러드,샐러드,14,http://place.map.kakao.com/1626961634,실제,,,,,,,,,,모름
+K1648411006,동네전포차,술집,14,http://place.map.kakao.com/1648411006,실제,,,,,,,,,,모름
+K1347129198,여심식당,고기(구분 모름),14,http://place.map.kakao.com/1347129198,실제,,,,,,,,,,모름
+K18908364,5징어,횟집·해산물,14,http://place.map.kakao.com/18908364,실제,,,,,,,,,,모름
+K21333104,오마니,한식,14,http://place.map.kakao.com/21333104,실제,,,,,,,,,,모름
+K2144969566,도시해장국 여의도점 2호,한식,14,http://place.map.kakao.com/2144969566,실제,,,,,,,,,,모름
+K1699410291,원중쌀국수 여의도본점,아시아음식,14,http://place.map.kakao.com/1699410291,실제,,,,,,,,,,모름
+K1792120011,삼형제김밥 여의도점,분식,14,http://place.map.kakao.com/1792120011,실제,,,,,,,,,,모름
+K1201865457,설연향,중식,14,http://place.map.kakao.com/1201865457,실제,,,,,,,,,,모름
+K770679792,양간짬뽕,중식,14,http://place.map.kakao.com/770679792,실제,,,,,,,,,,모름
+K1936103240,서울뚝배기,한식,14,http://place.map.kakao.com/1936103240,실제,,,,,,,,,,모름
+K575725523,하루순대국밥,한식,14,http://place.map.kakao.com/575725523,실제,,,,,,,,,,모름
+K890828195,원조삼계탕,닭·오리,14,http://place.map.kakao.com/890828195,실제,,,,,,,,,,모름
+K1174229962,소담한식,한식,14,http://place.map.kakao.com/1174229962,실제,,,,,,,,,,모름
+K1963865549,돈도리촌 본점,돼지고기,14,http://place.map.kakao.com/1963865549,실제,,,,,,,,,,모름
+K1875035482,이든돈카츠,일식,14,http://place.map.kakao.com/1875035482,실제,,,,,,,,,,모름
+K1982251252,질할브로스 여의도점,양식,14,http://place.map.kakao.com/1982251252,실제,,,,,,,,,,모름
+K2096676929,말랑말랑,간식,14,http://place.map.kakao.com/2096676929,실제,,,,,,,,,,모름
+K16794493,장타이펑,중식,14,http://place.map.kakao.com/16794493,실제,,,,,,,,,,모름
+K178486136,후루룩 2호점,한식,14,http://place.map.kakao.com/178486136,실제,,,,,,,,,,모름
+K1720308923,오로지라멘 서여의도점,일식,14,http://place.map.kakao.com/1720308923,실제,,,,,,,,,,모름
+K13137301,생태명가 여의도점,횟집·해산물,14,http://place.map.kakao.com/13137301,실제,,,,,,,,,,모름
+K1871541774,BHC치킨 여의도한강공원2호점,치킨,14,http://place.map.kakao.com/1871541774,실제,,,,,,,,,,모름
+K368014024,미친박대리,술집,14,http://place.map.kakao.com/368014024,실제,,,,,,,,,,모름
+K10452348,빕스 대방점,패밀리레스토랑,14,http://place.map.kakao.com/10452348,실제,,,,,,,,,,모름
+K514296870,심경희라라랜드 여의도점,고기(구분 모름),14,http://place.map.kakao.com/514296870,실제,,,,,,,,,,모름
+K751072726,미적감각,술집,15,http://place.map.kakao.com/751072726,실제,,,,,,,,,,모름
+K9925261,자금성,중식,15,http://place.map.kakao.com/9925261,실제,,,,,,,,,,모름
+K1549058717,이자카야 나무 서여의도점,술집,15,http://place.map.kakao.com/1549058717,실제,,,,,,,,,,모름
+K1090650500,가락곰칼국수 여의도중앙보훈회관점,한식,15,http://place.map.kakao.com/1090650500,실제,,,,,,,,,,모름
+K160976068,판동면옥 여의도점,한식,15,http://place.map.kakao.com/160976068,실제,,,,,,,,,,모름
+K213445873,이가우육면,중식,15,http://place.map.kakao.com/213445873,실제,,,,,,,,,,모름
+K1580118987,고샌드 KBS점,패스트푸드,15,http://place.map.kakao.com/1580118987,실제,,,,,,,,,,모름
+K57850586,양평해장국 신길점,한식,15,http://place.map.kakao.com/57850586,실제,,,,,,,,,,모름
+K17908575,김밥천국 성애병원점,분식,15,http://place.map.kakao.com/17908575,실제,,,,,,,,,,모름
+K131427494,오치교반 여의도점,한식,15,http://place.map.kakao.com/131427494,실제,,,,,,,,,,모름
+K1250876793,햇날,간식,15,http://place.map.kakao.com/1250876793,실제,,,,,,,,,,모름
+K454971325,겐카츠,일식,15,http://place.map.kakao.com/454971325,실제,,,,,,,,,,모름
+K1794071154,후루룩분식,분식,15,http://place.map.kakao.com/1794071154,실제,,,,,,,,,,모름
+K151526454,후니드 태영건설점,구내식당,15,http://place.map.kakao.com/151526454,실제,,,,,,,,,,모름
+K163811035,육수당 신길성애병원점,한식,15,http://place.map.kakao.com/163811035,실제,,,,,,,,,,모름
+K10113893,한방대가삼계탕 여의도점,닭·오리,15,http://place.map.kakao.com/10113893,실제,,,,,,,,,,모름
+K339427078,맨지기치킨 서여의도본점,치킨,15,http://place.map.kakao.com/339427078,실제,,,,,,,,,,모름
+K870752979,팔당반점 서여의도점,중식,15,http://place.map.kakao.com/870752979,실제,,,,,,,,,,모름
+K1283240031,오한수우육면가 여의도광장점,중식,15,http://place.map.kakao.com/1283240031,실제,,,,,,,,,,모름
+K1335652903,반피쏭,아시아음식,15,http://place.map.kakao.com/1335652903,실제,,,,,,,,,,모름
+K13055623,피자스쿨 대방현대점,양식,15,http://place.map.kakao.com/13055623,실제,,,,,,,,,,모름
+K215535339,쿠사,일식,15,http://place.map.kakao.com/215535339,실제,,,,,,,,,,모름
+K876276548,카레와돈까스,일식,15,http://place.map.kakao.com/876276548,실제,,,,,,,,,,모름
+K1071939803,압구정샌드위치 여의도공원,패스트푸드,15,http://place.map.kakao.com/1071939803,실제,,,,,,,,,,모름
+K447177936,삼청당 서여의도점,분식,15,http://place.map.kakao.com/447177936,실제,,,,,,,,,,모름
+K2107816210,상도늘보리 신길점,횟집·해산물,15,http://place.map.kakao.com/2107816210,실제,,,,,,,,,,모름
+K1222665349,모던식탁,한식,15,http://place.map.kakao.com/1222665349,실제,,,,,,,,,,모름
+K295378809,아디에르 여의도점,간식,15,http://place.map.kakao.com/295378809,실제,,,,,,,,,,모름
+K229891493,샐러디 여의도공원점,샐러드,15,http://place.map.kakao.com/229891493,실제,,,,,,,,,,모름
+K1431962000,청학동흑염소,한식,15,http://place.map.kakao.com/1431962000,실제,,,,,,,,,,모름
+K378181254,브롱스 서여의도점,술집,15,http://place.map.kakao.com/378181254,실제,,,,,,,,,,모름
+K19182622,가마로강정 신길삼거리점,간식,15,http://place.map.kakao.com/19182622,실제,,,,,,,,,,모름
+K2113083030,갓잇 여의도점,양식,15,http://place.map.kakao.com/2113083030,실제,,,,,,,,,,모름
+K860887796,완차이면가,중식,15,http://place.map.kakao.com/860887796,실제,,,,,,,,,,모름
+K845548912,써브웨이 여의도국회의사당점,패스트푸드,15,http://place.map.kakao.com/845548912,실제,,,,,,,,,,모름
+K1477958539,오늘은즉떡 2호점,분식,15,http://place.map.kakao.com/1477958539,실제,,,,,,,,,,모름
+K1801774543,리나스 국회의사당역점,패스트푸드,15,http://place.map.kakao.com/1801774543,실제,,,,,,,,,,모름
+K8127552,피자헛 대방점,양식,15,http://place.map.kakao.com/8127552,실제,,,,,,,,,,모름
+K17651234,연희식당,한식,15,http://place.map.kakao.com/17651234,실제,,,,,,,,,,모름
+K13298476,초록애 대방점,고기(구분 모름),15,http://place.map.kakao.com/13298476,실제,,,,,,,,,,모름
+K12080391,또랑정육점식당,고기(구분 모름),15,http://place.map.kakao.com/12080391,실제,,,,,,,,,,모름
+K1959185116,싸다김밥 서여의도점,분식,15,http://place.map.kakao.com/1959185116,실제,,,,,,,,,,모름
+K1945392029,연타발 여의도점,소고기,15,http://place.map.kakao.com/1945392029,실제,,,,,,,,,,모름
+K1595806667,카돈마리,일식,15,http://place.map.kakao.com/1595806667,실제,,,,,,,,,,모름
+K757072704,아임샐러드,샐러드,15,http://place.map.kakao.com/757072704,실제,,,,,,,,,,모름
+K839405390,보승회관 여의도국회의사당점,한식,15,http://place.map.kakao.com/839405390,실제,,,,,,,,,,모름
+K17634209,이태원천상 서여의도점,일식,15,http://place.map.kakao.com/17634209,실제,,,,,,,,,,모름
+K1548809899,경복궁 서여의도점,한식,15,http://place.map.kakao.com/1548809899,실제,,,,,,,,,,모름
+K15835125,대부도바지락칼국수,한식,15,http://place.map.kakao.com/15835125,실제,,,,,,,,,,모름
+K17756482,본도시락 서여의도점,도시락,15,http://place.map.kakao.com/17756482,실제,,,,,,,,,,모름
+K1084332709,인생아구찜 노량진점,횟집·해산물,15,http://place.map.kakao.com/1084332709,실제,,,,,,,,,,모름
+K1957003294,경희면옥 여의도점,한식,15,http://place.map.kakao.com/1957003294,실제,,,,,,,,,,모름
+K1904311303,회동,횟집·해산물,15,http://place.map.kakao.com/1904311303,실제,,,,,,,,,,모름
